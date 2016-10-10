@@ -1,0 +1,90 @@
+/*
+ Cloud Animation
+
+*/
+body{
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+}
+#stage {
+  width: 100%;
+  height: 100%;
+  background-color:#ccece4;
+  position: fixed;
+  top:0;
+  display: none;
+}
+
+#grass {
+  height: 50px;
+  background-color: #96c249;
+  width: 100%;
+  display: block;
+  position: absolute;
+}
+
+#ground {
+  position:fixed;
+  bottom: 0;
+  width: 100%;
+  display: block;
+  height:20px;
+  background-color: #b8a669;
+}
+
+#sun {
+  top:10px;
+  position: absolute;
+  display: block;
+  left:10px;
+  z-index: 50;
+}
+
+.cloud {
+  position: absolute;
+  display: block;
+}
+
+#cloud1 {
+  top:50px;
+  z-index: 100;
+  left:-250px;
+}
+
+#cloud2 {
+  top:80px;
+  z-index: 200;
+  left:-340px;
+}
+
+#cloud3 {
+  top:30px;
+  z-index: 300;
+  right:-350px;
+}
+
+#cloud4 {
+  top:120px;
+  z-index: 350;
+  left:-350px;
+}
+
+#clock {
+  background-color:#fafafa;
+  width: 700px;
+  position: absolute;
+  z-index: 50;
+  display: block;
+  left:0;
+  right:0;
+  margin: 50px auto;
+  border: 4px solid #ababab;
+}
+
+#time {
+  font-size: 64px;
+  color:#ababab;
+  text-align: center;
+}
