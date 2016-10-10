@@ -1,0 +1,172 @@
+<?php
+
+ /**
+  * @file
+  * A Video embed field using the Field Types API.
+  */
+
+ /**
+  * Implements hook_field_info().
+  *
+  * Provides the description of the field.
+  */
+ function video_field_field_info() {
+  return array(
+    // We name our field as the associative name of the array.
+    'video_field_embed_url' => array(
+      'label' => t('URL embed field'),
+      'description' => t('Field to add an embed URL'),
+      'default_widget' => 'video_field_text',
+      'default_formatter' => 'video_field_simple_text',
+    ),
+  );
+ }
+
+ /**
+ * Implements hook_field_validate().
+ *
+ * This hook gives us a chance to validate content that's in our
+ * field. We're really only interested in the $items parameter, since
+ * it holds arrays representing content in the field we've defined.
+ * We want to verify that the items only contains an embed URL to a valid
+ * video or web source, so we make a request to verify the video.  If the request 
+ * returns anything else than 200 or 304 we add our own error notification 
+ * to the $errors parameter.
+ *
+ * @see field_example_field_widget_error()
+ */
+function video_field_field_validate($entity_type, $entity, $field, $instance, $langcode, $items, &$errors) {
+  foreach ($items as $delta => $item) {
+    if (!empty($item['embed_url'])) {
+    	//make sure http:// is on the front of the URL to check for a valid source
+        $result;
+        if(strpos($item['embed_url'], 'http:') !== false){
+           $result = drupal_http_request($item['embed_url']);
+        }else{
+           //add http: if it is not there
+           $url = 'http:' . $item['embed_url'];
+           $result = drupal_http_request($url);
+        }
+
+	if (in_array( $result->code, array(200, 304))) {
+	   // Use $result->data for the content
+	}
+	else {
+          //build an error array to show the user
+	  $errors[$field['field_name']][$langcode][$delta][] = array(
+             'error' => 'video_field_invalid',
+             'message' => t('The embed URL must return a valid source'),
+          );
+	}
+    }
+  }
+}
+
+/**
+ * Implements hook_field_widget_error().
+ *
+ * hook_field_widget_error() lets us figure out what to do with errors
+ * we might have generated in hook_field_validate(). Generally, we'll just
+ * call form_error().
+ *
+ * @see video_field_field_validate()
+ * @see form_error()
+ */
+function video_field_field_widget_error($element, $error, $form, &$form_state) {
+  switch ($error['error']) {
+    case 'video_field_invalid':
+      form_error($element, $error['message']);
+      break;
+  }
+}
+
+/**
+ * Implements hook_field_is_empty().
+ *
+ * hook_field_is_emtpy() is where Drupal asks us if this field is empty.
+ * Return TRUE if it does not contain data, FALSE if it does. This lets
+ * the form API flag an error when required fields are empty.
+ */
+ function video_field_field_is_empty($item, $field) {
+  return empty($item['embed_url']);
+ }
+
+ /**
+  * Implements hook_field_formatter_info().
+  *
+  *
+  * @see video_field_field_formatter_view()
+  */
+ function video_field_field_formatter_info() {
+  return array(
+    // This formatter just displays the embed code
+     'video_field_simple_text' => array(
+      'label' => t('Simple text field for an embed URL'),
+      'field types' => array('video_field_embed_url'),
+    ),
+  );
+ }
+
+/**
+ * Implements hook_field_formatter_view().
+ *
+ *
+ * @see video_field_field_formatter_info()
+ */
+ function video_field_field_formatter_view($entity_type, $entity, $field, $instance, $langcode, $items, $display) {
+  $element = array();
+
+  switch ($display['type']) {
+    // This formatter simply outputs the field as an iframe.
+    case 'video_field_simple_text':
+      foreach ($items as $delta => $item) {
+        $element[$delta] = array(
+          '#type' => 'html_tag',
+          '#tag' => 'div',
+          '#attributes' => array(
+            'class' => 'video-field-iframe',
+          ),
+          '#value' => t('<div class="field field-video-field"><iframe src="'. $item['embed_url'] . '" frameborder="0" allowfullscreen=""></iframe></div>'),
+        );
+      }
+      break;
+  }
+
+  return $element;
+}
+
+/**
+ * Implements hook_field_widget_info().
+ *
+ * @see video_field_field_widget_form()
+ */
+function video_field_field_widget_info() {
+  return array(
+    'video_field_text' => array(
+      'label' => t('Textfield URL Embed'),
+      'field types' => array('video_field_embed_url'),
+    ),
+  );
+}
+
+function video_field_field_widget_form(&$form, &$form_state, $field, $instance, $langcode, $items, $delta, $element) {
+  $value = isset($items[$delta]['embed_url']) ? $items[$delta]['embed_url'] : '';
+
+  $widget = $element;
+  $widget['#delta'] = $delta;
+
+  switch ($instance['widget']['type']) {
+
+    //define out embed field as a textfield and make sure the length is not more than 250 characters
+    case 'video_field_text':
+      $widget += array(
+        '#type' => 'textfield',
+        '#default_value' => $value,
+        '#size' => 60,
+        '#maxlength' => 250,
+      );
+      break;
+  }
+  $element['embed_url'] = $widget;
+  return $element;
+}

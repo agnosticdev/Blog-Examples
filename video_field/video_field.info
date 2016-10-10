@@ -1,0 +1,6 @@
+name = Video Field
+description = Provides a textfield to add a simple embed URL from host like Vimeo or YouTube.
+package = Fields
+core = 7.x
+php = 5.2
+files[] = video_field.module

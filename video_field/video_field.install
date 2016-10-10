@@ -1,0 +1,23 @@
+<?php
+/**
+ * @file
+ * Install, update, and uninstall functions for the field_example module.
+ */
+
+
+function video_field_field_schema($field) {
+  $columns = array(
+    'embed_url' => array(
+        'type' => 'varchar', 
+        'length' => 250, 
+        'not null' => FALSE
+     ),
+  );
+  $indexes = array(
+    'embed_url' => array('embed_url'),
+  );
+  return array(
+    'columns' => $columns,
+    'indexes' => $indexes,
+  );
+}
