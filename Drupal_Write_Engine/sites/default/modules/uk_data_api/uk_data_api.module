@@ -1,0 +1,144 @@
+<?php
+
+/**
+ * @file
+ * Module file for useless knowledge to post data the CMS
+ *
+ */
+
+ /**
+   *  Implements hook_menu()
+   */
+  function uk_data_api_menu(){
+
+    //POST USER LOGIN
+    $items['data/api/user/login/%/%'] = array(
+       'title' => 'Web Service',
+       'page callback' => 'drupal_get_form',
+       'page arguments' => array('uk_data_api_login_form', 4, 5),
+       'access callback' => TRUE,
+       'type' => MENU_NORMAL_ITEM
+    );
+
+    $items['data/api/user/test/%'] = array(
+       'title' => 'Web Service Test',
+       'page callback' => 'drupal_get_form',
+       'page arguments' => array('uk_data_api_test_form', 4),
+       'access callback' => TRUE,
+       'type' => MENU_NORMAL_ITEM
+    );
+
+    return $items;
+  }
+
+
+ /**
+   *  Implements hook_form()
+   *
+   *  @Usage:
+   *    - Logs a user in from a remote source
+   *
+   *  @Header:
+   *    appkey: Kvjqm6mPuchP3U7WE8KOlj7pwobQjKs8pFKW9Inh
+   */
+  function uk_data_api_login_form($form, &$form_state, $username, $password){
+
+   	 $info = libraries_load('Encryption');
+  	 
+	   if($info['loaded']) {
+
+      	if(!empty($username) && !empty($password)){
+          
+          $e = new UKEncryption;
+          //print json_encode(array('pass' =>   $password));
+          $password = str_replace('-', '/',$password);
+          $password = str_replace(' ', '+',$password);
+
+          $decrypted_password = $e->decrypt($password);
+          
+          if ($uid = user_authenticate($username, $decrypted_password)) {
+            global $user;
+            $user = user_load($uid);
+
+            $login_array = array ('name' => $username);
+            user_login_finalize($login_array);
+
+            $u = array(
+              'name' => $user->name,
+              'uid' => $user->uid,
+              'mail' => $user->mail,
+            );
+            print json_encode($u);
+            drupal_exit();
+
+          }else{
+            print json_encode(array('error' => 'could not log user in ' . $decrypted_password));
+            drupal_exit();
+          }
+      	}else{
+      	  header('HTTP/1.1 401 Not Authorized 2');
+          drupal_exit();
+      	}
+    }else{
+      header('HTTP/1.1 401 Not Authorized 3');
+      drupal_exit();
+    }
+  }
+
+  /**
+   *  Implements hook_form()
+   *
+   *  @Usage:
+   *    - Utility function to test string encryption/decryption
+   *
+   */
+  function uk_data_api_test_form($form, &$form_state, $string){
+    if(isset($string)){
+       $info = libraries_load('Encryption');
+     
+       if($info['loaded']) {
+          $e = new UKEncryption;
+          $value = $e->encrypt($string);
+          $value = str_replace('/', '-',$value);
+          print $value;;
+          drupal_exit();
+
+       }
+    }else{
+      print json_encode(array('error' => 'no string loaded'));
+      drupal_exit();
+    }
+  }
+
+ /*-------------------------------------------------------------------------------------------------------------------
+     Mongo Library Related Functions
+ -------------------------------------------------------------------------------------------------------------------*/
+
+ /**
+  * Implements hook_admin().
+  */
+  function uk_data_api_admin() {
+    $info = libraries_load('Encryption');
+    if (!$info['loaded']) {
+      form_set_error('', t('The Encryption Library could not be loaded.'));
+    }
+
+  }
+
+ /**
+  * Implements hook_libraries_info().
+  */
+ function uk_data_api_libraries_info() {
+   return array(
+    'Encryption' => array(
+      'name' => 'Encryption and decryption library',
+      'vendor url' => 'https://www.openssl.org/',
+      'download url' => 'https://www.openssl.org/source/',
+    ),
+    'files' => array(
+        'php' => array(
+          'Encryption.php',
+        ),
+     ),
+   );
+ }

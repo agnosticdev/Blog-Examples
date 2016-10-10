@@ -1,0 +1,5 @@
+name = Encryption
+machine name = Encryption
+description = Encryption library
+version = 1.0.1
+files[php][] = UKEncryption.php

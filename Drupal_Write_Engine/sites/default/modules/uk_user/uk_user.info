@@ -1,0 +1,9 @@
+name = Useless Knowledge User Extnesion
+description = This module exposes functions build on top of the user module
+package = Useless Knowledge Custom Modules
+core = 7.x
+php = 5.3
+files[] = uk_user.module
+
+
+dependencies[] = user

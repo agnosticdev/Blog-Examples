@@ -1,0 +1,5 @@
+name = php-opencloud
+machine name = php-opencloud
+description = Rackspace SDK for OpenStack APIs
+version = 1.7.2
+files[php][] = vendor/autoload.php

@@ -1,0 +1,704 @@
+<?php
+
+/**
+ * @file
+ * Module file for useless knowledge to export data to MongoDB
+ */
+
+
+ /*-------------------------------------------------------
+     Node and User Related Functions
+ ---------------------------------------------------------*/
+
+ /**
+  *  @Implements hook_cron()
+  **/
+ function uk_export_data_cron(){
+    
+ 	//$data = _uk_export_data_get_nodes();
+ 	
+
+ 	$info = libraries_load('mongoDB');
+ 
+ 	
+ 	//here we make sure that the mongo db library is loaded
+    if($info['loaded']) {
+
+    	//insert data
+    	//$m = new MongoGlobal;
+    	//$return = $m->insert_one_or_many_nodes($data);
+    }
+ }
+ 
+ /*-------------------------------------------------------------------------------------------------------------------
+     Node Related Functions
+ ---------------------------------------------------------------------------------------------------------------------*/
+ /**
+  *  @Implements hook_node_delete()
+  *  This takes place before the Drupal transaction
+  *  
+  **/
+ function uk_export_data_node_delete($node){
+ 	
+ 	//make sure we are only dealing with a challenge or question node type
+ 	if($node->type == 'question' || $node->type == 'challenge'){
+ 		$info = libraries_load('mongoDB');
+
+	 	//here we make sure that the mongo db library is loaded
+	    if($info['loaded']) {
+	 		try{
+	    		//update data in mongo
+		    	$m = new MongoGlobal('localhost', 'drupal_uk_mongo', 'drupalUser', '7JU9tODj73vAu0dW9E4O');
+		    	//$m = new MongoGlobal('localhost', 'drupal_uk_mongo', NULL, NULL);
+		    	$flag = $m->delete_existing_node($node->nid, $node->type);
+		    }catch(Exception $e){
+		    	 $line = __LINE__;
+		    	 $id = $node->id;
+		    	 $action = $e->getMessage();
+		    	 $message = '%type node failed to be removed from mongo %id.  Error %action.  Line %line';
+	    	 	 _uk_export_data_watchdog_log_error($node->type, $id, $message, $action, $line);
+	    	}
+	    	//log the successful action
+	    	_uk_export_data_watchdog_log_success($node->type, $node->nid, '%type node deleted successfully %id', __LINE__);
+	    }
+ 	}	
+ }
+
+ /**
+  *  @Implements hook_node_update()
+  *  
+  **/
+ function uk_export_data_node_update($node){
+ 	$node_data = array();
+
+ 	//make sure we are only dealing with a challenge or question node type
+ 	if($node->type == 'question' || $node->type == 'challenge'){
+ 		//the library data about mongo
+	 	$info = libraries_load('mongoDB');
+	 	
+	 	//here we make sure that the mongo db library is loaded
+	    if($info['loaded']) {
+	    	//map out the node data whether it is a question or a challenge
+	    	if($node->type == 'question')
+	    		$node_data = _uk_export_data_map_question_node($node);
+	    	else if($node->type == 'challenge')
+	    		$node_data = _uk_export_data_map_challenge_node($node);
+
+	    	//make sure we are dealing with a set of data that is not empty
+	    	if(count($node_data) > 0){
+		    	try{
+		    		//update data in mongo
+			        $m = new MongoGlobal('localhost', 'drupal_uk_mongo', 'drupalUser', '7JU9tODj73vAu0dW9E4O');
+			    	//$m = new MongoGlobal('localhost', 'drupal_uk_mongo', NULL, NULL);
+			    	$flag = $m->add_or_update_node($node_data, $node->nid, $node->type);
+			    }catch(Exception $e){
+			    	 $line = __LINE__;
+			    	 $id = $node->id;
+			    	 $action = $e->getMessage();
+			    	 $message = '%type node failed to update %id.  Error %action.  Line %line';
+		    	 	 _uk_export_data_watchdog_log_error($node->type, $id, $message, $action, $line);
+		    	}
+		    	//log the successful action
+		    	_uk_export_data_watchdog_log_success($node->type, $node->nid, '%type node updated successfully %id', __LINE__);
+		    }
+	    }
+	}
+ }
+
+ /**
+  *  @Implements hook_node_insert()
+  *  
+  **/
+ function uk_export_data_node_insert($node){
+ 	$node_data = array();
+
+ 	//make sure we are only dealing with a challenge or question node type
+ 	if($node->type == 'question' || $node->type == 'challenge'){
+ 		//the library data about mongo
+	 	$info = libraries_load('mongoDB');
+
+	 	//here we make sure that the mongo db library is loaded
+	    if($info['loaded']) {
+	    	//map out the node data whether it is a question or a challenge
+	    	if($node->type == 'question')
+	    		$node_data = _uk_export_data_map_question_node($node);
+	    	else if($node->type == 'challenge')
+	    		$node_data = _uk_export_data_map_challenge_node($node);
+
+	    	//make sure we are dealing with a set of data that is not empty
+	    	if(count($node_data) > 0){
+		    	//insert or updates node data
+		    	try{
+		    		//insert new data into mongo
+			    	$m = new MongoGlobal('localhost', 'drupal_uk_mongo', 'drupalUser', '7JU9tODj73vAu0dW9E4O');
+			    	//$m = new MongoGlobal('localhost', 'drupal_uk_mongo', NULL, NULL);
+			    	$flag = $m->add_or_update_node($node_data, $node->nid, $node->type);
+			    }catch(Exception $e){
+			    	 $line = __LINE__;
+			    	 $id = $node->id;
+			    	 $action = $e->getMessage();
+			    	 $message = '%type node failed to insert %id.  Error %action.  Line %line';
+		    	 	 _uk_export_data_watchdog_log_error($node->type, $id, $message, $action, $line);
+		    	}
+		    	//log the successful action
+		    	_uk_export_data_watchdog_log_success($node->type, $node->nid, '%type node inserted successfully %id', __LINE__);
+	   		}
+	   	}
+    }
+ }
+ 
+ /**
+  *  This function maps out one question node being sent to mongo
+  *
+  **/
+ function _uk_export_data_map_question_node($node){
+
+
+ 	$answers = array();
+    $category = taxonomy_term_load($node->field_trivia_category[LANGUAGE_NONE][0]['tid']);
+
+	$items = field_get_items('node', $node, 'field_answers');
+	$i = 0;
+	foreach ($items as $item) {
+	 $fc = field_collection_field_get_entity($item);
+	 $bool = $fc->field_correct_answer[LANGUAGE_NONE][0]['value'];
+	 if($bool){
+	 	$bool = 'yes';
+	 }else{
+	 	$bool = 'no';
+	 }
+	 $answers[$i . '--' . $bool] = $fc->field_answers_text[LANGUAGE_NONE][0]['value'];
+	 $i++;
+	}
+
+ 	//map the node
+	$data = array(
+		'uid' => $node->uid,
+		'title' => $node->title,
+		'type' => $node->type,
+		'nid' => $node->nid,
+		'category' => str_replace(' ', '-', strtolower($category->name)),
+		'question' => $node->field_question[LANGUAGE_NONE][0]['value'],
+		'points' => $node->field_points_awarded[LANGUAGE_NONE][0]['value'],
+		'answers' => $answers,
+	);
+
+	return $data;
+ }
+
+ /**
+  *  This function maps out one challenge node being sent to mongo
+  *
+  **/
+ function _uk_export_data_map_challenge_node($node){
+ 	
+    //get the object of the challenging user
+ 	$challenging_user = user_load($node->field_user_challenging[LANGUAGE_NONE][0]['uid']);
+ 	
+
+ 	//get the object of the user being challenged
+ 	$user_being_challenged = user_load($node->field_user_being_challenged[LANGUAGE_NONE][0]['uid']);
+ 
+
+ 	//get the category name of the challenge
+ 	$challenge_category = taxonomy_term_load($node->field_challenge_category[LANGUAGE_NONE][0]['tid'])->name;
+
+ 	//check for the challenge date
+ 	$challenge_closed = '';
+ 	if(isset($node->field_challenge_closed[LANGUAGE_NONE][0]['value'])){
+ 		$challenge_closed = gmdate("Y-m-d g:i a", $node->field_challenge_closed[LANGUAGE_NONE][0]['value']);
+ 	}
+
+ 	$challenge_complete = FALSE;
+ 	if(isset($node->field_challenge_completed[LANGUAGE_NONE][0]['value']) && $node->field_challenge_completed[LANGUAGE_NONE][0]['value']){
+ 		$challenge_complete = TRUE;
+ 	}
+
+
+ 	//map the data out for both users in the challenge and for the actual node
+ 	$data = array(
+ 	  'nid' => $node->nid,
+ 	  'title' => $node->title,
+ 	  'type' => $node->type,
+      'challenging_user' => _uk_export_data_map_user_data($challenging_user, FALSE),
+      'user_being_challenged' => _uk_export_data_map_user_data($user_being_challenged, FALSE),
+      'score' => $node->field_score_to_beat[LANGUAGE_NONE][0]['value'],
+      'category' => str_replace(' ', '-', strtolower($challenge_category)),
+      'challenge_complete' => $challenge_complete,
+      'challege_created' => gmdate("Y-m-d g:i a", $node->created - 6 * 3600),
+      'challenge_closed' => $challenge_closed,  
+ 	);
+
+ 	return $data;
+ }
+
+ /**
+  *  This function generates an array of node data to be inserted into mongo
+  *  This data represents all of the nodes in the system
+  **/
+ function _uk_export_data_get_nodes(){
+
+ 	$nodes = array();
+ 	$query = db_select('node', 'n');
+ 	$query->fields('n', array('nid'));
+ 	$query->condition('n.status', TRUE, '=');
+    $result = $query->execute();
+    foreach ($result as $key => $value) {
+    	$node = node_load($value->nid);
+
+    	//map the node and pull all the data together
+    	$nodes[] = _uk_export_data_map_node($node);
+    }
+    return $nodes;
+ }
+
+ /*-------------------------------------------------------------------------------------------------------------------
+     User Related Functions
+ -------------------------------------------------------------------------------------------------------------------*/
+
+ /**
+  *  @Implements hook_user_presave()
+  *  This function is detects a new user being created
+  *  
+  **/
+ function uk_export_data_user_insert(&$edit, $account, $category){
+
+ 	//make sure we are dealing with a brand new user
+ 	if($edit['is_new']){
+ 		//the user data array
+	 	$user_data = array();
+
+	 	//the mongoDB libraries reference
+	 	$info = libraries_load('mongoDB'); 
+	 	
+	 	//here we make sure that the mongo db library is loaded
+	    if($info['loaded']) {
+	    	//send the data to be updated
+    		uk_export_data_add_or_update_user($edit);
+	    }
+ 	}
+ }
+
+
+ /**
+  *  @Implements hook_node_update()
+  *  This function is detects a user being updated
+  *  
+  **/
+ function uk_export_data_user_update(&$edit, $account, $category){
+
+ 	//the user data array
+ 	$user_data = array();
+
+ 	//the mongoDB libraries reference
+ 	$info = libraries_load('mongoDB'); 
+ 		
+ 	
+ 	//here we make sure that the mongo db library is loaded
+    if($info['loaded']) {
+    	//send the data to be updated
+    	uk_export_data_add_or_update_user($edit);
+    }
+   
+ }
+
+
+ function uk_export_data_add_or_update_user($edit){
+
+ 	$created = '';
+ 	$uid = '';
+
+ 	//## created date
+ 	if(isset($edit['created'])){
+ 		$created = $edit['created'];
+ 	}else if(isset($edit['original']->created)){
+ 		$created = $edit['original']->created;
+ 	}
+
+ 	//## user id, whether it is coming from the original object or the edit array
+ 	if(isset($edit['uid'])){
+ 		$uid = $edit['uid'];
+ 	}else if(isset($edit['original']->uid)){
+ 		$uid = $edit['original']->uid;
+ 	}
+
+ 	//## get the facebook value
+    $facebook = FALSE; 
+ 	if(isset($edit['field_facebook'][LANGUAGE_NONE][0]['value']) && $edit['field_facebook'][LANGUAGE_NONE][0]['value']){
+ 		//the edit array
+ 		$facebook = TRUE;
+
+ 	}else if(isset($edit['original']->field_facebook[LANGUAGE_NONE][0]['value']) && $edit['original']->field_facebook[LANGUAGE_NONE][0]['value']){
+ 		//the original object inside the edit array
+ 		$facebook = TRUE;
+ 	}
+
+ 	//## get the twitter value
+ 	$twitter = FALSE;
+ 	if(isset($edit['field_twitter'][LANGUAGE_NONE][0]['value']) && $edit['field_twitter'][LANGUAGE_NONE][0]['value']){
+ 		//the edit array
+ 		$twitter = TRUE;
+
+ 	}else if(isset($edit['original']->field_twitter[LANGUAGE_NONE][0]['value']) && $edit['original']->field_twitter[LANGUAGE_NONE][0]['value']){
+ 		//the original object inside the edit array
+ 		$twitter = TRUE;
+ 	}
+
+ 	//## the default image
+	$user_image = 'http://e2f345636b8846de839a-542d224f0a5f11da1baccab85473c6d6.r98.cf2.rackcdn.com/styles/square_thumbnail/rcf/default_images/default-user.png';
+
+	//try and grab an updated or existing image
+	if(isset($edit['field_user_image'][LANGUAGE_NONE][0]['uri'])){
+		$user_image = file_create_url($edit['field_user_image'][LANGUAGE_NONE][0]['uri']);
+	}else if(isset($edit['original']->field_user_image[LANGUAGE_NONE][0]['uri'])){
+		$user_image = file_create_url($edit['original']->field_user_image[LANGUAGE_NONE][0]['uri']);
+	}
+
+	//## get the external session
+	$external_session = NULL;
+	if(isset($edit['field_external_session'][LANGUAGE_NONE][0]['value'])){
+		$external_session = $edit['field_external_session'][LANGUAGE_NONE][0]['value'];
+	}else if(isset($edit['original']->field_external_session[LANGUAGE_NONE][0]['value'])){
+		$external_session = $edit['original']->field_external_session[LANGUAGE_NONE][0]['value'];
+	}
+
+	//## get the badge for the user
+	$badge = isset($edit['field_user_badge'][LANGUAGE_NONE][0]['tid']) ? taxonomy_term_load($edit['field_user_badge'][LANGUAGE_NONE][0]['tid'])->name : 'Novice';
+
+	
+	//the user data map, this will be the array that is sent to mongo to be updated
+	//this user map does not use the default map because it is not an object
+	$user_data = array(
+		'local' => array(
+          'email' => isset($edit['mail']) ? $edit['mail'] : $edit['original']->mail,
+          'key' => $external_session,
+		),
+ 		'uid' => $uid,
+ 		'name' => isset($edit['name']) ? $edit['name'] : $edit['original']->name,
+ 		'created' => gmdate("Y-m-d g:i a", $created - 6 * 3600),
+ 		'member_for' => _uk_export_data_get_date_difference($created),
+ 		'status' => isset($edit['status']) ? $edit['status'] : $edit['original']->status,
+ 		'facebook' => $facebook,
+ 		'twitter' => $twitter,
+ 		'image' => $user_image,
+ 		'badge' => $badge,
+ 		'score' => isset($edit['field_user_score'][LANGUAGE_NONE][0]['value']) ? $edit['field_user_score'][LANGUAGE_NONE][0]['value'] : 0,
+ 	);
+	
+
+	//make sure we are dealing with a set of data that is not empty
+	if(count($user_data) > 0){
+    	//insert or updates user data
+		try{
+			$m = new MongoGlobal('localhost', 'drupal_uk_mongo', 'drupalUser', '7JU9tODj73vAu0dW9E4O');
+	    	//$m = new MongoGlobal('localhost', 'drupal_uk_mongo', NULL, NULL);
+	    	$flag = $m->add_or_update_user($user_data, $uid);
+	    }catch(Exception $e){
+	    	$line = __LINE__;
+	    	$id = $uid;
+	    	$action = $e->getMessage();
+	    	$message = 'User failed to update %id.  Error %action.  Line %line';
+    	 	_uk_export_data_watchdog_log_error('user', $id, $message, $action, $line);
+    	 	//make sure we do not go on to update the leaderboard with bad data
+    	 	return;
+    	}
+    	//log the successful action
+    	_uk_export_data_watchdog_log_success('user', $uid, 'User updated successfully %id', __LINE__);
+
+    	//the newly saved user affects the user data and the leaderboard should be considered
+    	//@TODO look into not generating the leaderboard everytime a user is saved
+    	//generate the leaderboard with newly created data
+    	uk_export_data_generate_leaderboard();
+    }
+
+ }
+
+
+
+ 
+ /**
+  * This function generates the leaderboard
+  **/
+ function uk_export_data_generate_leaderboard(){
+
+ 	//the array to hold the leaderboard data
+ 	$leaderboard_data = array();
+ 	//the query to generate a descending order of users ordered by score
+ 	$query = db_select('users', 'u');
+ 	$query->join('field_data_field_user_score', 's', 'u.uid = s.entity_id');
+ 	$query->fields('u', array('uid'));
+ 	$query->condition('u.status', TRUE, '=');
+ 	$query->condition('s.bundle', 'user', '=');
+ 	$query->orderBy('s.field_user_score_value', 'DESC');
+ 	$query->range(0, 10);
+    $result = $query->execute();
+
+    
+    //loop through the results and create a user list
+    foreach ($result as $key => $value) {
+
+    	if($value->uid){
+    		//load the user object
+	    	$u = user_load($value->uid);
+
+		    //if the status true and the user is active
+		    if($u->status){
+		    	//the user data map, this will be the array that is sent to mongo to be updated
+		    	$leaderboard_data[] = _uk_export_data_map_user_data($u, TRUE);
+		    }
+	    }
+
+    }
+    
+    if(count($leaderboard_data) > 0){ 
+    	//assemble the new leaderboard data
+   	    $leaderboard = array(
+   	    	'title' => 'Leaderboard',
+   	    	'created' => date("Y-m-d g:i a"),
+   	    	'leaderboard_data' =>  $leaderboard_data
+   	    );
+   	    try{
+	    	$m = new MongoGlobal('localhost', 'drupal_uk_mongo', 'drupalUser', '7JU9tODj73vAu0dW9E4O');
+	    	//$m = new MongoGlobal('localhost', 'drupal_uk_mongo', NULL, NULL);
+	    	$flag = $m->add_or_update_leaderboard($leaderboard);
+	    }catch(Exception $e){
+	    	$line = __LINE__;
+	    	$id = 'leaderboard';
+	    	$action = $e->getMessage();
+	    	$message = 'Leaderboard failed to update %id.  Error %action.  Line %line';
+    	 	_uk_export_data_watchdog_log_error('user', $id, $message, $action, $line);
+    	 	//make sure we do not go on to update the leaderboard with bad data
+    	 	return;
+    	}
+    	//log the successful action
+    	_uk_export_data_watchdog_log_success('leaderboard', 'no id', 'Leaderboard updated successfully %id', __LINE__);
+   	}
+ }
+
+ /**
+   *  Utility function that maps out the user data that is sent to mongo
+   */
+ function _uk_export_data_map_user_data($user_object, $password_flag){
+
+ 	$facebook = FALSE;
+ 	if($user_object->field_facebook[LANGUAGE_NONE][0]['value']){
+ 		$facebook = TRUE;
+ 	}
+
+ 	$twitter = FALSE;
+ 	if($user_object->field_twitter[LANGUAGE_NONE][0]['value']){
+ 		$twitter = TRUE;
+ 	}
+
+ 	$status = FALSE;
+ 	if($user_object->status){
+ 		$status = TRUE;
+ 	}
+
+ 	//## get the external session
+	$external_session = NULL;
+	if(isset($user_object->field_external_session[LANGUAGE_NONE][0]['value'])){
+		$external_session = $user_object->field_external_session[LANGUAGE_NONE][0]['value'];
+	}
+
+
+ 	//the user returned array
+ 	$user_data = array(
+ 		'local' => array(
+          'email' => $user_object->mail,
+          'key' => $external_session,
+		),
+ 		'uid' => $user_object->uid,
+ 		'name' => $user_object->name,
+ 		'created' => gmdate("Y-m-d g:i a", $user_object->created - 6 * 3600),
+ 		'member_for' => _uk_export_data_get_date_difference($user_object->created),
+ 		'status' => $status,
+ 		'facebook' => $facebook,
+ 		'twitter' => $twitter,
+ 		'image' => _uk_export_data_get_user_image($user_object),
+ 		'badge' => _uk_export_data_get_user_badge($user_object),
+ 		'score' => _uk_export_data_get_user_score($user_object),
+ 	);
+
+ 	//if we do not need the password in this data map, then remove it
+ 	if($password_flag){
+ 		unset($user_data['local']);
+ 	}
+
+ 	return $user_data;
+ }
+
+
+
+ /*-------------------------------------------------------------------------------------------------------------------
+     Utility functions
+ -------------------------------------------------------------------------------------------------------------------*/
+ /**
+   *  Utility function to that calculates how long someone has been a member
+   */
+  function _uk_export_data_get_date_difference($date1){
+  	
+    //this is the date the entity was created
+    $date1 = gmdate("Y-m-d", $date1);
+
+    //this is right nows date
+    $date2 = date("Y-m-d");
+
+    //equate the numeric difference between two dates
+    $diff = abs(strtotime($date2) - strtotime($date1));
+  
+    //calculate what the numeric difference equals in terms of months, days, and years
+    $years = floor($diff / (365*60*60*24));
+    $months = floor(($diff - ($years * 365*60*60*24)) / (30*60*60*24));
+    $days = floor(($diff - $years * 365*60*60*24 - $months*30*60*60*24) / (60*60*24));
+    $member_for = "";
+    $mon = ""; $day = ""; $year = "";
+
+
+    //match up where the dates fall and add the correct verbage
+    if($years > 0 && $months > 0 && $days > 0){
+      if($years > 1)
+        $year = $years . " years ";
+      else
+        $year = $years . " year ";
+
+      if($months > 1)
+        $mon = $months . " months, ";
+      else
+        $mon = $months . " month, ";
+
+      if($days > 1)
+        $day = $days . " days";
+      else
+        $day = $days . " day";
+
+      $member_for = $year . $mon . $day;
+    }else if($years > 0 && $months == 0 && $days == 0){
+      
+      $member_for = $years . " years ";
+
+    }else if($years > 0 && $months > 0 && $days == 0){
+      $member_for = $years . " years, " . $months . " months";
+
+    }else if($years > 0 && $months == 0 && $days > 0){
+      $member_for = $years . " years, " . $days . " days";
+
+    }else if($months > 0 && $days > 0){
+      if($months > 1)
+        $mon = $months . " months, ";
+      else
+        $mon = $months . " month, ";
+
+      if($days > 1)
+        $day = $days . " days";
+      else
+        $day = $days . " day";
+
+      $member_for = $mon . $day;
+
+    }else if($months > 0 && $days == 0){
+       $member_for = $months . " months ";
+
+    }else if($days > 0){
+      if($days > 1)
+        $member_for = $days . " days";
+      else
+        $member_for = $days . " day";
+    }else{
+      $member_for = 'Less than a day';
+    }
+	
+    return $member_for;
+   
+  }
+
+  /**
+   *  Utility function to get the badge of the user
+   */
+  function _uk_export_data_get_user_badge($user){
+  	//get the badge for the user
+	$badge = isset($user->field_user_badge[LANGUAGE_NONE][0]['tid']) ? taxonomy_term_load($user->field_user_badge[LANGUAGE_NONE][0]['tid'])->name : 'Novice';
+	return $badge;
+  }
+
+  /**
+   *  Utility function to get the image of the user
+   */
+  function _uk_export_data_get_user_score($user){
+  	$score = isset($user->field_user_score[LANGUAGE_NONE][0]['value']) ? $user->field_user_score[LANGUAGE_NONE][0]['value'] : 0;
+  	return $score;
+  }
+
+  /**
+   *  Utility function to get the image of the user
+   */
+  function _uk_export_data_get_user_image($user){
+  	$user_image = 'http://e2f345636b8846de839a-542d224f0a5f11da1baccab85473c6d6.r98.cf2.rackcdn.com/styles/square_thumbnail/rcf/default_images/default-user.png';
+
+  	if(isset($user->field_user_image[LANGUAGE_NONE][0]['uri'])){
+      $user_image = file_create_url($user->field_user_image[LANGUAGE_NONE][0]['uri']);
+    }
+    return $user_image;
+  }
+
+  /**
+   * @Utility Function to Return A Random String
+   *
+   **/
+  function _uk_export_data_generate_random_string($length) {
+    $characters = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
+    $randomString = '';
+    for ($i = 0; $i < $length; $i++) {
+        $randomString .= $characters[rand(0, strlen($characters) - 1)];
+    }
+    return $randomString;
+  }
+
+ /*-------------------------------------------------------------------------------------------------------------------
+     Watchdog utility functions
+ -------------------------------------------------------------------------------------------------------------------*/
+ /**
+  *  Function that specifically logs errors
+  **/
+  function _uk_export_data_watchdog_log_error($type, $id, $message, $action, $line){
+ 	watchdog('uk_export_data', $message,  array('%type' => $type, '%id' => $nid,  '%action' => $action, '%line' => $line),  WATCHDOG_ERROR,  $link = NULL);
+  }
+
+ /**
+  *  Function that specifically logs successful actions
+  **/
+  function _uk_export_data_watchdog_log_success($type, $id, $message, $line){
+ 	watchdog('uk_export_data', $message,  array('%type' => $type, '%id' => $id, '%line' => $line),  WATCHDOG_INFO,  $link = NULL);
+  }
+ /*-------------------------------------------------------------------------------------------------------------------
+     Mongo Library Related Functions
+ -------------------------------------------------------------------------------------------------------------------*/
+
+ /**
+  * Implements hook_admin().
+  */
+ function uk_export_data_admin() {
+   $info = libraries_load('mongoDB');
+   if (!$info['loaded']) {
+     form_set_error('', t('The Mongo DB Library could not be loaded.'));
+   }
+
+ }
+
+ /**
+ * Implements hook_libraries_info().
+ */
+function uk_export_data_libraries_info() {
+  return array(
+    'mongoDB' => array(
+      'name' => 'Mongo DB CRUD wrapper',
+      'vendor url' => 'http://mongodb.org/',
+      'download url' => 'http://www.mongodb.org/downloads',
+    ),
+    'files' => array(
+        'php' => array(
+          'MongoGlobal.php',
+        ),
+     ),
+  );
+}

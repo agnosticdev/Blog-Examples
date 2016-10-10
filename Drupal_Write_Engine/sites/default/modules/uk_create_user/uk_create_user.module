@@ -1,0 +1,43 @@
+<?php
+
+/**
+ * @file
+ * Module file for knowledge base create user
+ */
+
+ /**
+  *  @Implements hook_user_presave()
+  **/
+ function uk_create_user_user_presave(&$edit, $account, $category){
+  //check to see if the badge field is empty
+  if(empty($edit['field_user_badge'][LANGUAGE_NONE])){
+    //attempty to set the tid for 11 on the newly created user
+    //this tid is for the default badge of novice
+    $edit['field_user_badge'][LANGUAGE_NONE][0]['tid'] = 11;
+  }
+
+  //if the score is nothing, set the badge based upon the score
+  if(!empty($edit['field_user_score'][LANGUAGE_NONE][0])){
+    $score = (int)$edit['field_user_score'][LANGUAGE_NONE][0]['value'];
+    if($score > 999){
+      //sets the badge as master yoda
+      $edit['field_user_badge'][LANGUAGE_NONE][0]['tid'] = 14;
+    }else if($score > 499 && $score < 999){
+      //sets the badge as guru
+      $edit['field_user_badge'][LANGUAGE_NONE][0]['tid'] = 13;
+    }else if($score > 99 && $score < 499){
+      //sets the badge as smarty pants
+      $edit['field_user_badge'][LANGUAGE_NONE][0]['tid'] = 12;
+    }else{
+      //sets the badge as novice
+      $edit['field_user_badge'][LANGUAGE_NONE][0]['tid'] = 11;
+    }
+  }
+ }
+
+ /*** Ensure that a regular user cannot edit their score or badge ***/
+ function uk_create_user_form_alter(&$form, &$form_state, $form_id){
+   //@TODO
+
+ }
+

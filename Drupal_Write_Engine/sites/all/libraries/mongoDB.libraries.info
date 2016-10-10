@@ -1,0 +1,5 @@
+name = MongoDB
+machine name = mongoDB
+description = Mongo DB CRUD wrapper
+version = 2.6.5
+files[php][] = MongoGlobal.php

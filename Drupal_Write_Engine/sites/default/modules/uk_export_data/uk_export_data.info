@@ -1,0 +1,9 @@
+name = Useless Knowledge Export Data
+description = This module exports data to MongoDB when the cron runs
+package = Useless Knowledge Custom Modules
+core = 7.x
+php = 5.3
+files[] = uk_create_user.module
+
+
+dependencies[] = libraries (2.x)

@@ -1,0 +1,9 @@
+name = Useless Knowledge Data API
+description = This module exposes write functions
+package = Useless Knowledge Custom Modules
+core = 7.x
+php = 5.3
+files[] = uk_data_api.module
+
+
+dependencies[] = user

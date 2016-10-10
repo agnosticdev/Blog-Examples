@@ -1,0 +1,6 @@
+name = Useless Knowledge Create User
+description = This module sets automatic values for newly created users
+package = Useless Knowledge Custom Modules
+core = 7.x
+php = 5.3
+files[] = uk_create_user.module
