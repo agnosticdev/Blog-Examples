@@ -1,0 +1,205 @@
+/* Styles for Trivia Game Animation */
+
+body{
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  font-family: "Roboto Mono", Roboto, sans-serif;
+  font-weight: 400;
+}
+
+/* Stage Structure Styles */
+
+#stage {
+  width: 100%;
+  height: 100%;
+  border: 10px solid #5a7785;
+  background-color:#90a4ae;
+  position: fixed;
+  top:0;
+}
+
+#container {
+  padding: 30px;
+}
+
+#gameContainer h1 {
+  text-align: center;
+  font-size: 64px;
+  padding: 20px 0;
+  color: #fff;
+}
+
+#gameHeader {
+  display: none;
+  padding: 0 20px;
+}
+
+/* Core Game Element Styles */
+#gameChoices {
+  display: none;
+}
+
+.container {
+  padding:20px;
+}
+
+#gameChoices button {
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+  line-height: 32px;
+  border-radius: 2px;
+  font-size: 36px;
+  width: 100%;
+  outline:none;
+  border:none;
+  background-color: #ff5722;
+  height: 100%;
+  display: block;
+  color: #fff;
+  cursor: pointer;
+  text-align: center;
+  min-height: 112px;
+  padding: 12px;
+  font-family: "Roboto Mono", Roboto, sans-serif;
+  font-weight: 400;
+}
+
+#gameChoices button:hover {
+  box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.26), 0 4px 15px 0 rgba(0, 0, 0, 0.26);
+  background-color:#ff6a3c;
+}
+
+.left {
+  float: left;
+  display: block;
+}
+
+.questions {
+  width: 68%;
+  background-color: #000;
+  float:left;
+  display: block;
+  margin-right: 2%;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+}
+
+.questions span {
+  color: #ff5722;
+  font-size: 36px;
+}
+
+.timer {
+  width: 15%;
+  background-color: #f4b400;
+  float:left;
+  display: block;
+  margin-right: 2%;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+  font-size: 26px;
+  color: #fff;
+}
+
+.score {
+  width: 13%;
+  background-color: #fff;
+  float:left;
+  display: block;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+  color: #ff5722;
+  font-size: 26px;
+}
+
+.half {width: 50%;}
+
+#startButton {
+  background-color: #f4b400;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+  line-height: 32px;
+  border-radius: 2px;
+  border:none;
+  outline: none;
+  width: 100%;
+  color:#fff;
+  font-size: 48px;
+  padding: 30px 0;
+  cursor: pointer;
+  font-family: "Roboto Mono", Roboto, sans-serif;
+  font-weight: 400;
+}
+
+#startButton:hover {
+  box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.26), 0 4px 15px 0 rgba(0, 0, 0, 0.26);
+  background-color: #ffc728;
+}
+
+/* Modal Window Styles */
+#modal_window{
+  position: absolute;
+  top:190px;
+  background-color: #000;
+  width:340px;
+  z-index: 2000;
+  height: auto;
+  display: none;
+  box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.26);
+}
+
+.modal_message{
+  padding:10px 20px;
+}
+
+.modal_message p {
+  color:#fff;
+}
+
+.modal_message h2 {
+  color: #fff;
+}
+
+.modal_message span {
+  float: right;
+}
+
+.modal_message div button {
+  margin-bottom: 20px;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+  line-height: 16px;
+  border-radius: 2px;
+  font-size: 18px;
+  width: 130px;
+  outline: none;
+  border: none;
+  background-color: #ff5722;
+  display: block;
+  color: #fff;
+  cursor: pointer;
+  text-align: center;
+  min-height: 44px;
+  padding: 6px;
+  font-family: "Roboto Mono", Roboto, sans-serif;
+  font-weight: 400;
+}
+
+.modal_message div button:hover {
+  box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.26), 0 4px 15px 0 rgba(0, 0, 0, 0.26);
+  background-color: #ff6a3c;
+}
+
+.modal_message div button.twitter {
+  background-color: #55acee;
+  margin-right: 38px;
+}
+
+.modal_message div button.twitter:hover {
+  box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.26), 0 4px 15px 0 rgba(0, 0, 0, 0.26);
+  background-color: #83c3f3
+}
+
+.modal_message span.correct {
+  color:#4caf50;
+}
+
+.modal_message span.incorrect {
+  color:#f44336;
+}
