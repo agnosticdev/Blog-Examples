@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="11201" systemVersion="16B2555" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11161"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="MVVM_Sample" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
+                        <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <segmentedControl opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" selectedSegmentIndex="0" translatesAutoresizingMaskIntoConstraints="NO" id="mMu-ZN-Dyj">
+                                <segments>
+                                    <segment title="Alpha"/>
+                                    <segment title="Date"/>
+                                </segments>
+                                <color key="tintColor" red="0.18431372549019609" green="0.1764705882352941" blue="0.1764705882352941" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <connections>
+                                    <action selector="triggerSegmentationSwitchWithSender:" destination="BYZ-38-t0r" eventType="valueChanged" id="bqD-hJ-DZ2"/>
+                                </connections>
+                            </segmentedControl>
+                            <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="52" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="Q1K-II-z2p" userLabel="ArticleTable">
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <prototypes>
+                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="0.0" reuseIdentifier="ArticleCell" rowHeight="52" id="Lt3-96-sdg" userLabel="ArticleCell" customClass="ArticleCellTableViewCell" customModule="MVVM_Sample" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="28" width="375" height="52"/>
+                                        <autoresizingMask key="autoresizingMask"/>
+                                        <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="Lt3-96-sdg" id="0EI-7N-eyd">
+                                            <frame key="frameInset" width="375" height="51.5"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                            <subviews>
+                                                <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="fRX-tA-fT0" userLabel="ArticleImage">
+                                                    <frame key="frameInset" width="52" height="52"/>
+                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                </imageView>
+                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Title" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Uww-Qo-btM" userLabel="ArticleTitle">
+                                                    <frame key="frameInset" minX="60" minY="3" width="245" height="21"/>
+                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                    <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="18"/>
+                                                    <nil key="textColor"/>
+                                                    <nil key="highlightedColor"/>
+                                                </label>
+                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Date Submitted" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="EEg-jV-3yo" userLabel="ArticleDate">
+                                                    <frame key="frameInset" minX="60" minY="26" width="245" height="21"/>
+                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                    <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="14"/>
+                                                    <nil key="textColor"/>
+                                                    <nil key="highlightedColor"/>
+                                                </label>
+                                            </subviews>
+                                        </tableViewCellContentView>
+                                        <inset key="separatorInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
+                                        <connections>
+                                            <outlet property="articleDate" destination="EEg-jV-3yo" id="lK1-q5-we3"/>
+                                            <outlet property="articleImage" destination="fRX-tA-fT0" id="Ylo-kW-k2w"/>
+                                            <outlet property="articleTitle" destination="Uww-Qo-btM" id="cBM-z3-lpC"/>
+                                        </connections>
+                                    </tableViewCell>
+                                </prototypes>
+                                <connections>
+                                    <outlet property="dataSource" destination="BYZ-38-t0r" id="LZX-qF-gvt"/>
+                                    <outlet property="delegate" destination="BYZ-38-t0r" id="Opb-WN-hZl"/>
+                                </connections>
+                            </tableView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Latest Articles" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="DWp-KT-Xas">
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="268" id="hRQ-w8-dfx"/>
+                                    <constraint firstAttribute="height" constant="26" id="oYv-rI-DOx"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="22"/>
+                                <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" red="0.93725490196078431" green="0.93725490196078431" blue="0.93725490196078431" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="DWp-KT-Xas" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="18" id="Dbc-ek-JLG"/>
+                            <constraint firstItem="mMu-ZN-Dyj" firstAttribute="trailing" secondItem="DWp-KT-Xas" secondAttribute="trailing" id="Dei-h0-tjQ"/>
+                            <constraint firstItem="mMu-ZN-Dyj" firstAttribute="centerX" secondItem="Q1K-II-z2p" secondAttribute="centerX" id="HIT-8j-BAN"/>
+                            <constraint firstItem="Q1K-II-z2p" firstAttribute="top" secondItem="mMu-ZN-Dyj" secondAttribute="bottom" constant="50" id="KDP-0v-aS4"/>
+                            <constraint firstItem="mMu-ZN-Dyj" firstAttribute="leading" secondItem="DWp-KT-Xas" secondAttribute="leading" id="MO4-Y6-evW"/>
+                            <constraint firstItem="mMu-ZN-Dyj" firstAttribute="top" secondItem="DWp-KT-Xas" secondAttribute="bottom" constant="8" id="SND-o3-T9W"/>
+                            <constraint firstItem="mMu-ZN-Dyj" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="eWF-mU-gWO"/>
+                            <constraint firstItem="Q1K-II-z2p" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="k8W-Gl-xeu"/>
+                            <constraint firstItem="Q1K-II-z2p" firstAttribute="bottom" secondItem="wfy-db-euE" secondAttribute="top" constant="-20" id="wwV-6u-lgn"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="filterSwitch" destination="mMu-ZN-Dyj" id="Xpg-eH-v7a"/>
+                        <outlet property="tableView" destination="Q1K-II-z2p" id="u1u-HY-Phq"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="100.5" y="116.5"/>
+        </scene>
+    </scenes>
+</document>
