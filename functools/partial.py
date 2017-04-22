@@ -207,67 +207,67 @@ except ImportError:
 class Employee():
 
     # Initialize a new instance of the employee
-	def __init__(self):
-		self.__employee_name = ""
-		self.__employee_number = -1
+    def __init__(self):
+        self.__employee_name = ""
+        self.__employee_number = -1
     # Setter for employee name
-	def set_employee_name(self, name):
-		if len(name) > 0:
-			self.__employee_name = name
-			return True
-		else:
-			return False
+    def set_employee_name(self, name):
+        if len(name) > 0:
+            self.__employee_name = name
+            return True
+        else:
+            return False
     # Getter for employee name
-	def get_employee_name(self):
-		return self.__employee_name
+    def get_employee_name(self):
+        return self.__employee_name
     # Setter for employee number
-	def set_employee_number(self, number):
-		if self.validate_numeric(number):
-			self.__employee_number = number
-			return True
-		else:
-			return False
+    def set_employee_number(self, number):
+        if self.validate_numeric(number):
+            self.__employee_number = number
+            return True
+        else:
+            return False
     # Getter for employee number
-	def get_employee_number(self):
-		return self.__employee_number
+    def get_employee_number(self):
+        return self.__employee_number
     # Utility validation method
-	def validate_numeric(self, num):
-		if len(num) == 0:
-			return False
-		try:
-			x = int(num)
-			if x < 1:
-				return False
-			return True
-		except ValueError:
-			return False
+    def validate_numeric(self, num):
+        if len(num) == 0:
+            return False
+        try:
+            x = int(num)
+            if x < 1:
+                return False
+            return True
+        except ValueError:
+            return False
 
 
 def main():
-	employee = Employee()
-	instructions = [
-		"Please enter an employee name: ",
-		"Please enter an employee number: "
-	]
+    employee = Employee()
+    instructions = [
+        "Please enter an employee name: ",
+        "Please enter an employee number: "
+    ]
 
     # Usage of our partial class from Python core above!
-	func_dict = {
-		0: partial(employee.set_employee_name),
-		1: partial(employee.set_employee_number)
-	}
+    func_dict = {
+        0: partial(employee.set_employee_name),
+        1: partial(employee.set_employee_number)
+    }
 	index = 0
 	# Process user input
-	while index < len(instructions):
-		# Value comes off standard output as a string
-		input_value = input(instructions[index])
-		flag = func_dict[index](input_value)
-		if flag:
-			index += 1
-		else:
-			print("Not a valid input, please try again.")
+    while index < len(instructions):
+        # Value comes off standard output as a string
+        input_value = input(instructions[index])
+        flag = func_dict[index](input_value)
+        if flag:
+            index += 1
+        else:
+            print("Not a valid input, please try again.")
 
-	print("Employee name: " + employee.get_employee_name())
-	print("Employee number: " + employee.get_employee_number())
+    print("Employee name: " + employee.get_employee_name())
+    print("Employee number: " + employee.get_employee_number())
 
 # Execute the main function
 if __name__ == '__main__':
