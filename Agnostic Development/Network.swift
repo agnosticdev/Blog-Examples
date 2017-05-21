@@ -20,7 +20,7 @@ class Network: NSObject {
     //
     // MARK: - Public instance properties
     //
-    public var networkDelegate: NetworkProtocol?
+    public weak var networkDelegate: NetworkProtocol?
     
     //
     // MARK: - Private constants
