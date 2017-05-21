@@ -13,12 +13,6 @@ import Foundation
 class Network: NSObject {
     
     //
-    // MARK: - Internal Constants
-    //
-    //internal let networkCompletion:(_ : [Article]) -> Void
-    //internal let networkError:(_ : String) -> Void
-    
-    //
     // MARK: - Shared instance property
     //
     public static var shared = Network()
@@ -26,7 +20,7 @@ class Network: NSObject {
     //
     // MARK: - Public instance properties
     //
-    public weak var networkDelegate: NetworkProtocol?
+    public var networkDelegate: NetworkProtocol?
     
     //
     // MARK: - Private constants
