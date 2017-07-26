@@ -1,0 +1,10345 @@
+[
+  {
+    "Latitude": "46.44231",
+    "City": "Twin Cities, MN",
+    "genre": [
+      "male vocalist",
+      "christian",
+      "christian music",
+      "beat",
+      "minnesota",
+      "lullaby"
+    ],
+    "Longitude": "-93.36586",
+    "Artist": 0
+  },
+  {
+    "Latitude": "51.59678",
+    "City": "Harrow, Middlesex, England",
+    "genre": [
+      "psychobilly",
+      "rockabilly",
+      "rock 'n roll",
+      "pop rock",
+      "blues-rock",
+      "horror punk"
+    ],
+    "Longitude": "-0.33556",
+    "Artist": 1
+  },
+  {
+    "Latitude": "35.21962",
+    "City": "North Carolina",
+    "genre": [
+      "hard trance",
+      "hard house",
+      "country blues",
+      "happy hardcore",
+      "ccm",
+      "disco"
+    ],
+    "Longitude": "-80.01955",
+    "Artist": 2
+  },
+  {
+    "Latitude": "38.2589",
+    "City": "Missouri",
+    "genre": [
+      "dance pop",
+      "pop",
+      "latin",
+      "spain",
+      "adult contemporary",
+      "latin pop"
+    ],
+    "Longitude": "-92.43659",
+    "Artist": 3
+  },
+  {
+    "Latitude": "41.68676",
+    "City": "Elkhart, IN",
+    "genre": [
+      "country gospel",
+      "ccm",
+      "country rock",
+      "classic country",
+      "soft rock",
+      "religious music"
+    ],
+    "Longitude": "-85.97567",
+    "Artist": 4
+  },
+  {
+    "Latitude": "33.53584",
+    "City": "Cullendale, AR",
+    "genre": [
+      "soul jazz",
+      "blues-rock",
+      "blues",
+      "doo-wop",
+      "latin jazz",
+      "r&b"
+    ],
+    "Longitude": "-92.82984",
+    "Artist": 5
+  },
+  {
+    "Latitude": "40.86034",
+    "City": "Passaic, NJ",
+    "genre": [
+      "doo-wop",
+      "ballad",
+      "all-female",
+      "brill building pop",
+      "soft rock",
+      "pop rock"
+    ],
+    "Longitude": "-74.12374",
+    "Artist": 6
+  },
+  {
+    "Latitude": "51.50632",
+    "City": "London, England",
+    "genre": [
+      "downtempo",
+      "dub",
+      "trip hop",
+      "breakbeat",
+      "electronic",
+      "psychedelic rock"
+    ],
+    "Longitude": "-0.12714",
+    "Artist": 7
+  },
+  {
+    "Latitude": "35.83073",
+    "City": "Tennessee",
+    "genre": [
+      "country rock",
+      "folk-pop",
+      "country",
+      "folk",
+      "americana",
+      "singer-songwriter"
+    ],
+    "Longitude": "-85.97874",
+    "Artist": 8
+  },
+  {
+    "Latitude": "35.14968",
+    "City": "Memphis, TN",
+    "genre": [
+      "ballad",
+      "europop",
+      "pop rap",
+      "quiet storm",
+      "hip hop",
+      "pop rock"
+    ],
+    "Longitude": "-90.04892",
+    "Artist": 9
+  },
+  {
+    "Latitude": "62.19845",
+    "City": "Sweden",
+    "genre": [
+      "chanson",
+      "female vocalist",
+      "singer-songwriter",
+      "contemporary folk",
+      "scandinavian folk",
+      "swedish"
+    ],
+    "Longitude": "17.55142",
+    "Artist": 10
+  },
+  {
+    "Latitude": "36.30486",
+    "City": "Hendersonville, TN",
+    "genre": [
+      "classic country",
+      "united states",
+      "male vocalist",
+      "country",
+      "christian",
+      "gospel"
+    ],
+    "Longitude": "-86.62021",
+    "Artist": 11
+  },
+  {
+    "Latitude": "34.05349",
+    "City": "Los Angeles California USA",
+    "genre": [
+      "funeral doom",
+      "chiptune",
+      "blues",
+      "progressive house",
+      "death/doom metal",
+      "tropical"
+    ],
+    "Longitude": "-118.24532",
+    "Artist": 12
+  },
+  {
+    "Latitude": "40.71455",
+    "City": "New York, NY",
+    "genre": [
+      "soft rock",
+      "pop rock",
+      "brill building pop",
+      "ballad",
+      "country rock",
+      "classic rock"
+    ],
+    "Longitude": "-74.00712",
+    "Artist": 13
+  },
+  {
+    "Latitude": "40.99471",
+    "City": "Pennsylvania",
+    "genre": [
+      "experimental rock",
+      "grindcore",
+      "hardcore punk",
+      "progressive metal",
+      "heavy metal",
+      "death metal"
+    ],
+    "Longitude": "-77.60454",
+    "Artist": 14
+  },
+  {
+    "Latitude": "35.14968",
+    "City": "Memphis, TN",
+    "genre": [
+      "country gospel",
+      "instrumental pop",
+      "ballad",
+      "classic rock",
+      "vocal jazz",
+      "rock"
+    ],
+    "Longitude": "-90.04892",
+    "Artist": 15
+  },
+  {
+    "Latitude": "37.28848",
+    "City": "Campbell, CA",
+    "genre": [
+      "post-grunge",
+      "jungle music",
+      "modern rock",
+      "nu metal",
+      "southern rock",
+      "post rock"
+    ],
+    "Longitude": "-121.94486",
+    "Artist": 16
+  },
+  {
+    "Latitude": "38.62666",
+    "City": "New York City (Salem, IL - originally)",
+    "genre": [
+      "future jazz",
+      "dub",
+      "illbient",
+      "funk rock",
+      "downtempo",
+      "breakbeat"
+    ],
+    "Longitude": "-88.94561",
+    "Artist": 17
+  },
+  {
+    "Latitude": "37.77916",
+    "City": "California - SF",
+    "genre": [
+      "country rock",
+      "patriotic",
+      "country",
+      "pop"
+    ],
+    "Longitude": "-122.42005",
+    "Artist": 18
+  },
+  {
+    "Latitude": "33.62646",
+    "City": "South Carolina",
+    "genre": [
+      "hip hop",
+      "rap",
+      "american",
+      "horror music",
+      "east coast rap",
+      "east coast"
+    ],
+    "Longitude": "-80.9474",
+    "Artist": 19
+  },
+  {
+    "Latitude": "51.16418",
+    "City": "GERMANY",
+    "genre": [
+      "polka",
+      "brass band",
+      "ska",
+      "humppa",
+      "folk punk",
+      "jazz"
+    ],
+    "Longitude": "10.45415",
+    "Artist": 20
+  },
+  {
+    "Latitude": "29.76045",
+    "City": "Houston, TX",
+    "genre": [
+      "western swing",
+      "honky tonk",
+      "country",
+      "country music",
+      "traditional country",
+      "string"
+    ],
+    "Longitude": "-95.36978",
+    "Artist": 21
+  },
+  {
+    "Latitude": "46.25605",
+    "City": "Valais/Suisse",
+    "genre": [
+      "acid jazz",
+      "death core",
+      "symphonic rock",
+      "argentine rock",
+      "art rock",
+      "folk rock"
+    ],
+    "Longitude": "7.6244",
+    "Artist": 22
+  },
+  {
+    "Latitude": "46.71067",
+    "City": "FR",
+    "genre": [
+      "freestyle",
+      "electronic",
+      "italian disco",
+      "chill-out",
+      "rock",
+      "experimental"
+    ],
+    "Longitude": "1.71819",
+    "Artist": 23
+  },
+  {
+    "Latitude": "42.33168",
+    "City": "Detroit, MI",
+    "genre": [
+      "glam rock",
+      "soft rock",
+      "hard rock",
+      "rock",
+      "pop",
+      "glam"
+    ],
+    "Longitude": "-83.04792",
+    "Artist": 24
+  },
+  {
+    "Latitude": "40.71455",
+    "City": "New York, NY",
+    "genre": [
+      "hard bop",
+      "cool jazz",
+      "bebop",
+      "jazz",
+      "soundtrack",
+      "soul jazz"
+    ],
+    "Longitude": "-74.00712",
+    "Artist": 25
+  },
+  {
+    "Latitude": "40.71455",
+    "City": "New York, NY",
+    "genre": [
+      "power pop",
+      "indie pop",
+      "alternative rock",
+      "indie rock",
+      "pop",
+      "rock"
+    ],
+    "Longitude": "-74.00712",
+    "Artist": 26
+  },
+  {
+    "Latitude": "35.32689",
+    "City": "Robbinsville, NC",
+    "genre": [
+      "country rock",
+      "southern rock",
+      "classic country",
+      "ballad",
+      "power electronics",
+      "soft rock"
+    ],
+    "Longitude": "-83.80489",
+    "Artist": 27
+  },
+  {
+    "Latitude": "40.99471",
+    "City": "Pennsylvania",
+    "genre": [
+      "salsa",
+      "charanga",
+      "latin jazz",
+      "latin",
+      "jazz",
+      "improvisational"
+    ],
+    "Longitude": "-77.60454",
+    "Artist": 28
+  },
+  {
+    "Latitude": "52.47859",
+    "City": "Birmingham, England",
+    "genre": [
+      "reggae",
+      "disco",
+      "dub",
+      "roots reggae",
+      "hard house",
+      "bebop"
+    ],
+    "Longitude": "-1.9086",
+    "Artist": 29
+  },
+  {
+    "Latitude": "40.14323",
+    "City": "New Jersey",
+    "genre": [
+      "soft rock",
+      "disco",
+      "poetry",
+      "classic rock",
+      "spoken word",
+      "male vocalist"
+    ],
+    "Longitude": "-74.72671",
+    "Artist": 30
+  },
+  {
+    "Latitude": "46.71067",
+    "City": "France",
+    "genre": [
+      "chanson",
+      "visual kei",
+      "hip hop",
+      "pop rock",
+      "british pop",
+      "jrock"
+    ],
+    "Longitude": "1.71819",
+    "Artist": 31
+  },
+  {
+    "Latitude": "44.48721",
+    "City": "Lancaster, NH",
+    "genre": [
+      "shock rock",
+      "straight edge",
+      "horror punk",
+      "hardcore punk",
+      "oi",
+      "outlaw country"
+    ],
+    "Longitude": "-71.56889",
+    "Artist": 32
+  },
+  {
+    "Latitude": "29.18752",
+    "City": "OCALA, Florida",
+    "genre": [
+      "country rock",
+      "rockabilly",
+      "classic country",
+      "southern rock",
+      "country",
+      "jazz funk"
+    ],
+    "Longitude": "-82.14039",
+    "Artist": 33
+  },
+  {
+    "Latitude": "37.97615",
+    "City": "Athens",
+    "genre": [
+      "happy hardcore",
+      "ska punk",
+      "math-core",
+      "skacore",
+      "psychobilly",
+      "tech house"
+    ],
+    "Longitude": "23.73641",
+    "Artist": 34
+  },
+  {
+    "Latitude": "35.83073",
+    "City": "Tennessee",
+    "genre": [
+      "country gospel",
+      "southern gospel",
+      "spiritual",
+      "christian",
+      "gospel",
+      "contemporary gospel"
+    ],
+    "Longitude": "-85.97874",
+    "Artist": 35
+  },
+  {
+    "Latitude": "41.9293",
+    "City": "DeKalb, Illinois, USA",
+    "genre": [
+      "black metal",
+      "sympho black metal",
+      "rock",
+      "grindcore",
+      "viking metal",
+      "post-grunge"
+    ],
+    "Longitude": "-88.7493",
+    "Artist": 36
+  },
+  {
+    "Latitude": "38.49809",
+    "City": "Kansas",
+    "genre": [
+      "glam metal",
+      "rap",
+      "progressive house",
+      "gabba",
+      "tribal house",
+      "karaoke"
+    ],
+    "Longitude": "-98.32023",
+    "Artist": 37
+  },
+  {
+    "Latitude": "35.83073",
+    "City": "Tennessee",
+    "genre": [
+      "memphis blues",
+      "blues",
+      "country blues",
+      "jug band",
+      "bebop",
+      "folk"
+    ],
+    "Longitude": "-85.97874",
+    "Artist": 38
+  },
+  {
+    "Latitude": "35.83073",
+    "City": "Tennessee",
+    "genre": [
+      "country gospel",
+      "roots reggae",
+      "reggae",
+      "dub",
+      "country",
+      "country music"
+    ],
+    "Longitude": "-85.97874",
+    "Artist": 39
+  },
+  {
+    "Latitude": "36.20201",
+    "City": "Luttrell, TN",
+    "genre": [
+      "honky tonk",
+      "smooth jazz",
+      "rockabilly",
+      "traditional country",
+      "country pop",
+      "classic country"
+    ],
+    "Longitude": "-83.74416",
+    "Artist": 40
+  },
+  {
+    "Latitude": "23.0833",
+    "City": "Havana, Cuba [Jesus Maria]",
+    "genre": [
+      "latin jazz",
+      "salsa",
+      "boogaloo",
+      "soul jazz",
+      "world fusion",
+      "funk"
+    ],
+    "Longitude": "-82.4167",
+    "Artist": 41
+  },
+  {
+    "Latitude": "42.78668",
+    "City": "Vermillion, SD",
+    "genre": [
+      "country rock",
+      "pop rock",
+      "folk rock",
+      "soft rock",
+      "ballad",
+      "blues-rock"
+    ],
+    "Longitude": "-96.92803",
+    "Artist": 42
+  },
+  {
+    "Latitude": "30.23513",
+    "City": "Rayne, LA",
+    "genre": [
+      "bluegrass",
+      "zydeco",
+      "americana",
+      "world music",
+      "cajun",
+      "rockabilly"
+    ],
+    "Longitude": "-92.26831",
+    "Artist": 43
+  },
+  {
+    "Latitude": "41.88415",
+    "City": "Chicago, IL",
+    "genre": [
+      "blues-rock",
+      "electric blues",
+      "harmonica blues",
+      "chicago blues",
+      "blues",
+      "psychedelic rock"
+    ],
+    "Longitude": "-87.63241",
+    "Artist": 44
+  },
+  {
+    "Latitude": "7.95501",
+    "City": "Ghana",
+    "genre": [
+      "broken beat",
+      "neo soul",
+      "hip hop",
+      "uk garage",
+      "nu-soul",
+      "chill-out"
+    ],
+    "Longitude": "-1.03182",
+    "Artist": 45
+  },
+  {
+    "Latitude": "37.77916",
+    "City": "California - SF",
+    "genre": [
+      "meditation",
+      "chill-out",
+      "downtempo",
+      "new age",
+      "easy listening",
+      "electronic"
+    ],
+    "Longitude": "-122.42005",
+    "Artist": 46
+  },
+  {
+    "Latitude": "34.05349",
+    "City": "Los Angeles, CA",
+    "genre": [
+      "rap",
+      "hip hop",
+      "new wave",
+      "electro",
+      "underground hip hop",
+      "underground rap"
+    ],
+    "Longitude": "-118.24532",
+    "Artist": 47
+  },
+  {
+    "Latitude": "49.80388",
+    "City": "Dubai UAE",
+    "genre": [
+      "uk garage",
+      "pop folk",
+      "jazz fusion",
+      "chalga",
+      "jazz",
+      "progressive house"
+    ],
+    "Longitude": "15.47491",
+    "Artist": 48
+  },
+  {
+    "Latitude": "37.77916",
+    "City": "san francisco",
+    "genre": [
+      "trip hop",
+      "post rock",
+      "ambient",
+      "electronic",
+      "soundtrack",
+      "electronica"
+    ],
+    "Longitude": "-122.42005",
+    "Artist": 49
+  },
+  {
+    "Latitude": "51.50632",
+    "City": "London",
+    "genre": [
+      "grime",
+      "hip pop",
+      "uk garage",
+      "urban",
+      "chill-out",
+      "dancehall"
+    ],
+    "Longitude": "-0.12714",
+    "Artist": 50
+  },
+  {
+    "Latitude": "62.24049",
+    "City": "JyvÃ¤skylÃ¤, Finland",
+    "genre": [
+      "sympho black metal",
+      "doom metal",
+      "heavy metal",
+      "death metal",
+      "metal",
+      "funeral doom"
+    ],
+    "Longitude": "25.75129",
+    "Artist": 51
+  },
+  {
+    "Latitude": "40.71455",
+    "City": "NY",
+    "genre": [
+      "indie rock",
+      "rock",
+      "new york",
+      "garage rock revival",
+      "ballad",
+      "grunge"
+    ],
+    "Longitude": "-74.00712",
+    "Artist": 52
+  },
+  {
+    "Latitude": "39.37413",
+    "City": "Volos, Greece",
+    "genre": [
+      "ccm",
+      "christian rock",
+      "country rock",
+      "christian music",
+      "pop folk",
+      "christian metal"
+    ],
+    "Longitude": "22.95775",
+    "Artist": 53
+  },
+  {
+    "Latitude": "37.77916",
+    "City": "San Francisco, CA",
+    "genre": [
+      "latin jazz",
+      "chamber jazz",
+      "soul jazz",
+      "jazz funk",
+      "jazz fusion",
+      "smooth jazz"
+    ],
+    "Longitude": "-122.42005",
+    "Artist": 54
+  },
+  {
+    "Latitude": "41.30711",
+    "City": "New Haven, CT",
+    "genre": [
+      "soft rock",
+      "easy listening",
+      "oldies",
+      "classic rock",
+      "female vocalist",
+      "rock"
+    ],
+    "Longitude": "-72.92496",
+    "Artist": 55
+  },
+  {
+    "Latitude": "37.4876",
+    "City": "JP",
+    "genre": [
+      "hard rock",
+      "techno",
+      "nu metal",
+      "power electronics",
+      "jungle music",
+      "breakcore"
+    ],
+    "Longitude": "139.83829",
+    "Artist": 56
+  },
+  {
+    "Latitude": "41.76332",
+    "City": "Hartford, CT",
+    "genre": [
+      "brill building pop",
+      "honky tonk",
+      "pop rock",
+      "ballad",
+      "rock 'n roll",
+      "classic country"
+    ],
+    "Longitude": "-72.67407",
+    "Artist": 57
+  },
+  {
+    "Latitude": "44.11559",
+    "City": "Oregon",
+    "genre": [
+      "celtic fusion",
+      "celtic",
+      "flamenco",
+      "ballad",
+      "folk",
+      "easy listening"
+    ],
+    "Longitude": "-120.51484",
+    "Artist": 58
+  },
+  {
+    "Latitude": "36.16778",
+    "City": "Nashville, TN",
+    "genre": [
+      "blues-rock",
+      "jazz funk",
+      "latin jazz",
+      "country blues",
+      "future jazz",
+      "reggae"
+    ],
+    "Longitude": "-86.77836",
+    "Artist": 59
+  },
+  {
+    "Latitude": "27.9758",
+    "City": "Florida",
+    "genre": [
+      "chicago blues",
+      "cool jazz",
+      "east coast blues",
+      "blues",
+      "jazz funk",
+      "soul jazz"
+    ],
+    "Longitude": "-81.54106",
+    "Artist": 60
+  },
+  {
+    "Latitude": "34.05349",
+    "City": "Los Angeles, CA",
+    "genre": [
+      "blues-rock",
+      "jam band",
+      "southern rock",
+      "hard rock",
+      "rock",
+      "los angeles"
+    ],
+    "Longitude": "-118.24532",
+    "Artist": 61
+  },
+  {
+    "Latitude": "32.74863",
+    "City": "Fort Worth, TX",
+    "genre": [
+      "honky tonk",
+      "folk-pop",
+      "country rock",
+      "classic country",
+      "blues-rock",
+      "ballad"
+    ],
+    "Longitude": "-97.32925",
+    "Artist": 62
+  },
+  {
+    "Latitude": "44.97903",
+    "City": "Minneapolis, MN",
+    "genre": [
+      "disco",
+      "future jazz",
+      "jazz funk",
+      "rap",
+      "italian disco",
+      "europop"
+    ],
+    "Longitude": "-93.26493",
+    "Artist": 63
+  },
+  {
+    "Latitude": "49.38426",
+    "City": "CANADA - Ontario",
+    "genre": [
+      "broken beat",
+      "dance-punk",
+      "electroclash",
+      "funk rock",
+      "deep house",
+      "funk"
+    ],
+    "Longitude": "-84.75627",
+    "Artist": 64
+  },
+  {
+    "Latitude": "40.7038",
+    "City": "Queens, NY",
+    "genre": [
+      "rock",
+      "singer-songwriter",
+      "folk",
+      "soundtrack",
+      "modern rock",
+      "guitar"
+    ],
+    "Longitude": "-73.83168",
+    "Artist": 65
+  },
+  {
+    "Latitude": "34.05349",
+    "City": "Los Angeles, CA",
+    "genre": [
+      "modern rock",
+      "california",
+      "christian rock",
+      "progressive rock",
+      "hip hop",
+      "post rock"
+    ],
+    "Longitude": "-118.24532",
+    "Artist": 66
+  },
+  {
+    "Latitude": "37.77916",
+    "City": "California - SF",
+    "genre": [
+      "salsa",
+      "charanga",
+      "latin",
+      "jazz"
+    ],
+    "Longitude": "-122.42005",
+    "Artist": 67
+  },
+  {
+    "Latitude": "51.42721",
+    "City": "Nordrhein-Westfalen",
+    "genre": [
+      "viking metal",
+      "sympho black metal",
+      "black metal",
+      "folk metal",
+      "humppa",
+      "melodic black metal"
+    ],
+    "Longitude": "7.66379",
+    "Artist": 68
+  },
+  {
+    "Latitude": "37.77916",
+    "City": "California - SF",
+    "genre": [
+      "deep house",
+      "tech house",
+      "europop",
+      "electronic",
+      "minimal",
+      "trance"
+    ],
+    "Longitude": "-122.42005",
+    "Artist": 69
+  },
+  {
+    "Latitude": "53.34376",
+    "City": "Dublin, Ireland",
+    "genre": [
+      "folk metal",
+      "black metal",
+      "heavy metal",
+      "rock",
+      "folk",
+      "extreme metal"
+    ],
+    "Longitude": "-6.24953",
+    "Artist": 70
+  },
+  {
+    "Latitude": "51.27562",
+    "City": "Sevenoaks, Kent, England",
+    "genre": [
+      "jazz fusion",
+      "jazz funk",
+      "progressive rock",
+      "progressive metal",
+      "jazz",
+      "classic rock"
+    ],
+    "Longitude": "0.17898",
+    "Artist": 71
+  },
+  {
+    "Latitude": "35.21962",
+    "City": "North Carolina",
+    "genre": [
+      "blues",
+      "country blues",
+      "calypso",
+      "latin jazz",
+      "trip hop",
+      "folk rock"
+    ],
+    "Longitude": "-80.01955",
+    "Artist": 72
+  },
+  {
+    "Latitude": "51.50632",
+    "City": "London",
+    "genre": [
+      "teen pop",
+      "dance pop",
+      "pop",
+      "england",
+      "london",
+      "adult contemporary"
+    ],
+    "Longitude": "-0.12714",
+    "Artist": 73
+  },
+  {
+    "Latitude": "41.58979",
+    "City": "Des Moines, Iowa",
+    "genre": [
+      "experimental rock",
+      "power pop",
+      "alternative rock",
+      "ska",
+      "indie rock",
+      "hip hop"
+    ],
+    "Longitude": "-93.61566",
+    "Artist": 74
+  },
+  {
+    "Latitude": "55.67631",
+    "City": "Copenhagen, Denmark",
+    "genre": [
+      "free jazz",
+      "free improvisation",
+      "jazz",
+      "trip hop",
+      "dub",
+      "downtempo"
+    ],
+    "Longitude": "12.56935",
+    "Artist": 75
+  },
+  {
+    "Latitude": "51.50632",
+    "City": "London",
+    "genre": [
+      "progressive house",
+      "tech house",
+      "hard house",
+      "tribal house",
+      "progressive trance",
+      "hard trance"
+    ],
+    "Longitude": "-0.12714",
+    "Artist": 76
+  },
+  {
+    "Latitude": "40.65507",
+    "City": "Brooklyn, NY",
+    "genre": [
+      "ballad",
+      "brill building pop",
+      "doo-wop",
+      "chanson",
+      "blues-rock",
+      "pop rock"
+    ],
+    "Longitude": "-73.94888",
+    "Artist": 77
+  },
+  {
+    "Latitude": "32.67828",
+    "City": "Georgia",
+    "genre": [
+      "bass music",
+      "pop rap",
+      "hip hop",
+      "jungle music",
+      "trip hop",
+      "chill-out"
+    ],
+    "Longitude": "-83.22295",
+    "Artist": 78
+  },
+  {
+    "Latitude": "14.56298",
+    "City": "Metro Manila",
+    "genre": [
+      "pinoy rock",
+      "opm",
+      "filipino",
+      "pinoy",
+      "alternative pop rock",
+      "philippines"
+    ],
+    "Longitude": "121.02183",
+    "Artist": 79
+  },
+  {
+    "Latitude": "39.95227",
+    "City": "Philadelphia, Pennsylvania, U.S.",
+    "genre": [
+      "funk",
+      "hip hop",
+      "soul",
+      "hardcore rap",
+      "alternative rap",
+      "reggae"
+    ],
+    "Longitude": "-75.16237",
+    "Artist": 80
+  },
+  {
+    "Latitude": "56.87546",
+    "City": "Latvia",
+    "genre": [
+      "viking metal",
+      "folk rock",
+      "black metal",
+      "folk metal",
+      "neofolk",
+      "celtic metal"
+    ],
+    "Longitude": "24.6075",
+    "Artist": 81
+  },
+  {
+    "Latitude": "41.0981",
+    "City": "Youngstown, OH",
+    "genre": [
+      "piano blues",
+      "jump blues",
+      "r&b",
+      "blues",
+      "latin jazz",
+      "blues-rock"
+    ],
+    "Longitude": "-80.65079",
+    "Artist": 82
+  },
+  {
+    "Latitude": "37.27188",
+    "City": "California",
+    "genre": [
+      "ccm",
+      "jazz fusion",
+      "electronic",
+      "singer-songwriter",
+      "jazz",
+      "soundtrack"
+    ],
+    "Longitude": "-119.27023",
+    "Artist": 83
+  },
+  {
+    "Latitude": "32.61436",
+    "City": "Alabama",
+    "genre": [
+      "industrial metal",
+      "nu metal",
+      "rock",
+      "industrial",
+      "metal",
+      "alternative"
+    ],
+    "Longitude": "-86.68073",
+    "Artist": 84
+  },
+  {
+    "Latitude": "35.66693",
+    "City": " NC",
+    "genre": [
+      "ccm",
+      "pop rock",
+      "soft rock",
+      "christian music",
+      "grindcore",
+      "female vocalist"
+    ],
+    "Longitude": "-80.46935",
+    "Artist": 85
+  },
+  {
+    "Latitude": "35.67048",
+    "City": "Tokyo",
+    "genre": [
+      "europop",
+      "j pop",
+      "eurodance",
+      "eurobeat",
+      "italian disco",
+      "dance"
+    ],
+    "Longitude": "139.74092",
+    "Artist": 86
+  },
+  {
+    "Latitude": "37.20897",
+    "City": "Springfield, MO",
+    "genre": [
+      "country gospel",
+      "classic country",
+      "rockabilly",
+      "oldies",
+      "christmas music",
+      "pop"
+    ],
+    "Longitude": "-93.29156",
+    "Artist": 87
+  },
+  {
+    "Latitude": "40.65507",
+    "City": "Brooklyn, NY",
+    "genre": [
+      "hip hop",
+      "gangster rap",
+      "rap",
+      "electro",
+      "underground hip hop",
+      "new york"
+    ],
+    "Longitude": "-73.94888",
+    "Artist": 88
+  },
+  {
+    "Latitude": "7.37884",
+    "City": "Ibadan, Nigeria",
+    "genre": [
+      "quiet storm",
+      "jazz",
+      "rock",
+      "soul",
+      "urban",
+      "adult contemporary"
+    ],
+    "Longitude": "3.89527",
+    "Artist": 89
+  },
+  {
+    "Latitude": "-33.86963",
+    "City": "Sydney, Australia",
+    "genre": [
+      "alternative dance",
+      "dance-punk",
+      "hip house",
+      "electro",
+      "electroclash",
+      "indietronica"
+    ],
+    "Longitude": "151.20695",
+    "Artist": 90
+  },
+  {
+    "Latitude": "41.70671",
+    "City": "Poughkeepsie, New York / Pompano Beach, Florida",
+    "genre": [
+      "math-core",
+      "alternative metal",
+      "hardcore punk",
+      "post-hardcore",
+      "progressive metal",
+      "metalcore"
+    ],
+    "Longitude": "-73.92937",
+    "Artist": 91
+  },
+  {
+    "Latitude": "43.04181",
+    "City": "Milwaukee, WI",
+    "genre": [
+      "post-grunge",
+      "alternative metal",
+      "nu metal",
+      "hard rock",
+      "grunge",
+      "alternative rock"
+    ],
+    "Longitude": "-87.90684",
+    "Artist": 92
+  },
+  {
+    "Latitude": "49.01037",
+    "City": "Karlsruhe, Germany",
+    "genre": [
+      "los angeles",
+      "hip hop",
+      "hardcore hip hop",
+      "turnablism",
+      "rap",
+      "underground rap"
+    ],
+    "Longitude": "8.4092",
+    "Artist": 93
+  },
+  {
+    "Latitude": "30.53301",
+    "City": "Opelousas, LA",
+    "genre": [
+      "zydeco",
+      "world music",
+      "folk rock",
+      "blues",
+      "reggae",
+      "jazz"
+    ],
+    "Longitude": "-92.08238",
+    "Artist": 94
+  },
+  {
+    "Latitude": "38.8991",
+    "City": "Washington DC",
+    "genre": [
+      "samba",
+      "bossa nova",
+      "easy listening",
+      "blues-rock",
+      "german pop",
+      "latin jazz"
+    ],
+    "Longitude": "-77.029",
+    "Artist": 95
+  },
+  {
+    "Latitude": "50.93364",
+    "City": "Malmï¿½, Belgium",
+    "genre": [
+      "serialism",
+      "illbient",
+      "electronic",
+      "experimental",
+      "classical",
+      "belgium"
+    ],
+    "Longitude": "4.22417",
+    "Artist": 96
+  },
+  {
+    "Latitude": "40.71455",
+    "City": "New York, NY",
+    "genre": [
+      "post-grunge",
+      "alternative metal",
+      "post-hardcore",
+      "nu metal",
+      "heavy metal",
+      "hard rock"
+    ],
+    "Longitude": "-74.00712",
+    "Artist": 97
+  },
+  {
+    "Latitude": "33.74831",
+    "City": "Atlanta Georgia USA",
+    "genre": [
+      "modern rock",
+      "rock",
+      "inspirational",
+      "gospel",
+      "christian",
+      "worship music"
+    ],
+    "Longitude": "-84.39111",
+    "Artist": 98
+  },
+  {
+    "Latitude": "38.57842",
+    "City": "Spring Fork, MO",
+    "genre": [
+      "country rock",
+      "classic country",
+      "country blues",
+      "german pop",
+      "ccm",
+      "ballad"
+    ],
+    "Longitude": "-93.2393",
+    "Artist": 99
+  },
+  {
+    "Latitude": "-14.24292",
+    "City": "Brazil",
+    "genre": [
+      "tango",
+      "samba",
+      "bossa nova",
+      "brazilian jazz",
+      "choro",
+      "gaita"
+    ],
+    "Longitude": "-54.38783",
+    "Artist": 100
+  },
+  {
+    "Latitude": "33.53858",
+    "City": "Glendale, AZ",
+    "genre": [
+      "country rock",
+      "rockabilly",
+      "ballad",
+      "soft rock",
+      "classic country",
+      "country"
+    ],
+    "Longitude": "-112.18628",
+    "Artist": 101
+  },
+  {
+    "Latitude": "34.05349",
+    "City": "California - LA",
+    "genre": [
+      "soft rock",
+      "easy listening",
+      "smooth jazz",
+      "soundtrack",
+      "club",
+      "jazz"
+    ],
+    "Longitude": "-118.24532",
+    "Artist": 102
+  },
+  {
+    "Latitude": "31.58076",
+    "City": "Albany, GA",
+    "genre": [
+      "cool jazz",
+      "smooth jazz",
+      "jazz fusion",
+      "bossa nova",
+      "jazz",
+      "contemporary jazz"
+    ],
+    "Longitude": "-84.15601",
+    "Artist": 103
+  },
+  {
+    "Latitude": "41.88415",
+    "City": "CHICAGO, US",
+    "genre": [
+      "progressive rock",
+      "new wave",
+      "emo",
+      "indie rock",
+      "rock",
+      "power pop"
+    ],
+    "Longitude": "-87.63241",
+    "Artist": 104
+  },
+  {
+    "Latitude": "30.33138",
+    "City": "Jacksonville, FL",
+    "genre": [
+      "country blues",
+      "piedmont blues",
+      "delta blues",
+      "ragtime",
+      "chicago blues",
+      "louisiana blues"
+    ],
+    "Longitude": "-81.6558",
+    "Artist": 105
+  },
+  {
+    "Latitude": "34.05349",
+    "City": "Los Angeles, CA",
+    "genre": [
+      "alternative country",
+      "roots rock",
+      "folk-pop",
+      "california",
+      "easy listening",
+      "singer-songwriter"
+    ],
+    "Longitude": "-118.24532",
+    "Artist": 106
+  },
+  {
+    "Latitude": "36.06899",
+    "City": "GREENSBORO, North Carolina",
+    "genre": [
+      "ccm",
+      "pop rock",
+      "adult contemporary",
+      "rock",
+      "english",
+      "christian"
+    ],
+    "Longitude": "-79.7947",
+    "Artist": 107
+  },
+  {
+    "Latitude": "44.7272",
+    "City": "Wisconsin",
+    "genre": [
+      "dub",
+      "reggae",
+      "beat",
+      "dancehall",
+      "roots",
+      "rasta"
+    ],
+    "Longitude": "-90.10126",
+    "Artist": 108
+  },
+  {
+    "Latitude": "53.4796",
+    "City": "Manchester, England",
+    "genre": [
+      "post-grunge",
+      "post-hardcore",
+      "indie rock",
+      "post rock",
+      "new prog",
+      "experimental rock"
+    ],
+    "Longitude": "-2.24881",
+    "Artist": 109
+  },
+  {
+    "Latitude": "33.89275",
+    "City": "Beirut, Lebanon",
+    "genre": [
+      "latin jazz",
+      "soundtrack",
+      "chill-out",
+      "bossa nova",
+      "jazz",
+      "opera"
+    ],
+    "Longitude": "35.48527",
+    "Artist": 110
+  },
+  {
+    "Latitude": "53.34376",
+    "City": "Dublin, Ireland",
+    "genre": [
+      "dance-punk",
+      "indie rock",
+      "dance rock",
+      "rock",
+      "alternative",
+      "irish"
+    ],
+    "Longitude": "-6.24953",
+    "Artist": 111
+  },
+  {
+    "Latitude": "32.29869",
+    "City": "Jackson, MS",
+    "genre": [
+      "piano blues",
+      "chicago blues",
+      "blues-rock",
+      "blues",
+      "electric blues",
+      "delta blues"
+    ],
+    "Longitude": "-90.18049",
+    "Artist": 112
+  },
+  {
+    "Latitude": "36.16778",
+    "City": "Nashville, TN",
+    "genre": [
+      "pop rock",
+      "psychedelic rock",
+      "rock",
+      "country",
+      "los angeles",
+      "united states"
+    ],
+    "Longitude": "-86.77836",
+    "Artist": 113
+  },
+  {
+    "Latitude": "51.27562",
+    "City": "Sevenoaks, United Kingdom",
+    "genre": [
+      "techno",
+      "intelligent dance music",
+      "electronica",
+      "ambient",
+      "england",
+      "electronic music"
+    ],
+    "Longitude": "0.17898",
+    "Artist": 114
+  },
+  {
+    "Latitude": "40.71455",
+    "City": "New York, NY",
+    "genre": [
+      "dance pop",
+      "jazz blues",
+      "vocal jazz",
+      "jug band",
+      "electric blues",
+      "blues-rock"
+    ],
+    "Longitude": "-74.00712",
+    "Artist": 115
+  },
+  {
+    "Latitude": "32.31928",
+    "City": "Tyler, AL",
+    "genre": [
+      "southern gospel",
+      "gospel",
+      "black gospel",
+      "soul",
+      "alabama",
+      "mississippi"
+    ],
+    "Longitude": "-86.89775",
+    "Artist": 116
+  },
+  {
+    "Latitude": "31.96305",
+    "City": "Jacksonville, TX",
+    "genre": [
+      "honky tonk",
+      "classic country",
+      "western swing",
+      "oldies",
+      "rockabilly",
+      "singer-songwriter"
+    ],
+    "Longitude": "-95.27023",
+    "Artist": 117
+  },
+  {
+    "Latitude": "51.50632",
+    "City": "London, England",
+    "genre": [
+      "dance rock",
+      "new wave",
+      "synthpop",
+      "rock",
+      "pop",
+      "england"
+    ],
+    "Longitude": "-0.12714",
+    "Artist": 118
+  },
+  {
+    "Latitude": "18.11526",
+    "City": "Jamaica",
+    "genre": [
+      "roots reggae",
+      "reggae",
+      "dancehall",
+      "dub",
+      "rasta",
+      "jamaica"
+    ],
+    "Longitude": "-77.27348",
+    "Artist": 119
+  },
+  {
+    "Latitude": "40.8079",
+    "City": "Harlem, New York, NY",
+    "genre": [
+      "hip hop",
+      "pop rap",
+      "ballad",
+      "disco",
+      "electro",
+      "old school hip hop"
+    ],
+    "Longitude": "-73.9454",
+    "Artist": 120
+  },
+  {
+    "Latitude": "43.7427",
+    "City": "Michigan",
+    "genre": [
+      "roots rock",
+      "southern soul",
+      "motown",
+      "singer-songwriter",
+      "folk rock",
+      "blue-eyed soul"
+    ],
+    "Longitude": "-84.62167",
+    "Artist": 121
+  },
+  {
+    "Latitude": "52.47859",
+    "City": "Birmingham, England",
+    "genre": [
+      "folk rock",
+      "pop rock",
+      "new wave",
+      "disco",
+      "europop",
+      "ballad"
+    ],
+    "Longitude": "-1.9086",
+    "Artist": 122
+  },
+  {
+    "Latitude": "-24.9162",
+    "City": "Australia",
+    "genre": [
+      "hard rock",
+      "doo-wop",
+      "brill building pop",
+      "oldies",
+      "garage rock",
+      "new wave"
+    ],
+    "Longitude": "133.39311",
+    "Artist": 123
+  },
+  {
+    "Latitude": "41.50471",
+    "City": "Cleveland, OH",
+    "genre": [
+      "math rock",
+      "noise rock",
+      "rock",
+      "post-hardcore",
+      "hardcore punk",
+      "punk"
+    ],
+    "Longitude": "-81.69074",
+    "Artist": 124
+  },
+  {
+    "Latitude": "-41.28054",
+    "City": "Wellington",
+    "genre": [
+      "trip hop",
+      "downtempo",
+      "progressive house",
+      "chill-out",
+      "dub",
+      "progressive trance"
+    ],
+    "Longitude": "174.76714",
+    "Artist": 125
+  },
+  {
+    "Latitude": "34.05349",
+    "City": "California - LA",
+    "genre": [
+      "lovers rock",
+      "dancehall",
+      "reggae",
+      "pop rap",
+      "roots reggae",
+      "dub"
+    ],
+    "Longitude": "-118.24532",
+    "Artist": 126
+  },
+  {
+    "Latitude": "34.74865",
+    "City": "Little Rock AK",
+    "genre": [
+      "country rock",
+      "western swing",
+      "gypsy jazz",
+      "singer-songwriter",
+      "swing",
+      "country"
+    ],
+    "Longitude": "-92.27449",
+    "Artist": 127
+  },
+  {
+    "Latitude": "-22.96566",
+    "City": "Detroit",
+    "genre": [
+      "progressive house",
+      "progressive trance",
+      "tech house",
+      "trance",
+      "hard trance",
+      "hard house"
+    ],
+    "Longitude": "18.48617",
+    "Artist": 128
+  },
+  {
+    "Latitude": "35.61301",
+    "City": "Lepanto, AR",
+    "genre": [
+      "bluegrass",
+      "country",
+      "contemporary country",
+      "country pop",
+      "male vocalist",
+      "male"
+    ],
+    "Longitude": "-90.33078",
+    "Artist": 129
+  },
+  {
+    "Latitude": "51.50632",
+    "City": "London, England",
+    "genre": [
+      "vocal house",
+      "progressive trance",
+      "trance",
+      "female vocalist",
+      "dance",
+      "vocal trance"
+    ],
+    "Longitude": "-0.12714",
+    "Artist": 130
+  },
+  {
+    "Latitude": "42.33168",
+    "City": "Detroit, MI",
+    "genre": [
+      "shock rock",
+      "glam rock",
+      "garage rock",
+      "heavy metal",
+      "hard rock",
+      "classic rock"
+    ],
+    "Longitude": "-83.04792",
+    "Artist": 131
+  },
+  {
+    "Latitude": "-24.9162",
+    "City": "Australia",
+    "genre": [
+      "shoegaze",
+      "indie rock",
+      "twee pop",
+      "rock",
+      "cuddlecore",
+      "slow core"
+    ],
+    "Longitude": "133.39311",
+    "Artist": 132
+  },
+  {
+    "Latitude": "35.83073",
+    "City": "Tennessee",
+    "genre": [
+      "country gospel",
+      "southern gospel",
+      "spiritual",
+      "christian",
+      "gospel",
+      "christian music"
+    ],
+    "Longitude": "-85.97874",
+    "Artist": 133
+  },
+  {
+    "Latitude": "37.27188",
+    "City": "California",
+    "genre": [
+      "funk metal",
+      "rap metal",
+      "rap rock",
+      "alternative metal",
+      "heavy metal",
+      "rock"
+    ],
+    "Longitude": "-119.27023",
+    "Artist": 134
+  },
+  {
+    "Latitude": "51.77045",
+    "City": "Essex, England",
+    "genre": [
+      "pop rock",
+      "parody",
+      "blues-rock",
+      "vaudeville",
+      "rock",
+      "psychedelic rock"
+    ],
+    "Longitude": "0.64255",
+    "Artist": 135
+  },
+  {
+    "Latitude": "34.47326",
+    "City": "Ventura County, CA",
+    "genre": [
+      "grindcore",
+      "post-hardcore",
+      "math-core",
+      "karaoke",
+      "heavy metal",
+      "metalcore"
+    ],
+    "Longitude": "-119.05505",
+    "Artist": 136
+  },
+  {
+    "Latitude": "40.99471",
+    "City": "Pennsylvania",
+    "genre": [
+      "post-grunge",
+      "alternative metal",
+      "nu metal",
+      "hard rock",
+      "rock",
+      "stoner metal"
+    ],
+    "Longitude": "-77.60454",
+    "Artist": 137
+  },
+  {
+    "Latitude": "43.58015",
+    "City": "Antibes, France",
+    "genre": [
+      "shoegaze",
+      "electronic",
+      "rock",
+      "pop",
+      "ambient",
+      "synth"
+    ],
+    "Longitude": "7.12123",
+    "Artist": 138
+  },
+  {
+    "Latitude": "42.33168",
+    "City": "Detroit, MI",
+    "genre": [
+      "jazz funk",
+      "soul jazz",
+      "funk",
+      "disco",
+      "latin jazz",
+      "smooth jazz"
+    ],
+    "Longitude": "-83.04792",
+    "Artist": 139
+  },
+  {
+    "Latitude": "34.05349",
+    "City": "California - LA",
+    "genre": [
+      "free music",
+      "rock",
+      "creative commons",
+      "magnatune",
+      "london"
+    ],
+    "Longitude": "-118.24532",
+    "Artist": 140
+  },
+  {
+    "Latitude": "34.30246",
+    "City": "Darlington, SC",
+    "genre": [
+      "jump blues",
+      "r&b",
+      "east coast blues",
+      "piano blues",
+      "oldies",
+      "blues"
+    ],
+    "Longitude": "-79.87162",
+    "Artist": 141
+  },
+  {
+    "Latitude": "51.50632",
+    "City": "London / Ex-Manchester",
+    "genre": [
+      "new wave",
+      "punk",
+      "rock",
+      "pop",
+      "british",
+      "england"
+    ],
+    "Longitude": "-0.12714",
+    "Artist": 142
+  },
+  {
+    "Latitude": "31.1689",
+    "City": "Texas",
+    "genre": [
+      "world beat",
+      "smooth jazz",
+      "world music",
+      "country",
+      "folk",
+      "downtempo"
+    ],
+    "Longitude": "-100.07715",
+    "Artist": 143
+  },
+  {
+    "Latitude": "33.35303",
+    "City": "Inverness, MS",
+    "genre": [
+      "electric blues",
+      "soul blues",
+      "blues",
+      "chicago blues",
+      "delta blues",
+      "jazz funk"
+    ],
+    "Longitude": "-90.59005",
+    "Artist": 144
+  },
+  {
+    "Latitude": "27.9758",
+    "City": "Florida",
+    "genre": [
+      "roots reggae",
+      "reggae",
+      "dancehall",
+      "world",
+      "funk",
+      "rock"
+    ],
+    "Longitude": "-81.54106",
+    "Artist": 145
+  },
+  {
+    "Latitude": "38.8991",
+    "City": "Washington DC",
+    "genre": [
+      "post-grunge",
+      "grunge",
+      "rock",
+      "alternative",
+      "alternative pop rock",
+      "glam rock"
+    ],
+    "Longitude": "-77.029",
+    "Artist": 146
+  },
+  {
+    "Latitude": "32.67828",
+    "City": "Georgia",
+    "genre": [
+      "folk-pop",
+      "folk",
+      "singer-songwriter",
+      "indie rock",
+      "pop",
+      "acoustic"
+    ],
+    "Longitude": "-83.22295",
+    "Artist": 147
+  },
+  {
+    "Latitude": "30.22032",
+    "City": "Lafayette, LA",
+    "genre": [
+      "zydeco",
+      "country rock",
+      "classic country",
+      "honky tonk",
+      "los angeles",
+      "country"
+    ],
+    "Longitude": "-92.01705",
+    "Artist": 148
+  },
+  {
+    "Latitude": "35.83073",
+    "City": "Tennessee",
+    "genre": [
+      "celtic",
+      "future jazz",
+      "downtempo",
+      "easy listening",
+      "folk rock",
+      "jazz"
+    ],
+    "Longitude": "-85.97874",
+    "Artist": 149
+  },
+  {
+    "Latitude": "29.95369",
+    "City": "New Orleans, LA",
+    "genre": [
+      "easy listening",
+      "chanson",
+      "ragtime",
+      "oldies",
+      "jazz",
+      "electro"
+    ],
+    "Longitude": "-90.07771",
+    "Artist": 150
+  },
+  {
+    "Latitude": "40.79263",
+    "City": "Whitestone, Queens, NY",
+    "genre": [
+      "urban folk",
+      "new weird america",
+      "chill-out",
+      "country rock",
+      "singer-songwriter",
+      "space rock"
+    ],
+    "Longitude": "-73.80817",
+    "Artist": 151
+  },
+  {
+    "Latitude": "27.94017",
+    "City": "Brandon",
+    "genre": [
+      "disco",
+      "calypso",
+      "reggae",
+      "hard trance",
+      "dub",
+      "progressive house"
+    ],
+    "Longitude": "-82.32547",
+    "Artist": 152
+  },
+  {
+    "Latitude": "52.88356",
+    "City": "UK - England - North East",
+    "genre": [
+      "power pop",
+      "alternative hip hop",
+      "classic rock",
+      "pop",
+      "rock",
+      "hip hop"
+    ],
+    "Longitude": "-1.97406",
+    "Artist": 153
+  },
+  {
+    "Latitude": "35.4948",
+    "City": "Dayton, TN",
+    "genre": [
+      "piedmont blues",
+      "country blues",
+      "blues",
+      "folk",
+      "tin pan alley",
+      "los angeles"
+    ],
+    "Longitude": "-85.01235",
+    "Artist": 154
+  },
+  {
+    "Latitude": "37.77916",
+    "City": "California - SF",
+    "genre": [
+      "hyphy",
+      "hip hop",
+      "gangster rap",
+      "west coast rap",
+      "rap",
+      "latin rap"
+    ],
+    "Longitude": "-122.42005",
+    "Artist": 155
+  },
+  {
+    "Latitude": "30.2676",
+    "City": "Austin, TX",
+    "genre": [
+      "blues-rock",
+      "texas blues",
+      "electric blues",
+      "pop rock",
+      "blues",
+      "southern rock"
+    ],
+    "Longitude": "-97.74298",
+    "Artist": 156
+  },
+  {
+    "Latitude": "40.71455",
+    "City": "NY - New York City",
+    "genre": [
+      "free jazz",
+      "jazz",
+      "japan",
+      "piano",
+      "free",
+      "new york"
+    ],
+    "Longitude": "-74.00712",
+    "Artist": 157
+  },
+  {
+    "Latitude": "29.78772",
+    "City": "katy",
+    "genre": [
+      "heavy metal",
+      "hard rock",
+      "glam rock",
+      "glam metal",
+      "rock",
+      "hair metal"
+    ],
+    "Longitude": "-95.82333",
+    "Artist": 158
+  },
+  {
+    "Latitude": "30.06677",
+    "City": "Middleburg, Florida",
+    "genre": [
+      "screamo",
+      "rock",
+      "alternative",
+      "alternative rock",
+      "emo pop",
+      "acoustic"
+    ],
+    "Longitude": "-81.86674",
+    "Artist": 159
+  },
+  {
+    "Latitude": "10.73445",
+    "City": "Maracaibo, VE",
+    "genre": [
+      "salsa",
+      "gaita",
+      "j pop",
+      "latin",
+      "latino",
+      "pop"
+    ],
+    "Longitude": "-71.63056",
+    "Artist": 160
+  },
+  {
+    "Latitude": "54.6904",
+    "City": "West Hartlepool, England",
+    "genre": [
+      "blues-rock",
+      "british blues",
+      "slide",
+      "pop rock",
+      "rock 'n roll",
+      "blues"
+    ],
+    "Longitude": "-1.2323",
+    "Artist": 161
+  },
+  {
+    "Latitude": "-9.18134",
+    "City": "Peru",
+    "genre": [
+      "pop rock",
+      "ballad",
+      "pop",
+      "latin pop",
+      "disco",
+      "singer-songwriter"
+    ],
+    "Longitude": "-75.00236",
+    "Artist": 162
+  },
+  {
+    "Latitude": "-9.82491",
+    "City": "Lagoa da Canoa, Alagoas",
+    "genre": [
+      "latin jazz",
+      "samba",
+      "free jazz",
+      "free improvisation",
+      "bossa nova",
+      "hard bop"
+    ],
+    "Longitude": "-36.74328",
+    "Artist": 163
+  },
+  {
+    "Latitude": "33.74831",
+    "City": "Atlanta, GA",
+    "genre": [
+      "christian metal",
+      "death core",
+      "math-core",
+      "christian hardcore",
+      "tech metal",
+      "technical death metal"
+    ],
+    "Longitude": "-84.39111",
+    "Artist": 164
+  },
+  {
+    "Latitude": "37.80506",
+    "City": "Oakland, CA",
+    "genre": [
+      "blues-rock",
+      "country blues",
+      "delta blues",
+      "blues",
+      "chill-out",
+      "california"
+    ],
+    "Longitude": "-122.27302",
+    "Artist": 165
+  },
+  {
+    "Latitude": "34.05349",
+    "City": "Los Angeles, California",
+    "genre": [
+      "hard house",
+      "hard trance",
+      "rapcore",
+      "grime",
+      "pop rap",
+      "crunk"
+    ],
+    "Longitude": "-118.24532",
+    "Artist": 166
+  },
+  {
+    "Latitude": "39.75911",
+    "City": "Dayton, Ohio",
+    "genre": [
+      "easy listening",
+      "ska punk",
+      "rockabilly",
+      "melodic hardcore",
+      "ska",
+      "indie rock"
+    ],
+    "Longitude": "-84.19444",
+    "Artist": 167
+  },
+  {
+    "Latitude": "42.84751",
+    "City": "Vitoria, Spain",
+    "genre": [
+      "latin pop",
+      "male vocalist",
+      "pop",
+      "spanish",
+      "romantic",
+      "acoustic"
+    ],
+    "Longitude": "-2.67973",
+    "Artist": 168
+  },
+  {
+    "Latitude": "36.15398",
+    "City": "Tulsa, OK",
+    "genre": [
+      "power pop",
+      "pop rock",
+      "rock 'n roll",
+      "disco",
+      "new wave",
+      "rock"
+    ],
+    "Longitude": "-95.99277",
+    "Artist": 169
+  },
+  {
+    "Latitude": "32.58507",
+    "City": "Mississippi",
+    "genre": [
+      "southern gospel",
+      "spiritual",
+      "gospel",
+      "black gospel",
+      "christian",
+      "soul"
+    ],
+    "Longitude": "-89.87374",
+    "Artist": 170
+  },
+  {
+    "Latitude": "34.60515",
+    "City": "Lawton, OK",
+    "genre": [
+      "blues-rock",
+      "country rock",
+      "classic rock",
+      "southern rock",
+      "country blues",
+      "pop rock"
+    ],
+    "Longitude": "-98.38983",
+    "Artist": 171
+  },
+  {
+    "Latitude": "37.77916",
+    "City": "California - SF",
+    "genre": [
+      "hard trance",
+      "happy hardcore",
+      "trance",
+      "techno",
+      "progressive trance",
+      "europop"
+    ],
+    "Longitude": "-122.42005",
+    "Artist": 172
+  },
+  {
+    "Latitude": "31.1689",
+    "City": "Texas",
+    "genre": [
+      "hard trance",
+      "uk garage",
+      "breakbeat",
+      "trance",
+      "progressive trance",
+      "progressive house"
+    ],
+    "Longitude": "-100.07715",
+    "Artist": 173
+  },
+  {
+    "Latitude": "40.71455",
+    "City": "New York",
+    "genre": [
+      "cabaret",
+      "indie pop",
+      "brill building pop",
+      "rock",
+      "power pop",
+      "adult contemporary"
+    ],
+    "Longitude": "-74.00712",
+    "Artist": 174
+  },
+  {
+    "Latitude": "37.77916",
+    "City": "San Francisco, CA",
+    "genre": [
+      "hard rock",
+      "country rock",
+      "folk rock",
+      "pop rock",
+      "glam rock",
+      "adult contemporary"
+    ],
+    "Longitude": "-122.42005",
+    "Artist": 175
+  },
+  {
+    "Latitude": "39.95227",
+    "City": "Philadelphia, PA",
+    "genre": [
+      "jazz funk",
+      "smooth jazz",
+      "soul jazz",
+      "quiet storm",
+      "jazz",
+      "disco"
+    ],
+    "Longitude": "-75.16237",
+    "Artist": 176
+  },
+  {
+    "Latitude": "40.14323",
+    "City": "New Jersey",
+    "genre": [
+      "alternative metal",
+      "hard rock",
+      "heavy metal",
+      "experimental rock",
+      "emo",
+      "instrumental rock"
+    ],
+    "Longitude": "-74.72671",
+    "Artist": 177
+  },
+  {
+    "Latitude": "35.48703",
+    "City": "Ozark, AR",
+    "genre": [
+      "blues-rock",
+      "electric blues",
+      "blues",
+      "instrumental rock",
+      "country rock",
+      "country blues"
+    ],
+    "Longitude": "-93.8277",
+    "Artist": 178
+  },
+  {
+    "Latitude": "42.93896",
+    "City": "AMSTERDAM, New York",
+    "genre": [
+      "christian hardcore",
+      "death core",
+      "math-core",
+      "delta blues",
+      "christian metal",
+      "metalcore"
+    ],
+    "Longitude": "-74.18893",
+    "Artist": 179
+  },
+  {
+    "Latitude": "28.33268",
+    "City": "Rockledge, Florida",
+    "genre": [
+      "straight edge",
+      "christian hardcore",
+      "hardcore punk",
+      "heavy metal",
+      "united states",
+      "hardcore"
+    ],
+    "Longitude": "-80.73486",
+    "Artist": 180
+  },
+  {
+    "Latitude": "34.60515",
+    "City": "Lawton, OK",
+    "genre": [
+      "country",
+      "contemporary country",
+      "male vocalist",
+      "christmas music",
+      "country pop",
+      "male"
+    ],
+    "Longitude": "-98.38983",
+    "Artist": 181
+  },
+  {
+    "Latitude": "38.08767",
+    "City": "Lamar, CO",
+    "genre": [
+      "western swing",
+      "traditional country",
+      "cowboy",
+      "country",
+      "guitar",
+      "gospel"
+    ],
+    "Longitude": "-102.61916",
+    "Artist": 182
+  },
+  {
+    "Latitude": "36.16778",
+    "City": "Nashville",
+    "genre": [
+      "glam metal",
+      "hard rock",
+      "rock",
+      "guitar virtuoso",
+      "guitar",
+      "aor"
+    ],
+    "Longitude": "-86.77836",
+    "Artist": 183
+  },
+  {
+    "Latitude": "33.76672",
+    "City": "Long Beach, CA",
+    "genre": [
+      "hard house",
+      "freestyle",
+      "teen pop",
+      "dance pop",
+      "pop rap",
+      "ballad"
+    ],
+    "Longitude": "-118.1924",
+    "Artist": 184
+  },
+  {
+    "Latitude": "34.05349",
+    "City": "Los Angeles, CA",
+    "genre": [
+      "stoner rock",
+      "southern rock",
+      "hard rock",
+      "classic rock",
+      "psychedelic rock",
+      "heavy metal"
+    ],
+    "Longitude": "-118.24532",
+    "Artist": 185
+  },
+  {
+    "Latitude": "44.11559",
+    "City": "Oregon",
+    "genre": [
+      "hard trance",
+      "happy hardcore",
+      "trance",
+      "techno",
+      "progressive trance",
+      "europop"
+    ],
+    "Longitude": "-120.51484",
+    "Artist": 172
+  },
+  {
+    "Latitude": "53.93063",
+    "City": "UK - England - Yorkshire",
+    "genre": [
+      "oi",
+      "punk",
+      "british punk rock",
+      "hardcore punk",
+      "ska",
+      "rock"
+    ],
+    "Longitude": "-1.20788",
+    "Artist": 186
+  },
+  {
+    "Latitude": "53.41961",
+    "City": "Ireland",
+    "genre": [
+      "irish folk",
+      "celtic",
+      "celtic fusion",
+      "folk rock",
+      "bluegrass",
+      "celtic rock"
+    ],
+    "Longitude": "-8.24055",
+    "Artist": 187
+  },
+  {
+    "Latitude": "33.6671",
+    "City": "Orange County, CA",
+    "genre": [
+      "post-grunge",
+      "rap metal",
+      "pop rock",
+      "pop punk",
+      "nu metal",
+      "power pop"
+    ],
+    "Longitude": "-117.76505",
+    "Artist": 188
+  },
+  {
+    "Latitude": "43.87165",
+    "City": "Vermont",
+    "genre": [
+      "blues",
+      "folk rock",
+      "folk",
+      "acoustic blues",
+      "texas",
+      "rock"
+    ],
+    "Longitude": "-72.45165",
+    "Artist": 189
+  },
+  {
+    "Latitude": "29.59733",
+    "City": "Houma, LA",
+    "genre": [
+      "punk blues",
+      "blues-rock",
+      "indie rock",
+      "alternative rock",
+      "swamp rock",
+      "modern rock"
+    ],
+    "Longitude": "-90.71913",
+    "Artist": 190
+  },
+  {
+    "Latitude": "51.50632",
+    "City": "London, England",
+    "genre": [
+      "blues",
+      "hard rock",
+      "rock",
+      "england",
+      "london",
+      "beat"
+    ],
+    "Longitude": "-0.12714",
+    "Artist": 191
+  },
+  {
+    "Latitude": "42.33168",
+    "City": "Nashville / Los Angeles",
+    "genre": [
+      "blues-rock",
+      "garage rock",
+      "blues",
+      "alternative rock",
+      "indie rock",
+      "rock"
+    ],
+    "Longitude": "-83.04792",
+    "Artist": 192
+  },
+  {
+    "Latitude": "51.50632",
+    "City": "London, England",
+    "genre": [
+      "dance rock",
+      "new wave",
+      "europop",
+      "british pop",
+      "dance pop",
+      "british invasion"
+    ],
+    "Longitude": "-0.12714",
+    "Artist": 193
+  },
+  {
+    "Latitude": "59.27074",
+    "City": "Ã–rebro",
+    "genre": [
+      "stoner rock",
+      "stoner metal",
+      "doom metal",
+      "psychedelic rock",
+      "space rock",
+      "rock"
+    ],
+    "Longitude": "15.21751",
+    "Artist": 194
+  },
+  {
+    "Latitude": "26.27249",
+    "City": "Coral Springs, Florida",
+    "genre": [
+      "hard rock",
+      "soft rock",
+      "heavy metal",
+      "funk rock",
+      "pop rap",
+      "german pop"
+    ],
+    "Longitude": "-80.25306",
+    "Artist": 195
+  },
+  {
+    "Latitude": "35.83073",
+    "City": "Tennessee",
+    "genre": [
+      "celtic",
+      "future jazz",
+      "downtempo",
+      "easy listening",
+      "folk rock",
+      "jazz"
+    ],
+    "Longitude": "-85.97874",
+    "Artist": 149
+  },
+  {
+    "Latitude": "26.12367",
+    "City": "FORT LAUDERDALE, Flevoland",
+    "genre": [
+      "doo-wop",
+      "country blues",
+      "vaudeville",
+      "harmonica blues",
+      "texas blues",
+      "gypsy jazz"
+    ],
+    "Longitude": "-80.14356",
+    "Artist": 196
+  },
+  {
+    "Latitude": "34.36401",
+    "City": "Oxford, MS",
+    "genre": [
+      "delta blues",
+      "blues-rock",
+      "electric blues",
+      "blues",
+      "juke joint blues",
+      "chicago blues"
+    ],
+    "Longitude": "-89.51877",
+    "Artist": 197
+  },
+  {
+    "Latitude": "44.64616",
+    "City": "Halifax, Nova Scotia, Canada",
+    "genre": [
+      "pop rock",
+      "hard rock",
+      "heavy metal",
+      "rock",
+      "classic rock",
+      "soft rock"
+    ],
+    "Longitude": "-63.57392",
+    "Artist": 198
+  },
+  {
+    "Latitude": "50.50101",
+    "City": "Belgium",
+    "genre": [
+      "pop",
+      "spanish",
+      "00s",
+      "spain",
+      "latin",
+      "spanish pop"
+    ],
+    "Longitude": "4.47684",
+    "Artist": 199
+  },
+  {
+    "Latitude": "30.2676",
+    "City": "Austin, TX",
+    "genre": [
+      "happy hardcore",
+      "hard house",
+      "modern rock",
+      "uk garage",
+      "hard trance",
+      "trance"
+    ],
+    "Longitude": "-97.74298",
+    "Artist": 200
+  },
+  {
+    "Latitude": "53.38311",
+    "City": "Sheffield, Yorkshire, England",
+    "genre": [
+      "indie pop",
+      "madchester",
+      "power pop",
+      "new wave",
+      "alternative pop rock",
+      "90s"
+    ],
+    "Longitude": "-1.46454",
+    "Artist": 201
+  },
+  {
+    "Latitude": "35.00459",
+    "City": "Cotton Plant, AR",
+    "genre": [
+      "jump blues",
+      "blues-rock",
+      "piano blues",
+      "r&b",
+      "blues",
+      "rock 'n roll"
+    ],
+    "Longitude": "-91.25019",
+    "Artist": 202
+  },
+  {
+    "Latitude": "52.88356",
+    "City": "Tyneside, England",
+    "genre": [
+      "hard rock",
+      "heavy metal",
+      "glam metal",
+      "classic rock",
+      "alternative hip hop",
+      "roots reggae"
+    ],
+    "Longitude": "-1.97406",
+    "Artist": 203
+  },
+  {
+    "Latitude": "-33.96243",
+    "City": "Port Elizabeth, South Africa",
+    "genre": [
+      "ballad",
+      "disco",
+      "northern soul",
+      "chanson",
+      "smooth jazz",
+      "oldies"
+    ],
+    "Longitude": "25.62326",
+    "Artist": 204
+  },
+  {
+    "Latitude": "55.67631",
+    "City": "Copenhagen (Denmark)",
+    "genre": [
+      "rock 'n roll",
+      "blues-rock",
+      "cowpunk",
+      "southern rock",
+      "psychobilly",
+      "industrial metal"
+    ],
+    "Longitude": "12.56935",
+    "Artist": 205
+  },
+  {
+    "Latitude": "34.23497",
+    "City": "Wilmington, NC",
+    "genre": [
+      "southern rock",
+      "post-hardcore",
+      "screamo",
+      "christian metal",
+      "melodic hardcore",
+      "christian rock"
+    ],
+    "Longitude": "-77.94599",
+    "Artist": 206
+  },
+  {
+    "Latitude": "-34.60852",
+    "City": "Buenos Aires, Argentina",
+    "genre": [
+      "chanson",
+      "jazz fusion",
+      "folk rock",
+      "soundtrack",
+      "progressive rock",
+      "jazz"
+    ],
+    "Longitude": "-58.37354",
+    "Artist": 207
+  },
+  {
+    "Latitude": "35.472",
+    "City": "Oklahoma City, OK",
+    "genre": [
+      "blues-rock",
+      "country rock",
+      "folk rock",
+      "roots rock",
+      "southern rock",
+      "country blues"
+    ],
+    "Longitude": "-97.52033",
+    "Artist": 208
+  },
+  {
+    "Latitude": "29.95369",
+    "City": "New Orleans, LA",
+    "genre": [
+      "jazz blues",
+      "country blues",
+      "piedmont blues",
+      "blues",
+      "blues-rock",
+      "piano blues"
+    ],
+    "Longitude": "-90.07771",
+    "Artist": 209
+  },
+  {
+    "Latitude": "53.34376",
+    "City": "Dublin, Ireland",
+    "genre": [
+      "irish folk",
+      "folk-pop",
+      "celtic",
+      "folk",
+      "irish",
+      "world"
+    ],
+    "Longitude": "-6.24953",
+    "Artist": 210
+  },
+  {
+    "Latitude": "-29.21545",
+    "City": "Thaba Nchu",
+    "genre": [
+      "ccm",
+      "gangster rap",
+      "christian hip hop",
+      "hard trance",
+      "progressive trance",
+      "christian rock"
+    ],
+    "Longitude": "26.83776",
+    "Artist": 211
+  },
+  {
+    "Latitude": "30.2676",
+    "City": "Austin, TX",
+    "genre": [
+      "honky tonk",
+      "classic country",
+      "country rock",
+      "southern rock",
+      "singer-songwriter",
+      "male vocalist"
+    ],
+    "Longitude": "-97.74298",
+    "Artist": 212
+  },
+  {
+    "Latitude": "37.77916",
+    "City": "California - SF",
+    "genre": [
+      "cabaret",
+      "easy listening",
+      "disco",
+      "hip hop",
+      "vaudeville",
+      "italian disco"
+    ],
+    "Longitude": "-122.42005",
+    "Artist": 213
+  },
+  {
+    "Latitude": "52.94922",
+    "City": "Nottingham",
+    "genre": [
+      "sludge metal",
+      "math rock",
+      "grunge",
+      "heavy metal",
+      "alternative rock",
+      "stoner metal"
+    ],
+    "Longitude": "-1.14392",
+    "Artist": 214
+  },
+  {
+    "Latitude": "31.1689",
+    "City": "Texas",
+    "genre": [
+      "dance music",
+      "eurodance",
+      "hip hop",
+      "rap",
+      "female vocalist",
+      "jazz"
+    ],
+    "Longitude": "-100.07715",
+    "Artist": 215
+  },
+  {
+    "Latitude": "35.472",
+    "City": "Oklahoma City, OK",
+    "genre": [
+      "ccm",
+      "christian rock",
+      "religious music",
+      "christian music",
+      "easy listening",
+      "male vocalist"
+    ],
+    "Longitude": "-97.52033",
+    "Artist": 216
+  },
+  {
+    "Latitude": "48.85692",
+    "City": "Paris, France",
+    "genre": [
+      "chanson",
+      "pop rock",
+      "europop",
+      "pop",
+      "ballad",
+      "blues-rock"
+    ],
+    "Longitude": "2.34121",
+    "Artist": 217
+  },
+  {
+    "Latitude": "34.19451",
+    "City": "Clarksdale, MS",
+    "genre": [
+      "texas blues",
+      "country blues",
+      "electric blues",
+      "delta blues",
+      "blues",
+      "blues-rock"
+    ],
+    "Longitude": "-90.5651",
+    "Artist": 218
+  },
+  {
+    "Latitude": "40.71455",
+    "City": "NY - New York City",
+    "genre": [
+      "deep house",
+      "dub",
+      "afrobeat",
+      "downtempo",
+      "tech house",
+      "reggae"
+    ],
+    "Longitude": "-74.00712",
+    "Artist": 219
+  },
+  {
+    "Latitude": "31.1689",
+    "City": "Texas",
+    "genre": [
+      "easy listening",
+      "adult contemporary",
+      "meditation",
+      "chill-out",
+      "contemporary instrumental",
+      "christmas music"
+    ],
+    "Longitude": "-100.07715",
+    "Artist": 220
+  },
+  {
+    "Latitude": "37.4876",
+    "City": "JAPAN",
+    "genre": [
+      "honky tonk",
+      "country rock",
+      "r&b",
+      "country",
+      "easy listening",
+      "disco"
+    ],
+    "Longitude": "139.83829",
+    "Artist": 221
+  },
+  {
+    "Latitude": "40.71455",
+    "City": "Virginia",
+    "genre": [
+      "hardcore punk",
+      "heavy metal",
+      "alternative punk rock",
+      "new york",
+      "hardcore",
+      "punk"
+    ],
+    "Longitude": "-74.00712",
+    "Artist": 222
+  },
+  {
+    "Latitude": "50.44801",
+    "City": "Regina, Saskatchewan, Canada",
+    "genre": [
+      "hard bop",
+      "jazz funk",
+      "smooth jazz",
+      "world music",
+      "jazz",
+      "post-bop"
+    ],
+    "Longitude": "-104.59518",
+    "Artist": 223
+  },
+  {
+    "Latitude": "38.00335",
+    "City": "Virginia",
+    "genre": [
+      "modern rock",
+      "rockabilly",
+      "rock",
+      "classical",
+      "spiritual",
+      "waltz"
+    ],
+    "Longitude": "-79.77127",
+    "Artist": 224
+  },
+  {
+    "Latitude": "40.71455",
+    "City": "NY - New York City",
+    "genre": [
+      "jazz fusion",
+      "free jazz",
+      "meditation",
+      "marimba",
+      "chill-out",
+      "jazz"
+    ],
+    "Longitude": "-74.00712",
+    "Artist": 225
+  },
+  {
+    "Latitude": "30.33138",
+    "City": "Jacksonville, FL",
+    "genre": [
+      "rock",
+      "alternative",
+      "punk pop",
+      "punk",
+      "acoustic",
+      "pop"
+    ],
+    "Longitude": "-81.6558",
+    "Artist": 226
+  },
+  {
+    "Latitude": "49.26044",
+    "City": "Vancouver, BC, Canada",
+    "genre": [
+      "power pop",
+      "indie pop",
+      "indie rock",
+      "canadian",
+      "indie",
+      "canada"
+    ],
+    "Longitude": "-123.11403",
+    "Artist": 227
+  },
+  {
+    "Latitude": "36.87652",
+    "City": "Sikeston, MO",
+    "genre": [
+      "jazz fusion",
+      "jam band",
+      "instrumental rock",
+      "chill-out",
+      "nu jazz",
+      "progressive rock"
+    ],
+    "Longitude": "-89.58828",
+    "Artist": 228
+  },
+  {
+    "Latitude": "40.71455",
+    "City": "New York",
+    "genre": [
+      "smooth jazz",
+      "bluegrass",
+      "ragtime",
+      "spiritual",
+      "fusion",
+      "jazz"
+    ],
+    "Longitude": "-74.00712",
+    "Artist": 229
+  },
+  {
+    "Latitude": "34.7519",
+    "City": "Arkansas",
+    "genre": [
+      "chicago blues",
+      "country blues",
+      "blues",
+      "piano blues",
+      "jug band",
+      "piedmont blues"
+    ],
+    "Longitude": "-92.13055",
+    "Artist": 230
+  },
+  {
+    "Latitude": "56.95468",
+    "City": "Canada",
+    "genre": [
+      "meditation",
+      "chill-out",
+      "easy listening",
+      "ambient",
+      "spiritual",
+      "new age"
+    ],
+    "Longitude": "-98.30897",
+    "Artist": 231
+  },
+  {
+    "Latitude": "42.17963",
+    "City": "Blandford, MA",
+    "genre": [
+      "honky tonk",
+      "massachusetts",
+      "country",
+      "traditional country",
+      "electronic",
+      "experimental"
+    ],
+    "Longitude": "-72.92483",
+    "Artist": 232
+  },
+  {
+    "Latitude": "42.32807",
+    "City": "Ann Arbor, MI",
+    "genre": [
+      "instrumental rock",
+      "intelligent dance music",
+      "electro",
+      "post rock",
+      "chill-out",
+      "electroclash"
+    ],
+    "Longitude": "-83.7336",
+    "Artist": 233
+  },
+  {
+    "Latitude": "35.83073",
+    "City": "Tennessee",
+    "genre": [
+      "salsa",
+      "space age pop",
+      "latin jazz",
+      "hyphy",
+      "easy listening",
+      "latin"
+    ],
+    "Longitude": "-85.97874",
+    "Artist": 234
+  },
+  {
+    "Latitude": "30.9742",
+    "City": "Louisiana",
+    "genre": [
+      "flamenco",
+      "neoclassical",
+      "hardcore hip hop",
+      "cabaret",
+      "orchestra",
+      "waltz"
+    ],
+    "Longitude": "-91.52382",
+    "Artist": 235
+  },
+  {
+    "Latitude": "42.31256",
+    "City": "Boston, MA",
+    "genre": [
+      "jug band",
+      "massachusetts",
+      "parody",
+      "jazz",
+      "blues",
+      "folk"
+    ],
+    "Longitude": "-71.08868",
+    "Artist": 236
+  },
+  {
+    "Latitude": "35.83073",
+    "City": "Tennessee",
+    "genre": [
+      "pop rock",
+      "new wave",
+      "dance rock",
+      "rock",
+      "new romantic",
+      "europop"
+    ],
+    "Longitude": "-85.97874",
+    "Artist": 237
+  },
+  {
+    "Latitude": "48.42831",
+    "City": "Georgia",
+    "genre": [
+      "folk rock",
+      "singer-songwriter",
+      "americana",
+      "country",
+      "adult contemporary",
+      "folk"
+    ],
+    "Longitude": "-123.36451",
+    "Artist": 238
+  },
+  {
+    "Latitude": "-24.9162",
+    "City": "Australia",
+    "genre": [
+      "art rock",
+      "indie rock",
+      "twee pop",
+      "pop rock",
+      "rock",
+      "alternative rock"
+    ],
+    "Longitude": "133.39311",
+    "Artist": 239
+  },
+  {
+    "Latitude": "56.153",
+    "City": "Aarhus, Denmark",
+    "genre": [
+      "hard bop",
+      "bebop",
+      "latin jazz",
+      "jazz",
+      "funk",
+      "blues"
+    ],
+    "Longitude": "10.20452",
+    "Artist": 240
+  },
+  {
+    "Latitude": "56.65286",
+    "City": "Scotland",
+    "genre": [
+      "indie rock",
+      "power pop",
+      "twee pop",
+      "rock",
+      "uk garage",
+      "alternative rock"
+    ],
+    "Longitude": "-3.99667",
+    "Artist": 241
+  },
+  {
+    "Latitude": "29.76045",
+    "City": "HOUSTON, Texas",
+    "genre": [
+      "salsa",
+      "soukous",
+      "congo",
+      "mambo",
+      "samba",
+      "merengue"
+    ],
+    "Longitude": "-95.36978",
+    "Artist": 242
+  },
+  {
+    "Latitude": "59.46148",
+    "City": "Russia",
+    "genre": [
+      "vaudeville",
+      "easy listening",
+      "cabaret",
+      "country blues",
+      "gypsy jazz",
+      "doo-wop"
+    ],
+    "Longitude": "108.83178",
+    "Artist": 243
+  },
+  {
+    "Latitude": "37.82245",
+    "City": "Kentucky",
+    "genre": [
+      "neue deutsche welle",
+      "progressive trance",
+      "tech house",
+      "breakbeat",
+      "rock",
+      "techno"
+    ],
+    "Longitude": "-85.69091",
+    "Artist": 244
+  },
+  {
+    "Latitude": "32.67828",
+    "City": "Georgia",
+    "genre": [
+      "filk",
+      "comedy",
+      "spoken word",
+      "country",
+      "funny",
+      "stand-up comedy"
+    ],
+    "Longitude": "-83.22295",
+    "Artist": 245
+  },
+  {
+    "Latitude": "40.68869",
+    "City": "Bedford-Stuyvesant, NY",
+    "genre": [
+      "hip hop",
+      "neo soul",
+      "freestyle",
+      "gangster rap",
+      "hardcore hip hop",
+      "hardstyle"
+    ],
+    "Longitude": "-73.93918",
+    "Artist": 246
+  },
+  {
+    "Latitude": "30.38815",
+    "City": "Navasota, TX",
+    "genre": [
+      "texas blues",
+      "country blues",
+      "blues",
+      "delta blues",
+      "blues-rock",
+      "piedmont blues"
+    ],
+    "Longitude": "-96.0878",
+    "Artist": 247
+  },
+  {
+    "Latitude": "32.77942",
+    "City": "Goodwill, LA",
+    "genre": [
+      "country rock",
+      "blues-rock",
+      "swamp pop",
+      "southern rock",
+      "outlaw country",
+      "swamp rock"
+    ],
+    "Longitude": "-91.56123",
+    "Artist": 248
+  },
+  {
+    "Latitude": "40.71455",
+    "City": "New York, NY",
+    "genre": [
+      "exotica",
+      "space age pop",
+      "easy listening",
+      "jazz",
+      "mambo",
+      "latin jazz"
+    ],
+    "Longitude": "-74.00712",
+    "Artist": 249
+  },
+  {
+    "Latitude": "54.97791",
+    "City": "Newcastle, England",
+    "genre": [
+      "blue-eyed soul",
+      "british pop",
+      "chill-out",
+      "r&b",
+      "soul",
+      "easy listening"
+    ],
+    "Longitude": "-1.61237",
+    "Artist": 250
+  },
+  {
+    "Latitude": "51.50632",
+    "City": "London",
+    "genre": [
+      "dubstep",
+      "grime",
+      "jungle music",
+      "tech house",
+      "dub",
+      "glitch"
+    ],
+    "Longitude": "-0.12714",
+    "Artist": 251
+  },
+  {
+    "Latitude": "32.58507",
+    "City": "Mississippi",
+    "genre": [
+      "hard rock",
+      "rap",
+      "rare groove",
+      "psychedelic",
+      "hip hop",
+      "funk"
+    ],
+    "Longitude": "-89.87374",
+    "Artist": 252
+  },
+  {
+    "Latitude": "45.51228",
+    "City": "Montreal",
+    "genre": [
+      "los angeles",
+      "chanson francaise",
+      "montreal",
+      "rock",
+      "house",
+      "free"
+    ],
+    "Longitude": "-73.55439",
+    "Artist": 253
+  },
+  {
+    "Latitude": "39.73926",
+    "City": "Brooklyn, NY",
+    "genre": [
+      "blues-rock",
+      "blues",
+      "texas blues",
+      "jazz",
+      "rock",
+      "female vocalist"
+    ],
+    "Longitude": "-89.50409",
+    "Artist": 254
+  },
+  {
+    "Latitude": "-23.56287",
+    "City": "Sao Paulo, Brazil",
+    "genre": [
+      "brazilian jazz",
+      "latin jazz",
+      "hard bop",
+      "jazz funk",
+      "vocal jazz",
+      "cool jazz"
+    ],
+    "Longitude": "-46.65466",
+    "Artist": 255
+  },
+  {
+    "Latitude": "40.4203",
+    "City": "Madrid, Spain",
+    "genre": [
+      "j pop",
+      "tech house",
+      "dancehall",
+      "hip hop",
+      "downtempo",
+      "electronic"
+    ],
+    "Longitude": "-3.70577",
+    "Artist": 256
+  },
+  {
+    "Latitude": "48.20254",
+    "City": "Vienna, Austria",
+    "genre": [
+      "dance pop",
+      "new wave",
+      "pop rock",
+      "pop rap",
+      "disco",
+      "blues-rock"
+    ],
+    "Longitude": "16.3688",
+    "Artist": 257
+  },
+  {
+    "Latitude": "44.09319",
+    "City": "Savignano S/R",
+    "genre": [
+      "rock",
+      "alternative rock",
+      "acoustic",
+      "techno",
+      "electronic",
+      "pop"
+    ],
+    "Longitude": "12.39424",
+    "Artist": 258
+  },
+  {
+    "Latitude": "35.74595",
+    "City": "Ripley, TN",
+    "genre": [
+      "country blues",
+      "delta blues",
+      "memphis blues",
+      "piedmont blues",
+      "blues",
+      "chicago blues"
+    ],
+    "Longitude": "-89.53176",
+    "Artist": 259
+  },
+  {
+    "Latitude": "39.73926",
+    "City": "Illinois",
+    "genre": [
+      "doo-wop",
+      "sxsw 2007",
+      "garage rock",
+      "chicago",
+      "california",
+      "blues"
+    ],
+    "Longitude": "-89.50409",
+    "Artist": 260
+  },
+  {
+    "Latitude": "33.45081",
+    "City": "Indianola, MS",
+    "genre": [
+      "electric blues",
+      "soul blues",
+      "blues",
+      "blues-rock",
+      "chicago blues",
+      "r&b"
+    ],
+    "Longitude": "-90.645",
+    "Artist": 261
+  },
+  {
+    "Latitude": "60.3907",
+    "City": "Bergen Norway",
+    "genre": [
+      "pop rock",
+      "latin pop",
+      "hip hop",
+      "female vocalist",
+      "rock",
+      "adult contemporary"
+    ],
+    "Longitude": "5.33275",
+    "Artist": 262
+  },
+  {
+    "Latitude": "35.472",
+    "City": "Oklahoma City, OK",
+    "genre": [
+      "country rock",
+      "country",
+      "country music",
+      "folk",
+      "world",
+      "rock"
+    ],
+    "Longitude": "-97.52033",
+    "Artist": 263
+  },
+  {
+    "Latitude": "43.58915",
+    "City": "Stickney",
+    "genre": [
+      "jam band",
+      "math rock",
+      "free jazz",
+      "jazz",
+      "breakcore",
+      "gabba"
+    ],
+    "Longitude": "-98.44127",
+    "Artist": 264
+  },
+  {
+    "Latitude": "40.71455",
+    "City": "New York",
+    "genre": [
+      "meditation",
+      "easy listening",
+      "ambient",
+      "electronic",
+      "new age",
+      "folk"
+    ],
+    "Longitude": "-74.00712",
+    "Artist": 265
+  },
+  {
+    "Latitude": "36.16778",
+    "City": "NASHVILLE, Tennessee",
+    "genre": [
+      "ccm",
+      "country rock",
+      "inspirational",
+      "indie rock",
+      "male vocalist",
+      "rock"
+    ],
+    "Longitude": "-86.77836",
+    "Artist": 266
+  },
+  {
+    "Latitude": "52.47859",
+    "City": "Birmingham, England",
+    "genre": [
+      "gangster rap",
+      "trip hop",
+      "downtempo",
+      "progressive house",
+      "electro",
+      "hip hop"
+    ],
+    "Longitude": "-1.9086",
+    "Artist": 267
+  },
+  {
+    "Latitude": "26.30116",
+    "City": "Edinburg, TX",
+    "genre": [
+      "tejano",
+      "tex mex",
+      "cumbia",
+      "latin pop",
+      "latin",
+      "spanish"
+    ],
+    "Longitude": "-98.1607",
+    "Artist": 268
+  },
+  {
+    "Latitude": "38.43773",
+    "City": "Santa Rosa, California",
+    "genre": [
+      "pop rock",
+      "pop punk",
+      "rock",
+      "punk",
+      "skate punk",
+      "ska"
+    ],
+    "Longitude": "-122.71242",
+    "Artist": 269
+  },
+  {
+    "Latitude": "35.00459",
+    "City": "Cotton Plant, AR",
+    "genre": [
+      "religious music",
+      "country blues",
+      "jump blues",
+      "classic female blues",
+      "blues",
+      "cool jazz"
+    ],
+    "Longitude": "-91.25019",
+    "Artist": 270
+  },
+  {
+    "Latitude": "33.92192",
+    "City": "Gurdon, AR",
+    "genre": [
+      "jazz blues",
+      "jump blues",
+      "texas blues",
+      "chicago blues",
+      "blues",
+      "harmonica blues"
+    ],
+    "Longitude": "-93.14939",
+    "Artist": 271
+  },
+  {
+    "Latitude": "54.31407",
+    "City": "United Kingdom",
+    "genre": [
+      "blues-rock",
+      "british blues",
+      "electric blues",
+      "country rock",
+      "hard rock",
+      "blues"
+    ],
+    "Longitude": "-2.23001",
+    "Artist": 272
+  },
+  {
+    "Latitude": "42.25147",
+    "City": "Lincoln Park, MI",
+    "genre": [
+      "garage rock",
+      "psychedelic rock",
+      "hard rock",
+      "rock",
+      "blues-rock",
+      "classic rock"
+    ],
+    "Longitude": "-83.18186",
+    "Artist": 273
+  },
+  {
+    "Latitude": "62.19845",
+    "City": "Sweden",
+    "genre": [
+      "german pop",
+      "europop",
+      "ballad",
+      "disco",
+      "pop rock",
+      "female vocalist"
+    ],
+    "Longitude": "17.55142",
+    "Artist": 274
+  },
+  {
+    "Latitude": "33.67466",
+    "City": "Ralls, TX",
+    "genre": [
+      "honky tonk",
+      "western swing",
+      "country rock",
+      "classic country",
+      "hard house",
+      "tech house"
+    ],
+    "Longitude": "-101.3878",
+    "Artist": 275
+  },
+  {
+    "Latitude": "51.05563",
+    "City": "Ghent, Belgium",
+    "genre": [
+      "dance rock",
+      "alternative",
+      "indie",
+      "bastard pop",
+      "club",
+      "electro"
+    ],
+    "Longitude": "3.72856",
+    "Artist": 276
+  },
+  {
+    "Latitude": "35.21962",
+    "City": "North Carolina",
+    "genre": [
+      "alternative rock",
+      "indie rock",
+      "rock",
+      "alternative pop rock",
+      "alternative",
+      "north carolina"
+    ],
+    "Longitude": "-80.01955",
+    "Artist": 277
+  },
+  {
+    "Latitude": "40.71455",
+    "City": "New York",
+    "genre": [
+      "rapcore",
+      "post-hardcore",
+      "heavy metal",
+      "soundtrack",
+      "hip hop",
+      "rap"
+    ],
+    "Longitude": "-74.00712",
+    "Artist": 278
+  },
+  {
+    "Latitude": "43.72233",
+    "City": "Ohsawa, Ontario",
+    "genre": [
+      "pop punk",
+      "skate punk",
+      "piano rock",
+      "post-grunge",
+      "melodic hardcore",
+      "alternative metal"
+    ],
+    "Longitude": "-90.59239",
+    "Artist": 279
+  },
+  {
+    "Latitude": "56.27609",
+    "City": "Denmark",
+    "genre": [
+      "dance pop",
+      "disco",
+      "electro",
+      "europop",
+      "reggae",
+      "ballad"
+    ],
+    "Longitude": "9.51695",
+    "Artist": 280
+  },
+  {
+    "Latitude": "-10.68641",
+    "City": "Itabaiana, Paraï¿½, Brazil",
+    "genre": [
+      "brazilian jazz",
+      "bossa nova",
+      "brazilian pop music",
+      "latin jazz",
+      "easy listening",
+      "soul jazz"
+    ],
+    "Longitude": "-37.42475",
+    "Artist": 281
+  },
+  {
+    "Latitude": "18.03965",
+    "City": "Mandeville, Jamaica",
+    "genre": [
+      "lovers rock",
+      "dancehall",
+      "reggae",
+      "salsa",
+      "roots reggae",
+      "hip hop"
+    ],
+    "Longitude": "-77.51329",
+    "Artist": 282
+  },
+  {
+    "Latitude": "46.8132",
+    "City": "Switzerland",
+    "genre": [
+      "pop rock",
+      "future jazz",
+      "indie rock",
+      "rock",
+      "psychedelic rock",
+      "folk rock"
+    ],
+    "Longitude": "8.22395",
+    "Artist": 283
+  },
+  {
+    "Latitude": "46.51959",
+    "City": "Lausanne, CH",
+    "genre": [
+      "post-hardcore",
+      "sludge metal",
+      "tech metal",
+      "speed metal",
+      "industrial metal",
+      "thrash metal"
+    ],
+    "Longitude": "6.63233",
+    "Artist": 284
+  },
+  {
+    "Latitude": "38.8991",
+    "City": "Washington",
+    "genre": [
+      "folk-pop",
+      "indie pop",
+      "singer-songwriter",
+      "indie rock",
+      "folk",
+      "rock"
+    ],
+    "Longitude": "-77.029",
+    "Artist": 285
+  },
+  {
+    "Latitude": "35.99527",
+    "City": "Durham, NC",
+    "genre": [
+      "blues-rock",
+      "rockabilly",
+      "ballad",
+      "country rock",
+      "chanson",
+      "oldies"
+    ],
+    "Longitude": "-78.89601",
+    "Artist": 286
+  },
+  {
+    "Latitude": "51.73569",
+    "City": "Chelmsford, England",
+    "genre": [
+      "latin jazz",
+      "jazz funk",
+      "disco",
+      "jazz",
+      "acid jazz",
+      "salsa"
+    ],
+    "Longitude": "0.47791",
+    "Artist": 287
+  },
+  {
+    "Latitude": "38.8991",
+    "City": "Washington",
+    "genre": [
+      "vocal house",
+      "techno",
+      "rave",
+      "club",
+      "breakcore",
+      "deep house"
+    ],
+    "Longitude": "-77.029",
+    "Artist": 288
+  },
+  {
+    "Latitude": "37.80506",
+    "City": "Oakland, CA",
+    "genre": [
+      "italian disco",
+      "ballad",
+      "chanson",
+      "california",
+      "rockabilly",
+      "hip hop"
+    ],
+    "Longitude": "-122.27302",
+    "Artist": 289
+  },
+  {
+    "Latitude": "35.2225",
+    "City": "Charlotte, NC",
+    "genre": [
+      "ccm",
+      "r&b",
+      "urban",
+      "gospel",
+      "contemporary christian",
+      "soul"
+    ],
+    "Longitude": "-80.83754",
+    "Artist": 290
+  },
+  {
+    "Latitude": "30.43883",
+    "City": "Ponchatoula, LA",
+    "genre": [
+      "delta blues",
+      "r&b",
+      "southern soul",
+      "blues",
+      "blues-rock",
+      "swamp pop"
+    ],
+    "Longitude": "-90.44116",
+    "Artist": 291
+  },
+  {
+    "Latitude": "55.70622",
+    "City": "Lund, Sweden",
+    "genre": [
+      "shoegaze",
+      "dream pop",
+      "indie rock",
+      "indie pop",
+      "pop",
+      "indie"
+    ],
+    "Longitude": "13.1876",
+    "Artist": 292
+  },
+  {
+    "Latitude": "51.89834",
+    "City": "Cork, Ireland",
+    "genre": [
+      "vocal jazz",
+      "blue-eyed soul",
+      "pop rock",
+      "soundtrack",
+      "mellow",
+      "folk"
+    ],
+    "Longitude": "-8.47277",
+    "Artist": 293
+  },
+  {
+    "Latitude": "40.71455",
+    "City": "New York, NY",
+    "genre": [
+      "ragtime",
+      "easy listening",
+      "jazz",
+      "classical",
+      "baroque",
+      "chill-out"
+    ],
+    "Longitude": "-74.00712",
+    "Artist": 294
+  },
+  {
+    "Latitude": "28.53823",
+    "City": "Orlando, Florida",
+    "genre": [
+      "post-grunge",
+      "alternative metal",
+      "heavy metal",
+      "nu metal",
+      "industrial metal",
+      "rapcore"
+    ],
+    "Longitude": "-81.37739",
+    "Artist": 295
+  },
+  {
+    "Latitude": "34.05349",
+    "City": "California - LA",
+    "genre": [
+      "modern rock",
+      "christian rock",
+      "soft rock",
+      "easy listening",
+      "screamo",
+      "pop rock"
+    ],
+    "Longitude": "-118.24532",
+    "Artist": 296
+  },
+  {
+    "Latitude": "31.1689",
+    "City": "Texas",
+    "genre": [
+      "rockabilly",
+      "western swing",
+      "blues",
+      "rhythm noise",
+      "rock",
+      "intelligent dance music"
+    ],
+    "Longitude": "-100.07715",
+    "Artist": 297
+  },
+  {
+    "Latitude": "35.83073",
+    "City": "Tennessee",
+    "genre": [
+      "southern gospel",
+      "country gospel",
+      "spiritual",
+      "american",
+      "60s",
+      "gospel"
+    ],
+    "Longitude": "-85.97874",
+    "Artist": 298
+  },
+  {
+    "Latitude": "36.068",
+    "City": "Walnut Ridge, AR",
+    "genre": [
+      "delta blues",
+      "chicago blues",
+      "ragtime",
+      "louisiana blues",
+      "smooth jazz",
+      "blues"
+    ],
+    "Longitude": "-90.9564",
+    "Artist": 299
+  },
+  {
+    "Latitude": "37.77916",
+    "City": "San Francisco, CA",
+    "genre": [
+      "blues-rock",
+      "blues",
+      "folk rock",
+      "psychedelic rock",
+      "rock",
+      "classic rock"
+    ],
+    "Longitude": "-122.42005",
+    "Artist": 300
+  },
+  {
+    "Latitude": "39.95227",
+    "City": "Philadelphia, PA",
+    "genre": [
+      "hip hop",
+      "gangsta",
+      "underground hip hop",
+      "united states",
+      "east coast rap",
+      "game"
+    ],
+    "Longitude": "-75.16237",
+    "Artist": 301
+  },
+  {
+    "Latitude": "31.19224",
+    "City": "Alexandria, Egypt",
+    "genre": [
+      "dance pop",
+      "tech house",
+      "electronic",
+      "house",
+      "disco",
+      "world music"
+    ],
+    "Longitude": "29.88987",
+    "Artist": 302
+  },
+  {
+    "Latitude": "27.94653",
+    "City": "Tampa, FL",
+    "genre": [
+      "folk-pop",
+      "country rock",
+      "pop rock",
+      "classic country",
+      "ballad",
+      "chanson"
+    ],
+    "Longitude": "-82.45927",
+    "Artist": 303
+  },
+  {
+    "Latitude": "46.87591",
+    "City": "Fargo, ND",
+    "genre": [
+      "brill building pop",
+      "soft rock",
+      "ballad",
+      "doo-wop",
+      "pop rock",
+      "rockabilly"
+    ],
+    "Longitude": "-96.78176",
+    "Artist": 304
+  },
+  {
+    "Latitude": "29.59733",
+    "City": "Houma, LA",
+    "genre": [
+      "blues-rock",
+      "southern rock",
+      "swamp rock",
+      "blues",
+      "chill-out",
+      "stoner metal"
+    ],
+    "Longitude": "-90.71913",
+    "Artist": 305
+  },
+  {
+    "Latitude": "30.42084",
+    "City": "Pensacola, FL",
+    "genre": [
+      "delta blues",
+      "r&b",
+      "jazz funk",
+      "new orleans blues",
+      "blues-rock",
+      "jump blues"
+    ],
+    "Longitude": "-87.21724",
+    "Artist": 306
+  },
+  {
+    "Latitude": "29.95369",
+    "City": "New Orleans, LA",
+    "genre": [
+      "black metal",
+      "death metal",
+      "hardcore punk",
+      "heavy metal",
+      "blackened death metal",
+      "viking metal"
+    ],
+    "Longitude": "-90.07771",
+    "Artist": 307
+  },
+  {
+    "Latitude": "40.71455",
+    "City": "New York, NY",
+    "genre": [
+      "delta blues",
+      "blues",
+      "ballad",
+      "country blues",
+      "folk rock",
+      "pop rock"
+    ],
+    "Longitude": "-74.00712",
+    "Artist": 308
+  },
+  {
+    "Latitude": "43.04181",
+    "City": "Milwaukee, WI",
+    "genre": [
+      "hip hop",
+      "pop rap",
+      "trip hop",
+      "rap",
+      "alternative rock",
+      "conscious"
+    ],
+    "Longitude": "-87.90684",
+    "Artist": 309
+  },
+  {
+    "Latitude": "34.05349",
+    "City": "Los Angeles, CA",
+    "genre": [
+      "post-grunge",
+      "nu metal",
+      "alternative metal",
+      "post-hardcore",
+      "california",
+      "hard rock"
+    ],
+    "Longitude": "-118.24532",
+    "Artist": 310
+  },
+  {
+    "Latitude": "39.55792",
+    "City": "Portugal",
+    "genre": [
+      "sympho black metal",
+      "black metal",
+      "heavy metal",
+      "death metal",
+      "metal",
+      "gothic metal"
+    ],
+    "Longitude": "-7.84481",
+    "Artist": 311
+  },
+  {
+    "Latitude": "53.41961",
+    "City": "Ireland",
+    "genre": [
+      "country rock",
+      "irish folk",
+      "folk rock",
+      "soft rock",
+      "ballad",
+      "celtic"
+    ],
+    "Longitude": "-8.24055",
+    "Artist": 312
+  },
+  {
+    "Latitude": "-13.442",
+    "City": "BA",
+    "genre": [
+      "indie rock",
+      "canada",
+      "dance-punk",
+      "disco",
+      "funk",
+      "rock"
+    ],
+    "Longitude": "-41.9952",
+    "Artist": 313
+  },
+  {
+    "Latitude": "38.62774",
+    "City": "St. Louis, MO",
+    "genre": [
+      "latin jazz",
+      "salsa",
+      "soul jazz",
+      "mambo",
+      "merengue",
+      "bossa nova"
+    ],
+    "Longitude": "-90.19951",
+    "Artist": 314
+  },
+  {
+    "Latitude": "30.16602",
+    "City": "Brenham, TX",
+    "genre": [
+      "blues-rock",
+      "funk metal",
+      "country rock",
+      "americana",
+      "folk rock",
+      "dancehall"
+    ],
+    "Longitude": "-96.39998",
+    "Artist": 315
+  },
+  {
+    "Latitude": "27.9758",
+    "City": "Florida",
+    "genre": [
+      "breakbeat",
+      "trance",
+      "europop",
+      "hard house",
+      "techno",
+      "downtempo"
+    ],
+    "Longitude": "-81.54106",
+    "Artist": 316
+  },
+  {
+    "Latitude": "51.77045",
+    "City": "Essex, England",
+    "genre": [
+      "progressive house",
+      "progressive trance",
+      "trance",
+      "uk garage",
+      "breakbeat",
+      "hard house"
+    ],
+    "Longitude": "0.64255",
+    "Artist": 317
+  },
+  {
+    "Latitude": "34.05349",
+    "City": "Los Angeles, Ca",
+    "genre": [
+      "hardcore punk",
+      "rock",
+      "punk",
+      "indie",
+      "los angeles",
+      "heavy metal"
+    ],
+    "Longitude": "-118.24532",
+    "Artist": 318
+  },
+  {
+    "Latitude": "39.10644",
+    "City": "Cincinnati, OH",
+    "genre": [
+      "hip hop",
+      "indie rock",
+      "new wave",
+      "rock",
+      "alternative rock",
+      "folk"
+    ],
+    "Longitude": "-84.50469",
+    "Artist": 319
+  },
+  {
+    "Latitude": "40.65507",
+    "City": "Brooklyn, NY",
+    "genre": [
+      "post-grunge",
+      "dance-punk",
+      "garage rock",
+      "indie rock",
+      "death metal",
+      "funk"
+    ],
+    "Longitude": "-73.94888",
+    "Artist": 320
+  },
+  {
+    "Latitude": "34.56039",
+    "City": "Marvell, AR",
+    "genre": [
+      "delta blues",
+      "chicago blues",
+      "blues",
+      "blues-rock",
+      "classic rock",
+      "jazz"
+    ],
+    "Longitude": "-90.91387",
+    "Artist": 321
+  },
+  {
+    "Latitude": "32.61518",
+    "City": "Minden, LA",
+    "genre": [
+      "jump blues",
+      "doo-wop",
+      "piano blues",
+      "r&b",
+      "blues",
+      "northern soul"
+    ],
+    "Longitude": "-93.286",
+    "Artist": 322
+  },
+  {
+    "Latitude": "40.71455",
+    "City": "New York, NY",
+    "genre": [
+      "experimental rock",
+      "gabba",
+      "electro",
+      "no wave",
+      "new wave",
+      "dark wave"
+    ],
+    "Longitude": "-74.00712",
+    "Artist": 323
+  },
+  {
+    "Latitude": "42.31256",
+    "City": "Boston, MA",
+    "genre": [
+      "blues-rock",
+      "chicago blues",
+      "massachusetts",
+      "blues",
+      "classic rock",
+      "united states"
+    ],
+    "Longitude": "-71.08868",
+    "Artist": 324
+  },
+  {
+    "Latitude": "37.16793",
+    "City": "United States",
+    "genre": [
+      "chill-out",
+      "smooth jazz",
+      "orchestra",
+      "jazz",
+      "celtic",
+      "new age"
+    ],
+    "Longitude": "-95.84502",
+    "Artist": 325
+  },
+  {
+    "Latitude": "30.2676",
+    "City": "Austin, TX",
+    "genre": [
+      "funk",
+      "country",
+      "folk",
+      "singer-songwriter",
+      "alternative country",
+      "soul"
+    ],
+    "Longitude": "-97.74298",
+    "Artist": 326
+  },
+  {
+    "Latitude": "51.50632",
+    "City": "London, England",
+    "genre": [
+      "rock",
+      "pop",
+      "adult contemporary",
+      "disco",
+      "classic",
+      "funk"
+    ],
+    "Longitude": "-0.12714",
+    "Artist": 327
+  },
+  {
+    "Latitude": "51.16418",
+    "City": "DE",
+    "genre": [
+      "blues-rock",
+      "country blues",
+      "texas blues",
+      "chicago blues",
+      "blues",
+      "rap"
+    ],
+    "Longitude": "10.45415",
+    "Artist": 328
+  },
+  {
+    "Latitude": "34.05349",
+    "City": "Los Angeles",
+    "genre": [
+      "hard trance",
+      "hard house",
+      "new wave",
+      "trance",
+      "italian disco",
+      "europop"
+    ],
+    "Longitude": "-118.24532",
+    "Artist": 329
+  },
+  {
+    "Latitude": "40.65507",
+    "City": "Brooklyn, NY",
+    "genre": [
+      "doo-wop",
+      "latin jazz",
+      "brill building pop",
+      "pop rock",
+      "ballad",
+      "soft rock"
+    ],
+    "Longitude": "-73.94888",
+    "Artist": 330
+  },
+  {
+    "Latitude": "30.2676",
+    "City": "Austin, TX",
+    "genre": [
+      "power pop",
+      "pop punk",
+      "slow core",
+      "hardcore metal",
+      "rap metal",
+      "ballad"
+    ],
+    "Longitude": "-97.74298",
+    "Artist": 331
+  },
+  {
+    "Latitude": "39.76618",
+    "City": "Indiana",
+    "genre": [
+      "ragtime",
+      "blues",
+      "chicago blues",
+      "louisiana blues",
+      "jazz",
+      "smooth jazz"
+    ],
+    "Longitude": "-86.44105",
+    "Artist": 332
+  },
+  {
+    "Latitude": "33.7621",
+    "City": "Minter City, MS",
+    "genre": [
+      "texas blues",
+      "chicago blues",
+      "soul blues",
+      "electric blues",
+      "blues",
+      "acoustic"
+    ],
+    "Longitude": "-90.30507",
+    "Artist": 333
+  },
+  {
+    "Latitude": "35.72171",
+    "City": "Wilson, NC",
+    "genre": [
+      "electric blues",
+      "piedmont blues",
+      "east coast blues",
+      "blues",
+      "rockabilly",
+      "oldies"
+    ],
+    "Longitude": "-77.91615",
+    "Artist": 334
+  },
+  {
+    "Latitude": "41.0981",
+    "City": "Youngstown, OH",
+    "genre": [
+      "doo-wop",
+      "r&b",
+      "piano blues",
+      "swamp pop",
+      "jump blues",
+      "louisiana blues"
+    ],
+    "Longitude": "-80.65079",
+    "Artist": 335
+  },
+  {
+    "Latitude": "40.65507",
+    "City": "Brooklyn, NY",
+    "genre": [
+      "twee pop",
+      "alternative rock",
+      "indie pop",
+      "pop",
+      "rock",
+      "sweden"
+    ],
+    "Longitude": "-73.94888",
+    "Artist": 336
+  },
+  {
+    "Latitude": "35.33204",
+    "City": "Shawnee OK",
+    "genre": [
+      "honky tonk",
+      "country",
+      "singer-songwriter",
+      "traditional country",
+      "country music",
+      "texas"
+    ],
+    "Longitude": "-96.92483",
+    "Artist": 337
+  },
+  {
+    "Latitude": "40.71455",
+    "City": "New York",
+    "genre": [
+      "singer-songwriter",
+      "oldies",
+      "blues",
+      "world fusion",
+      "folk",
+      "60s"
+    ],
+    "Longitude": "-74.00712",
+    "Artist": 338
+  },
+  {
+    "Latitude": "51.48126",
+    "City": "Cardiff",
+    "genre": [
+      "bhangra",
+      "experimental rock",
+      "progressive metal",
+      "pop rock",
+      "heavy metal",
+      "progressive rock"
+    ],
+    "Longitude": "-3.18067",
+    "Artist": 339
+  },
+  {
+    "Latitude": "53.07516",
+    "City": "Bremen, Germany",
+    "genre": [
+      "orchestra",
+      "instrumental pop",
+      "big band",
+      "space age pop",
+      "tango",
+      "chill-out"
+    ],
+    "Longitude": "8.80466",
+    "Artist": 340
+  },
+  {
+    "Latitude": "39.52517",
+    "City": "Brazil, IN",
+    "genre": [
+      "heartland rock",
+      "southern rock",
+      "soft rock",
+      "pop rock",
+      "country rock",
+      "classic rock"
+    ],
+    "Longitude": "-87.1187",
+    "Artist": 341
+  },
+  {
+    "Latitude": "40.71455",
+    "City": "New York, NY",
+    "genre": [
+      "show tunes",
+      "orchestra",
+      "exotica",
+      "opera",
+      "soundtrack",
+      "easy listening"
+    ],
+    "Longitude": "-74.00712",
+    "Artist": 342
+  },
+  {
+    "Latitude": "49.38426",
+    "City": "CANADA - Ontario",
+    "genre": [
+      "synthpop",
+      "electronica",
+      "electronic",
+      "pop",
+      "indietronica",
+      "emo pop"
+    ],
+    "Longitude": "-84.75627",
+    "Artist": 343
+  },
+  {
+    "Latitude": "40.71455",
+    "City": "New York, NY",
+    "genre": [
+      "country rock",
+      "soundtrack",
+      "pop rock",
+      "ballad",
+      "disco",
+      "downtempo"
+    ],
+    "Longitude": "-74.00712",
+    "Artist": 344
+  },
+  {
+    "Latitude": "39.95227",
+    "City": "Philadelphia, PA",
+    "genre": [
+      "hip hop",
+      "hardcore hip hop",
+      "chill-out",
+      "alternative hip hop",
+      "old school hip hop",
+      "rapcore"
+    ],
+    "Longitude": "-75.16237",
+    "Artist": 345
+  },
+  {
+    "Latitude": "35.2225",
+    "City": "Charlotte, NC",
+    "genre": [
+      "alternative metal",
+      "hardcore punk",
+      "progressive rock",
+      "metal",
+      "progressive",
+      "hardcore"
+    ],
+    "Longitude": "-80.83754",
+    "Artist": 346
+  },
+  {
+    "Latitude": "40.71455",
+    "City": "New York, NY",
+    "genre": [
+      "trip hop",
+      "hard rock",
+      "hard trance",
+      "hard house",
+      "gabba",
+      "tech house"
+    ],
+    "Longitude": "-74.00712",
+    "Artist": 347
+  },
+  {
+    "Latitude": "48.85692",
+    "City": "Paris, France",
+    "genre": [
+      "big beat",
+      "breakbeat",
+      "trip hop",
+      "electro",
+      "downtempo",
+      "progressive house"
+    ],
+    "Longitude": "2.34121",
+    "Artist": 348
+  },
+  {
+    "Latitude": "30.23513",
+    "City": "Rayne, LA",
+    "genre": [
+      "western swing",
+      "honky tonk",
+      "los angeles",
+      "world music",
+      "country",
+      "country music"
+    ],
+    "Longitude": "-92.26831",
+    "Artist": 349
+  },
+  {
+    "Latitude": "39.74001",
+    "City": "Denver, CO",
+    "genre": [
+      "alternative metal",
+      "post-hardcore",
+      "screamo",
+      "heavy metal",
+      "metalcore",
+      "emo"
+    ],
+    "Longitude": "-104.99226",
+    "Artist": 350
+  },
+  {
+    "Latitude": "40.23447",
+    "City": "Freehold, NJ",
+    "genre": [
+      "heartland rock",
+      "classic rock",
+      "pop rock",
+      "rock",
+      "pop",
+      "album rock"
+    ],
+    "Longitude": "-74.29504",
+    "Artist": 351
+  },
+  {
+    "Latitude": "53.4796",
+    "City": "Manchester, England",
+    "genre": [
+      "indie rock",
+      "psychedelic rock",
+      "madchester",
+      "dance rock",
+      "rock",
+      "progressive house"
+    ],
+    "Longitude": "-2.24881",
+    "Artist": 352
+  },
+  {
+    "Latitude": "-13.442",
+    "City": "Noci (BA)",
+    "genre": [
+      "stoner metal",
+      "groove metal",
+      "garage rock",
+      "psychedelic rock",
+      "thrash metal",
+      "stoner rock"
+    ],
+    "Longitude": "-41.9952",
+    "Artist": 353
+  },
+  {
+    "Latitude": "48.88314",
+    "City": "Brou-sur-Chantereine, France",
+    "genre": [
+      "chanson",
+      "ballad",
+      "blues-rock",
+      "pop rock",
+      "pop",
+      "art rock"
+    ],
+    "Longitude": "2.62879",
+    "Artist": 354
+  },
+  {
+    "Latitude": "37.77916",
+    "City": "San Francisco, CA",
+    "genre": [
+      "latin jazz",
+      "chamber jazz",
+      "soul jazz",
+      "jazz funk",
+      "jazz fusion",
+      "smooth jazz"
+    ],
+    "Longitude": "-122.42005",
+    "Artist": 355
+  },
+  {
+    "Latitude": "40.71455",
+    "City": "New York",
+    "genre": [
+      "modern rock",
+      "comedy rock",
+      "rock",
+      "new wave",
+      "hip hop",
+      "female vocalist"
+    ],
+    "Longitude": "-74.00712",
+    "Artist": 356
+  },
+  {
+    "Latitude": "30.9742",
+    "City": "Louisiana",
+    "genre": [
+      "new orleans blues",
+      "electric blues",
+      "blues-rock",
+      "texas blues",
+      "blues",
+      "chicago blues"
+    ],
+    "Longitude": "-91.52382",
+    "Artist": 357
+  },
+  {
+    "Latitude": "47.565",
+    "City": "Bremerton, WA",
+    "genre": [
+      "christian rock",
+      "pop punk",
+      "christian punk",
+      "punk",
+      "contemporary christian",
+      "punk pop"
+    ],
+    "Longitude": "-122.62569",
+    "Artist": 358
+  },
+  {
+    "Latitude": "40.19033",
+    "City": "Ohio",
+    "genre": [
+      "modern rock",
+      "new rave",
+      "dance-punk",
+      "glam rock",
+      "electro rock",
+      "dance rock"
+    ],
+    "Longitude": "-82.66947",
+    "Artist": 359
+  },
+  {
+    "Latitude": "37.77916",
+    "City": "California - SF",
+    "genre": [
+      "parody",
+      "folk-pop",
+      "pop",
+      "folk",
+      "world",
+      "country"
+    ],
+    "Longitude": "-122.42005",
+    "Artist": 360
+  },
+  {
+    "Latitude": "37.77916",
+    "City": "San Francisco, CA",
+    "genre": [
+      "straight edge",
+      "hardcore punk",
+      "hardcore metal",
+      "death metal",
+      "metalcore",
+      "death core"
+    ],
+    "Longitude": "-122.42005",
+    "Artist": 361
+  },
+  {
+    "Latitude": "34.05349",
+    "City": "California - LA",
+    "genre": [
+      "blues-rock",
+      "southern rock",
+      "soft rock",
+      "nederpop",
+      "country rock",
+      "progressive trance"
+    ],
+    "Longitude": "-118.24532",
+    "Artist": 362
+  },
+  {
+    "Latitude": "40.19033",
+    "City": "Ohio",
+    "genre": [
+      "heartland rock",
+      "rock",
+      "indie rock",
+      "punk pop",
+      "lo-fi",
+      "roots rock"
+    ],
+    "Longitude": "-82.66947",
+    "Artist": 363
+  },
+  {
+    "Latitude": "41.88415",
+    "City": "Chicago",
+    "genre": [
+      "soul jazz",
+      "future jazz",
+      "smooth jazz",
+      "acid jazz",
+      "jazz funk",
+      "downtempo"
+    ],
+    "Longitude": "-87.63241",
+    "Artist": 364
+  },
+  {
+    "Latitude": "52.50524",
+    "City": "UK - England - West Midlands",
+    "genre": [
+      "lovers rock",
+      "reggae",
+      "dancehall",
+      "world",
+      "british",
+      "england"
+    ],
+    "Longitude": "-1.81531",
+    "Artist": 365
+  },
+  {
+    "Latitude": "35.68094",
+    "City": "McMinnville, TN",
+    "genre": [
+      "honky tonk",
+      "country rock",
+      "classic country",
+      "ballad",
+      "soft rock",
+      "country"
+    ],
+    "Longitude": "-85.77449",
+    "Artist": 366
+  },
+  {
+    "Latitude": "42.31256",
+    "City": "Boston, MA",
+    "genre": [
+      "dubstep",
+      "garage rock",
+      "massachusetts",
+      "punk",
+      "pop",
+      "garage"
+    ],
+    "Longitude": "-71.08868",
+    "Artist": 367
+  },
+  {
+    "Latitude": "18.11526",
+    "City": "Jamaica",
+    "genre": [
+      "roots reggae",
+      "reggae",
+      "dub",
+      "dancehall",
+      "lovers rock",
+      "rock steady"
+    ],
+    "Longitude": "-77.27348",
+    "Artist": 368
+  },
+  {
+    "Latitude": "38.8991",
+    "City": "Washington",
+    "genre": [
+      "irish folk",
+      "celtic",
+      "folk",
+      "irish",
+      "poetry",
+      "irish trad folk"
+    ],
+    "Longitude": "-77.029",
+    "Artist": 369
+  },
+  {
+    "Latitude": "53.93063",
+    "City": "Yorkshire, England",
+    "genre": [
+      "chill-out",
+      "rare groove",
+      "freak folk",
+      "singer-songwriter",
+      "female vocalist",
+      "pop"
+    ],
+    "Longitude": "-1.20788",
+    "Artist": 370
+  },
+  {
+    "Latitude": "40.71455",
+    "City": "New York, NY",
+    "genre": [
+      "blues",
+      "contemporary blues",
+      "modern electric blues",
+      "acoustic",
+      "guitar",
+      "acoustic blues"
+    ],
+    "Longitude": "-74.00712",
+    "Artist": 371
+  },
+  {
+    "Latitude": "41.35644",
+    "City": "New London, CT",
+    "genre": [
+      "r&b",
+      "hip pop",
+      "chill-out",
+      "dance pop",
+      "hip hop",
+      "progressive trance"
+    ],
+    "Longitude": "-72.09647",
+    "Artist": 372
+  },
+  {
+    "Latitude": "34.05349",
+    "City": "Los Angeles, CA",
+    "genre": [
+      "punk",
+      "rock",
+      "alternative punk rock",
+      "punk pop",
+      "skate punk",
+      "punk revival"
+    ],
+    "Longitude": "-118.24532",
+    "Artist": 373
+  },
+  {
+    "Latitude": "45.7594",
+    "City": "Lyon, FR",
+    "genre": [
+      "all-female",
+      "doo-wop",
+      "northern soul",
+      "ballad",
+      "blues-rock",
+      "country rock"
+    ],
+    "Longitude": "4.82897",
+    "Artist": 374
+  },
+  {
+    "Latitude": "30.08615",
+    "City": "Beaumont, TX",
+    "genre": [
+      "classic country",
+      "motown",
+      "oldies",
+      "rockabilly",
+      "traditional country",
+      "country pop"
+    ],
+    "Longitude": "-94.10158",
+    "Artist": 375
+  },
+  {
+    "Latitude": "37.77916",
+    "City": "California - SF",
+    "genre": [
+      "folk metal",
+      "viking metal",
+      "celtic metal",
+      "power metal",
+      "celtic",
+      "progressive metal"
+    ],
+    "Longitude": "-122.42005",
+    "Artist": 376
+  },
+  {
+    "Latitude": "32.67828",
+    "City": "Georgia",
+    "genre": [
+      "glam rock",
+      "deep house",
+      "disco",
+      "neo soul",
+      "hip house",
+      "jazz funk"
+    ],
+    "Longitude": "-83.22295",
+    "Artist": 377
+  },
+  {
+    "Latitude": "38.8991",
+    "City": "Washington DC",
+    "genre": [
+      "gangster rap",
+      "rap",
+      "east coast rap",
+      "funk",
+      "classic",
+      "pop"
+    ],
+    "Longitude": "-77.029",
+    "Artist": 378
+  },
+  {
+    "Latitude": "39.15093",
+    "City": "Ukiah, CA",
+    "genre": [
+      "blues-rock",
+      "jazz blues",
+      "soul blues",
+      "latin jazz",
+      "blues",
+      "jazz funk"
+    ],
+    "Longitude": "-123.2079",
+    "Artist": 379
+  },
+  {
+    "Latitude": "18.11526",
+    "City": "Jamaica",
+    "genre": [
+      "roots reggae",
+      "reggae",
+      "lovers rock",
+      "dub",
+      "rock steady",
+      "dancehall"
+    ],
+    "Longitude": "-77.27348",
+    "Artist": 380
+  },
+  {
+    "Latitude": "39.73926",
+    "City": "Illinois",
+    "genre": [
+      "roots rock",
+      "heartland rock",
+      "singer-songwriter",
+      "country rock",
+      "blues-rock",
+      "alternative country"
+    ],
+    "Longitude": "-89.50409",
+    "Artist": 381
+  },
+  {
+    "Latitude": "7.33532",
+    "City": "CALIFORNIA, California",
+    "genre": [
+      "gangster rap",
+      "alternative hip hop",
+      "hyphy",
+      "hip hop",
+      "dirty rap",
+      "g funk"
+    ],
+    "Longitude": "-72.94832",
+    "Artist": 382
+  },
+  {
+    "Latitude": "41.05182",
+    "City": "Stamford, CT",
+    "genre": [
+      "ragtime",
+      "jug band",
+      "traditional folk",
+      "old timey",
+      "folk revival",
+      "country"
+    ],
+    "Longitude": "-73.54223",
+    "Artist": 383
+  },
+  {
+    "Latitude": "34.41925",
+    "City": "Santa Barbara, California",
+    "genre": [
+      "post-grunge",
+      "alternative metal",
+      "nu metal",
+      "industrial metal",
+      "tribal house",
+      "groove metal"
+    ],
+    "Longitude": "-119.69887",
+    "Artist": 384
+  },
+  {
+    "Latitude": "43.7427",
+    "City": "Michigan",
+    "genre": [
+      "ccm",
+      "urban",
+      "soul jazz",
+      "jazz",
+      "contemporary gospel",
+      "r&b"
+    ],
+    "Longitude": "-84.62167",
+    "Artist": 385
+  },
+  {
+    "Latitude": "34.16788",
+    "City": "Arizona",
+    "genre": [
+      "modern rock",
+      "post-grunge",
+      "alternative metal",
+      "art rock",
+      "post-hardcore",
+      "nu metal"
+    ],
+    "Longitude": "-111.9307",
+    "Artist": 386
+  },
+  {
+    "Latitude": "30.2676",
+    "City": "Austin, TX",
+    "genre": [
+      "post-grunge",
+      "pop rock",
+      "modern rock",
+      "punk pop",
+      "power pop",
+      "alternative pop rock"
+    ],
+    "Longitude": "-97.74298",
+    "Artist": 387
+  },
+  {
+    "Latitude": "40.71455",
+    "City": "New York, NY [The Bronx]",
+    "genre": [
+      "brill building pop",
+      "all-female",
+      "motown",
+      "rock 'n roll",
+      "doo-wop",
+      "british pop"
+    ],
+    "Longitude": "-74.00712",
+    "Artist": 388
+  },
+  {
+    "Latitude": "34.76145",
+    "City": "DALTON, Georgia",
+    "genre": [
+      "gabba",
+      "speedcore",
+      "hard house",
+      "happy hardcore",
+      "hardcore techno",
+      "breakcore"
+    ],
+    "Longitude": "-84.97218",
+    "Artist": 389
+  },
+  {
+    "Latitude": "42.33168",
+    "City": "Detroit, MI",
+    "genre": [
+      "jazz funk",
+      "soul jazz",
+      "funk",
+      "disco",
+      "latin jazz",
+      "smooth jazz"
+    ],
+    "Longitude": "-83.04792",
+    "Artist": 139
+  },
+  {
+    "Latitude": "51.34974",
+    "City": "Hempstead, England",
+    "genre": [
+      "blues-rock",
+      "hard rock",
+      "classic rock",
+      "pop rock",
+      "rock",
+      "blues"
+    ],
+    "Longitude": "0.56876",
+    "Artist": 390
+  },
+  {
+    "Latitude": "38.25486",
+    "City": "Louisville, KY",
+    "genre": [
+      "bossa nova",
+      "soundtrack",
+      "alternative rock",
+      "jazz",
+      "alternative",
+      "lounge"
+    ],
+    "Longitude": "-85.7664",
+    "Artist": 391
+  },
+  {
+    "Latitude": "34.05349",
+    "City": "Los Angeles, CA",
+    "genre": [
+      "folk-pop",
+      "country rock",
+      "folk rock",
+      "singer-songwriter",
+      "rock",
+      "pop"
+    ],
+    "Longitude": "-118.24532",
+    "Artist": 392
+  },
+  {
+    "Latitude": "51.50632",
+    "City": "London, England",
+    "genre": [
+      "blues-rock",
+      "heavy metal",
+      "hard rock",
+      "rock",
+      "england",
+      "album rock"
+    ],
+    "Longitude": "-0.12714",
+    "Artist": 393
+  },
+  {
+    "Latitude": "62.19845",
+    "City": "Sweden",
+    "genre": [
+      "teen pop",
+      "dance pop",
+      "pop rock",
+      "j pop",
+      "europop",
+      "doo-wop"
+    ],
+    "Longitude": "17.55142",
+    "Artist": 394
+  },
+  {
+    "Latitude": "39.49974",
+    "City": "Raines, UT",
+    "genre": [
+      "country rock",
+      "pop rock",
+      "ballad",
+      "chanson",
+      "german pop",
+      "soft rock"
+    ],
+    "Longitude": "-111.54732",
+    "Artist": 395
+  },
+  {
+    "Latitude": "41.58979",
+    "City": "Des Moines, Iowa",
+    "genre": [
+      "rap metal",
+      "alternative metal",
+      "nu metal",
+      "alternative rock",
+      "metal",
+      "rock"
+    ],
+    "Longitude": "-93.61566",
+    "Artist": 396
+  },
+  {
+    "Latitude": "51.50632",
+    "City": "London",
+    "genre": [
+      "bhangra",
+      "desi",
+      "breakbeat",
+      "progressive house",
+      "club",
+      "trance"
+    ],
+    "Longitude": "-0.12714",
+    "Artist": 397
+  },
+  {
+    "Latitude": "37.77916",
+    "City": "California - SF",
+    "genre": [
+      "no wave",
+      "rock",
+      "punk",
+      "deathrock",
+      "noise",
+      "minimal"
+    ],
+    "Longitude": "-122.42005",
+    "Artist": 398
+  },
+  {
+    "Latitude": "43.07295",
+    "City": "Madison, WI",
+    "genre": [
+      "big beat",
+      "slow core",
+      "shoegaze",
+      "breakbeat",
+      "hip hop",
+      "emo"
+    ],
+    "Longitude": "-89.38669",
+    "Artist": 399
+  },
+  {
+    "Latitude": "37.27188",
+    "City": "California",
+    "genre": [
+      "roots reggae",
+      "reggae",
+      "europop",
+      "pop rap",
+      "pop rock",
+      "ballad"
+    ],
+    "Longitude": "-119.27023",
+    "Artist": 400
+  },
+  {
+    "Latitude": "-6.92404",
+    "City": "SUKABUMI",
+    "genre": [
+      "europop",
+      "pop rap",
+      "happy hardcore",
+      "ballad",
+      "eurodance",
+      "pop rock"
+    ],
+    "Longitude": "106.92221",
+    "Artist": 401
+  },
+  {
+    "Latitude": "31.1689",
+    "City": "Texas",
+    "genre": [
+      "folk-pop",
+      "hard bop",
+      "rock",
+      "pop rock",
+      "acoustic",
+      "jazz"
+    ],
+    "Longitude": "-100.07715",
+    "Artist": 402
+  },
+  {
+    "Latitude": "41.50471",
+    "City": "Cleveland, OH",
+    "genre": [
+      "math rock",
+      "noise rock",
+      "rock",
+      "post-hardcore",
+      "hardcore punk",
+      "punk"
+    ],
+    "Longitude": "-81.69074",
+    "Artist": 403
+  },
+  {
+    "Latitude": "38.65555",
+    "City": "Tipton, MO",
+    "genre": [
+      "country rock",
+      "folk rock",
+      "progressive bluegrass",
+      "pop rock",
+      "rock",
+      "alternative country"
+    ],
+    "Longitude": "-92.78236",
+    "Artist": 404
+  },
+  {
+    "Latitude": "45.49441",
+    "City": "Idaho",
+    "genre": [
+      "r&b",
+      "hip hop",
+      "new age",
+      "east coast",
+      "instrumental",
+      "urban"
+    ],
+    "Longitude": "-114.14328",
+    "Artist": 405
+  },
+  {
+    "Latitude": "27.9758",
+    "City": "Florida",
+    "genre": [
+      "hip hop",
+      "jazz rap",
+      "turnablism",
+      "rap",
+      "united states",
+      "instrumental"
+    ],
+    "Longitude": "-81.54106",
+    "Artist": 406
+  },
+  {
+    "Latitude": "41.88415",
+    "City": "Chicago, IL",
+    "genre": [
+      "neo soul",
+      "northern soul",
+      "disco",
+      "chicago soul",
+      "blues-rock",
+      "doo-wop"
+    ],
+    "Longitude": "-87.63241",
+    "Artist": 407
+  },
+  {
+    "Latitude": "27.9758",
+    "City": "Florida",
+    "genre": [
+      "meditation",
+      "new wave",
+      "new age",
+      "reggae",
+      "soundtrack",
+      "hip hop"
+    ],
+    "Longitude": "-81.54106",
+    "Artist": 408
+  },
+  {
+    "Latitude": "36.0632",
+    "City": "Fayetteville, AR",
+    "genre": [
+      "melodic hardcore",
+      "christian punk",
+      "roots rock",
+      "christian hardcore",
+      "christian rock",
+      "hardcore punk"
+    ],
+    "Longitude": "-94.15791",
+    "Artist": 409
+  },
+  {
+    "Latitude": "34.05349",
+    "City": "California - LA",
+    "genre": [
+      "latin jazz",
+      "hard trance",
+      "free jazz",
+      "jazz",
+      "jazz funk",
+      "soul jazz"
+    ],
+    "Longitude": "-118.24532",
+    "Artist": 410
+  },
+  {
+    "Latitude": "40.65507",
+    "City": "Brooklyn, NY",
+    "genre": [
+      "jazz funk",
+      "soul jazz",
+      "smooth jazz",
+      "funk",
+      "jazz fusion",
+      "contemporary jazz"
+    ],
+    "Longitude": "-73.94888",
+    "Artist": 411
+  },
+  {
+    "Latitude": "52.88356",
+    "City": "UK - England - South East",
+    "genre": [
+      "new age",
+      "ambient",
+      "electronic",
+      "experimental",
+      "abstract",
+      "singer-songwriter"
+    ],
+    "Longitude": "-1.97406",
+    "Artist": 412
+  },
+  {
+    "Latitude": "27.10442",
+    "City": "Venus",
+    "genre": [
+      "heavy metal",
+      "hard rock",
+      "rock 'n roll",
+      "stoner metal",
+      "stoner rock",
+      "southern rock"
+    ],
+    "Longitude": "-81.33231",
+    "Artist": 413
+  },
+  {
+    "Latitude": "18.22328",
+    "City": "Puerto Rico",
+    "genre": [
+      "reggaeton",
+      "reggae",
+      "rap",
+      "latin",
+      "dancehall",
+      "salsa"
+    ],
+    "Longitude": "-66.42889",
+    "Artist": 414
+  },
+  {
+    "Latitude": "-35.30654",
+    "City": "Canberra, Australia",
+    "genre": [
+      "folk-pop",
+      "ccm",
+      "easy listening",
+      "folk",
+      "rock",
+      "blues"
+    ],
+    "Longitude": "149.12656",
+    "Artist": 415
+  },
+  {
+    "Latitude": "51.50632",
+    "City": "London, England",
+    "genre": [
+      "jazz funk",
+      "future jazz",
+      "disco",
+      "jazz",
+      "funk",
+      "pop rap"
+    ],
+    "Longitude": "-0.12714",
+    "Artist": 416
+  },
+  {
+    "Latitude": "36.16778",
+    "City": "NASHVILLE, Tennessee",
+    "genre": [
+      "ccm",
+      "pop rock",
+      "united states",
+      "hip hop",
+      "female vocalist",
+      "alternative rock"
+    ],
+    "Longitude": "-86.77836",
+    "Artist": 417
+  },
+  {
+    "Latitude": "42.33168",
+    "City": "Detroit, MI",
+    "genre": [
+      "instrumental rock",
+      "oldies",
+      "soul",
+      "rockabilly",
+      "funk",
+      "rock"
+    ],
+    "Longitude": "-83.04792",
+    "Artist": 418
+  },
+  {
+    "Latitude": "42.39336",
+    "City": "Morpeth, Ontario, Canada",
+    "genre": [
+      "country rock",
+      "ballad",
+      "contemporary country",
+      "country pop",
+      "classic rock",
+      "christmas music"
+    ],
+    "Longitude": "-81.84348",
+    "Artist": 419
+  },
+  {
+    "Latitude": "34.05349",
+    "City": "California - LA",
+    "genre": [
+      "glam rock",
+      "glam metal",
+      "rock",
+      "heavy metal",
+      "hard rock",
+      "80s rock"
+    ],
+    "Longitude": "-118.24532",
+    "Artist": 420
+  },
+  {
+    "Latitude": "-24.9162",
+    "City": "AUSTRALIA",
+    "genre": [
+      "hard trance",
+      "trance",
+      "hard house",
+      "power metal",
+      "progressive trance",
+      "europop"
+    ],
+    "Longitude": "133.39311",
+    "Artist": 421
+  },
+  {
+    "Latitude": "39.73926",
+    "City": "Illinois",
+    "genre": [
+      "chicago blues",
+      "blues-rock",
+      "blues",
+      "rockabilly",
+      "progressive trance",
+      "progressive house"
+    ],
+    "Longitude": "-89.50409",
+    "Artist": 422
+  },
+  {
+    "Latitude": "37.77916",
+    "City": "California - SF",
+    "genre": [
+      "progressive rock",
+      "rock",
+      "album rock",
+      "intellectual"
+    ],
+    "Longitude": "-122.42005",
+    "Artist": 423
+  },
+  {
+    "Latitude": "35.14968",
+    "City": "Memphis, TN",
+    "genre": [
+      "glam metal",
+      "southern rock",
+      "heavy metal",
+      "hard rock",
+      "classic rock",
+      "blues"
+    ],
+    "Longitude": "-90.04892",
+    "Artist": 424
+  },
+  {
+    "Latitude": "30.79062",
+    "City": "Bogalusa, LA",
+    "genre": [
+      "louisiana blues",
+      "new orleans blues",
+      "piano blues",
+      "delta blues",
+      "blues",
+      "r&b"
+    ],
+    "Longitude": "-89.8643",
+    "Artist": 425
+  },
+  {
+    "Latitude": "40.7038",
+    "City": "Queens, NY",
+    "genre": [
+      "hard rock",
+      "glam rock",
+      "pop rock",
+      "glam metal",
+      "heavy metal",
+      "shock rock"
+    ],
+    "Longitude": "-73.83168",
+    "Artist": 426
+  },
+  {
+    "Latitude": "36.83264",
+    "City": "Portsmouth, VA",
+    "genre": [
+      "parody",
+      "comedy",
+      "stand-up comedy",
+      "hip hop",
+      "funny",
+      "spoken word"
+    ],
+    "Longitude": "-76.29771",
+    "Artist": 427
+  },
+  {
+    "Latitude": "40.19033",
+    "City": "Ohio",
+    "genre": [
+      "doo-wop",
+      "ballad",
+      "german pop",
+      "blues-rock",
+      "pop rock",
+      "hip hop"
+    ],
+    "Longitude": "-82.66947",
+    "Artist": 428
+  },
+  {
+    "Latitude": "51.50632",
+    "City": "London, England",
+    "genre": [
+      "experimental rock",
+      "new wave",
+      "indie rock",
+      "punk",
+      "no wave",
+      "oi"
+    ],
+    "Longitude": "-0.12714",
+    "Artist": 429
+  },
+  {
+    "Latitude": "38.68193",
+    "City": "Dry Ridge, KY",
+    "genre": [
+      "country rock",
+      "ballad",
+      "chanson",
+      "nashville sound",
+      "soft rock",
+      "rockabilly"
+    ],
+    "Longitude": "-84.59431",
+    "Artist": 430
+  },
+  {
+    "Latitude": "39.75911",
+    "City": "Dayton, OH",
+    "genre": [
+      "funk",
+      "disco",
+      "electro",
+      "quiet storm",
+      "hip hop",
+      "acid jazz"
+    ],
+    "Longitude": "-84.19444",
+    "Artist": 431
+  },
+  {
+    "Latitude": "40.58751",
+    "City": "Redding, CA",
+    "genre": [
+      "western swing",
+      "country gospel",
+      "blues-rock",
+      "disco",
+      "classic country",
+      "deep house"
+    ],
+    "Longitude": "-122.39293",
+    "Artist": 432
+  },
+  {
+    "Latitude": "40.85715",
+    "City": "New York, NY [The Bronx]",
+    "genre": [
+      "brill building pop",
+      "folk rock",
+      "folk-pop",
+      "vocal jazz",
+      "easy listening",
+      "pop rock"
+    ],
+    "Longitude": "-73.85678",
+    "Artist": 433
+  },
+  {
+    "Latitude": "35.96043",
+    "City": "Zack, AR",
+    "genre": [
+      "honky tonk",
+      "yodel",
+      "soul jazz",
+      "ragtime",
+      "chanson",
+      "smooth jazz"
+    ],
+    "Longitude": "-92.66602",
+    "Artist": 434
+  },
+  {
+    "Latitude": "30.33138",
+    "City": "Jacksonville, FL",
+    "genre": [
+      "bebop",
+      "soul jazz",
+      "boogaloo",
+      "cool jazz",
+      "trance",
+      "jazz"
+    ],
+    "Longitude": "-81.6558",
+    "Artist": 435
+  },
+  {
+    "Latitude": "39.16178",
+    "City": "GLEN BURNIE",
+    "genre": [
+      "progressive house",
+      "tech house",
+      "hardstyle",
+      "soft rock",
+      "progressive trance",
+      "happy hardcore"
+    ],
+    "Longitude": "-76.62184",
+    "Artist": 436
+  },
+  {
+    "Latitude": "35.6731",
+    "City": "Henning, TN",
+    "genre": [
+      "ghetto tech",
+      "jug band",
+      "crunk",
+      "harmonica blues",
+      "chicago blues",
+      "ragtime"
+    ],
+    "Longitude": "-89.57334",
+    "Artist": 437
+  },
+  {
+    "Latitude": "35.21962",
+    "City": "North Carolina",
+    "genre": [
+      "new wave",
+      "pop rock",
+      "rock",
+      "ska punk",
+      "alternative rock",
+      "german pop"
+    ],
+    "Longitude": "-80.01955",
+    "Artist": 438
+  },
+  {
+    "Latitude": "40.71455",
+    "City": "NY - New York City",
+    "genre": [
+      "progressive trance",
+      "progressive house",
+      "trance",
+      "breakcore",
+      "broken beat",
+      "sympho black metal"
+    ],
+    "Longitude": "-74.00712",
+    "Artist": 439
+  },
+  {
+    "Latitude": "52.47859",
+    "City": "Birmingham, England",
+    "genre": [
+      "dream pop",
+      "space rock",
+      "indie",
+      "electronic",
+      "electronica",
+      "england"
+    ],
+    "Longitude": "-1.9086",
+    "Artist": 440
+  },
+  {
+    "Latitude": "51.27172",
+    "City": "Wallington, Surrey, England",
+    "genre": [
+      "blues-rock",
+      "hard rock",
+      "england",
+      "album rock",
+      "heavy metal",
+      "blues"
+    ],
+    "Longitude": "-0.39535",
+    "Artist": 441
+  },
+  {
+    "Latitude": "49.23147",
+    "City": "Saarbrucken, Germany",
+    "genre": [
+      "reggae",
+      "dancehall",
+      "rasta",
+      "conscious reggae",
+      "traditional",
+      "jamaica"
+    ],
+    "Longitude": "6.99827",
+    "Artist": 442
+  },
+  {
+    "Latitude": "33.74831",
+    "City": "Atlanta, GA",
+    "genre": [
+      "country rock",
+      "classic country",
+      "country music",
+      "ballad",
+      "easy listening",
+      "soft rock"
+    ],
+    "Longitude": "-84.39111",
+    "Artist": 443
+  },
+  {
+    "Latitude": "42.31256",
+    "City": "Mass. - Boston",
+    "genre": [
+      "power pop",
+      "indie rock",
+      "dream pop",
+      "alternative rock",
+      "rock",
+      "pop"
+    ],
+    "Longitude": "-71.08868",
+    "Artist": 444
+  },
+  {
+    "Latitude": "34.05349",
+    "City": "Libreville, Gabon; Los Angeles, CA, US",
+    "genre": [
+      "soukous",
+      "california",
+      "los angeles",
+      "bongo",
+      "congo",
+      "united states"
+    ],
+    "Longitude": "-118.24532",
+    "Artist": 445
+  },
+  {
+    "Latitude": "51.50632",
+    "City": "London, England",
+    "genre": [
+      "jazz funk",
+      "exotica",
+      "jazz",
+      "soul jazz",
+      "easy listening",
+      "smooth jazz"
+    ],
+    "Longitude": "-0.12714",
+    "Artist": 446
+  },
+  {
+    "Latitude": "39.75911",
+    "City": "Dayton, OH",
+    "genre": [
+      "funk",
+      "disco",
+      "electro",
+      "quiet storm",
+      "hip hop",
+      "acid jazz"
+    ],
+    "Longitude": "-84.19444",
+    "Artist": 431
+  },
+  {
+    "Latitude": "37.27188",
+    "City": "California",
+    "genre": [
+      "jungle music",
+      "hip hop",
+      "breakbeat",
+      "rap",
+      "electronic",
+      "united states"
+    ],
+    "Longitude": "-119.27023",
+    "Artist": 447
+  },
+  {
+    "Latitude": "18.11526",
+    "City": "Jamaica",
+    "genre": [
+      "roots reggae",
+      "reggae",
+      "dancehall",
+      "rock steady",
+      "dub",
+      "lovers rock"
+    ],
+    "Longitude": "-77.27348",
+    "Artist": 448
+  },
+  {
+    "Latitude": "21.7866",
+    "City": "India",
+    "genre": [
+      "brazilian pop music",
+      "bossa nova",
+      "neo soul",
+      "samba",
+      "chill-out",
+      "bolero"
+    ],
+    "Longitude": "82.79476",
+    "Artist": 449
+  },
+  {
+    "Latitude": "18.01571",
+    "City": "Kingston",
+    "genre": [
+      "dancehall",
+      "reggae",
+      "ragga jungle",
+      "dub",
+      "ska",
+      "raga"
+    ],
+    "Longitude": "-76.79731",
+    "Artist": 450
+  },
+  {
+    "Latitude": "62.19845",
+    "City": "Sweden",
+    "genre": [
+      "neofolk",
+      "folk rock",
+      "world music",
+      "folk",
+      "swedish",
+      "scandinavian folk"
+    ],
+    "Longitude": "17.55142",
+    "Artist": 451
+  },
+  {
+    "Latitude": "32.77815",
+    "City": "Dallas, Texas",
+    "genre": [
+      "oldies",
+      "rockabilly",
+      "disco",
+      "male vocalist",
+      "rock",
+      "50s"
+    ],
+    "Longitude": "-96.7954",
+    "Artist": 452
+  },
+  {
+    "Latitude": "40.71455",
+    "City": "NY - New York City",
+    "genre": [
+      "jazz fusion",
+      "hard bop",
+      "smooth jazz",
+      "meditation",
+      "instrumental pop",
+      "soul jazz"
+    ],
+    "Longitude": "-74.00712",
+    "Artist": 453
+  },
+  {
+    "Latitude": "30.24216",
+    "City": "PEARLINGTON, Mississippi",
+    "genre": [
+      "smooth jazz",
+      "jazz fusion",
+      "instrumental pop",
+      "hard bop",
+      "jazz",
+      "easy listening"
+    ],
+    "Longitude": "-89.60586",
+    "Artist": 454
+  },
+  {
+    "Latitude": "36.16778",
+    "City": "Nashville, Tennessee",
+    "genre": [
+      "southern rock",
+      "alternative rock",
+      "rock",
+      "nashville",
+      "american trad rock",
+      "swamp rock"
+    ],
+    "Longitude": "-86.77836",
+    "Artist": 455
+  },
+  {
+    "Latitude": "31.1689",
+    "City": "Couchman, TX",
+    "genre": [
+      "country blues",
+      "delta blues",
+      "texas blues",
+      "blues",
+      "louisiana blues",
+      "ragtime"
+    ],
+    "Longitude": "-100.07715",
+    "Artist": 456
+  },
+  {
+    "Latitude": "31.1689",
+    "City": "Texas",
+    "genre": [
+      "folk-pop",
+      "meditation",
+      "pop",
+      "piano",
+      "new age",
+      "spiritual"
+    ],
+    "Longitude": "-100.07715",
+    "Artist": 457
+  },
+  {
+    "Latitude": "51.50632",
+    "City": "London, England",
+    "genre": [
+      "dance rock",
+      "alternative dance",
+      "dub",
+      "pop rock",
+      "breakbeat",
+      "downtempo"
+    ],
+    "Longitude": "-0.12714",
+    "Artist": 458
+  },
+  {
+    "Latitude": "37.27188",
+    "City": "San Fransisco, CA",
+    "genre": [
+      "hip hop",
+      "pop rap",
+      "broken beat",
+      "tech house",
+      "trip hop",
+      "downtempo"
+    ],
+    "Longitude": "-119.27023",
+    "Artist": 459
+  },
+  {
+    "Latitude": "51.52328",
+    "City": "London, England",
+    "genre": [
+      "new wave",
+      "classic rock",
+      "hard rock",
+      "hip hop",
+      "punk",
+      "rock"
+    ],
+    "Longitude": "-0.21346",
+    "Artist": 460
+  },
+  {
+    "Latitude": "40.76099",
+    "City": "East Orange, NJ",
+    "genre": [
+      "brill building pop",
+      "quiet storm",
+      "ballad",
+      "easy listening",
+      "motown",
+      "disco"
+    ],
+    "Longitude": "-74.20991",
+    "Artist": 461
+  },
+  {
+    "Latitude": "37.80506",
+    "City": "Oakland, CA",
+    "genre": [
+      "italian disco",
+      "ballad",
+      "chanson",
+      "california",
+      "rockabilly",
+      "hip hop"
+    ],
+    "Longitude": "-122.27302",
+    "Artist": 289
+  },
+  {
+    "Latitude": "40.7038",
+    "City": "Queens, NY",
+    "genre": [
+      "doo-wop",
+      "ballad",
+      "pop rock",
+      "rock steady",
+      "soft rock",
+      "blues-rock"
+    ],
+    "Longitude": "-73.83168",
+    "Artist": 462
+  },
+  {
+    "Latitude": "40.71455",
+    "City": "New York",
+    "genre": [
+      "latin jazz",
+      "hard bop",
+      "jazz",
+      "salsa",
+      "mambo",
+      "orchestra"
+    ],
+    "Longitude": "-74.00712",
+    "Artist": 463
+  },
+  {
+    "Latitude": "0.10974",
+    "City": "Indonesia",
+    "genre": [
+      "italian disco",
+      "disco",
+      "europop",
+      "electronic",
+      "pop rap",
+      "power pop"
+    ],
+    "Longitude": "113.9174",
+    "Artist": 464
+  },
+  {
+    "Latitude": "34.05349",
+    "City": "Los Angeles, CA",
+    "genre": [
+      "rock",
+      "classical",
+      "los angeles",
+      "soundtrack",
+      "game",
+      "original score"
+    ],
+    "Longitude": "-118.24532",
+    "Artist": 465
+  },
+  {
+    "Latitude": "29.95369",
+    "City": "New Orleans, LA",
+    "genre": [
+      "space age pop",
+      "jump blues",
+      "jive",
+      "vocal jazz",
+      "smooth jazz",
+      "oldies"
+    ],
+    "Longitude": "-90.07771",
+    "Artist": 466
+  },
+  {
+    "Latitude": "40.71455",
+    "City": "New York, NY",
+    "genre": [
+      "hardcore punk",
+      "heavy metal",
+      "new york",
+      "punk",
+      "hardcore",
+      "metal"
+    ],
+    "Longitude": "-74.00712",
+    "Artist": 467
+  },
+  {
+    "Latitude": "39.95227",
+    "City": "Philadelphia, PA",
+    "genre": [
+      "pop punk",
+      "emo",
+      "punk",
+      "rock",
+      "alternative",
+      "indie"
+    ],
+    "Longitude": "-75.16237",
+    "Artist": 468
+  },
+  {
+    "Latitude": "38.2589",
+    "City": "Missouri",
+    "genre": [
+      "industrial rock",
+      "symphony",
+      "industrial",
+      "rock",
+      "electronic",
+      "modern rock"
+    ],
+    "Longitude": "-92.43659",
+    "Artist": 469
+  },
+  {
+    "Latitude": "51.05563",
+    "City": "Ghent, Belgium",
+    "genre": [
+      "dance rock",
+      "alternative",
+      "indie",
+      "bastard pop",
+      "club",
+      "electro"
+    ],
+    "Longitude": "3.72856",
+    "Artist": 276
+  },
+  {
+    "Latitude": "41.05182",
+    "City": "Stamford, CT",
+    "genre": [
+      "ragtime",
+      "jug band",
+      "traditional folk",
+      "old timey",
+      "folk revival",
+      "country"
+    ],
+    "Longitude": "-73.54223",
+    "Artist": 383
+  },
+  {
+    "Latitude": "18.11526",
+    "City": "St, Mary, Jamaica",
+    "genre": [
+      "reggae",
+      "roots reggae",
+      "dancehall",
+      "lovers rock",
+      "dub",
+      "dubstep"
+    ],
+    "Longitude": "-77.27348",
+    "Artist": 470
+  },
+  {
+    "Latitude": "60.17116",
+    "City": "Helsinki, Finland",
+    "genre": [
+      "death metal",
+      "technical death metal",
+      "speed metal",
+      "tech metal",
+      "melodic death metal",
+      "glam metal"
+    ],
+    "Longitude": "24.93258",
+    "Artist": 471
+  },
+  {
+    "Latitude": "40.99471",
+    "City": "Houston TX",
+    "genre": [
+      "modern rock",
+      "noise rock",
+      "rock",
+      "classic rock",
+      "punk",
+      "metal"
+    ],
+    "Longitude": "-77.60454",
+    "Artist": 472
+  },
+  {
+    "Latitude": "34.05349",
+    "City": "Los Angeles, CA",
+    "genre": [
+      "heavy metal",
+      "glam metal",
+      "shock rock",
+      "hard rock",
+      "power metal",
+      "glam rock"
+    ],
+    "Longitude": "-118.24532",
+    "Artist": 473
+  },
+  {
+    "Latitude": "42.33168",
+    "City": "Detroit, MI",
+    "genre": [
+      "soul jazz",
+      "hard bop",
+      "free jazz",
+      "jazz",
+      "bebop",
+      "post-bop"
+    ],
+    "Longitude": "-83.04792",
+    "Artist": 474
+  },
+  {
+    "Latitude": "31.1689",
+    "City": "Texas",
+    "genre": [
+      "progressive bluegrass",
+      "alternative country",
+      "bluegrass",
+      "texas blues",
+      "freestyle",
+      "country rock"
+    ],
+    "Longitude": "-100.07715",
+    "Artist": 475
+  },
+  {
+    "Latitude": "38.2589",
+    "City": "Missouri",
+    "genre": [
+      "happy hardcore",
+      "gabba",
+      "doom metal",
+      "experimental rock",
+      "free improvisation",
+      "pop rock"
+    ],
+    "Longitude": "-92.43659",
+    "Artist": 476
+  },
+  {
+    "Latitude": "34.05349",
+    "City": "Los Angeles, California",
+    "genre": [
+      "turnablism",
+      "hip hop",
+      "los angeles",
+      "alternative hip hop",
+      "chill-out",
+      "trip hop"
+    ],
+    "Longitude": "-118.24532",
+    "Artist": 477
+  },
+  {
+    "Latitude": "48.20254",
+    "City": "Vienna",
+    "genre": [
+      "melodic death metal",
+      "death metal",
+      "progressive metal",
+      "metalcore",
+      "emo",
+      "metal"
+    ],
+    "Longitude": "16.3688",
+    "Artist": 478
+  },
+  {
+    "Latitude": "28.53823",
+    "City": "Orlando, FL",
+    "genre": [
+      "teen pop",
+      "pop",
+      "rock",
+      "adult contemporary",
+      "ballad",
+      "boy band"
+    ],
+    "Longitude": "-81.37739",
+    "Artist": 479
+  },
+  {
+    "Latitude": "36.49905",
+    "City": "Mount Airy, NC",
+    "genre": [
+      "classic country",
+      "country rock",
+      "country pop",
+      "country",
+      "united states",
+      "female vocalist"
+    ],
+    "Longitude": "-80.60688",
+    "Artist": 480
+  },
+  {
+    "Latitude": "36.16778",
+    "City": "Nashville, TN, Texas",
+    "genre": [
+      "honky tonk",
+      "country gospel",
+      "country rock",
+      "classic country",
+      "alternative country",
+      "nashville sound"
+    ],
+    "Longitude": "-86.77836",
+    "Artist": 481
+  },
+  {
+    "Latitude": "40.19033",
+    "City": "Ohio",
+    "genre": [
+      "urban",
+      "ohio",
+      "party music"
+    ],
+    "Longitude": "-82.66947",
+    "Artist": 482
+  },
+  {
+    "Latitude": "31.1689",
+    "City": "Texas",
+    "genre": [
+      "ccm",
+      "acid jazz",
+      "uk garage",
+      "jungle music",
+      "big beat",
+      "freestyle"
+    ],
+    "Longitude": "-100.07715",
+    "Artist": 483
+  },
+  {
+    "Latitude": "40.8448",
+    "City": "New York, NY [Washington Heights]",
+    "genre": [
+      "pop rap",
+      "hip hop",
+      "gangster rap",
+      "east coast rap",
+      "east coast hip hop",
+      "hip pop"
+    ],
+    "Longitude": "-73.93585",
+    "Artist": 484
+  },
+  {
+    "Latitude": "40.14323",
+    "City": "New Jersey",
+    "genre": [
+      "j pop",
+      "mambo",
+      "hard house",
+      "rock",
+      "electronic",
+      "easy listening"
+    ],
+    "Longitude": "-74.72671",
+    "Artist": 485
+  },
+  {
+    "Latitude": "53.40977",
+    "City": "Liverpool, England",
+    "genre": [
+      "merseybeat",
+      "british invasion",
+      "rock",
+      "pop",
+      "england",
+      "ballad"
+    ],
+    "Longitude": "-2.97848",
+    "Artist": 486
+  },
+  {
+    "Latitude": "47.60356",
+    "City": "Seattle",
+    "genre": [
+      "alternative metal",
+      "grunge",
+      "heavy metal",
+      "rock",
+      "alternative pop rock",
+      "seattle"
+    ],
+    "Longitude": "-122.32944",
+    "Artist": 487
+  },
+  {
+    "Latitude": "42.08317",
+    "City": "Brockton, MA",
+    "genre": [
+      "jazz funk",
+      "jazz fusion",
+      "funk rock",
+      "massachusetts",
+      "smooth jazz",
+      "fusion"
+    ],
+    "Longitude": "-71.01724",
+    "Artist": 488
+  },
+  {
+    "Latitude": "34.7519",
+    "City": "Blythesville, AR",
+    "genre": [
+      "doo-wop",
+      "blues-rock",
+      "german pop",
+      "disco",
+      "ballad",
+      "blues"
+    ],
+    "Longitude": "-92.13055",
+    "Artist": 489
+  },
+  {
+    "Latitude": "31.84666",
+    "City": "Sicily Island, LA",
+    "genre": [
+      "free jazz",
+      "jazz",
+      "los angeles",
+      "free music",
+      "free improvisation",
+      "avant-garde"
+    ],
+    "Longitude": "-91.657",
+    "Artist": 490
+  },
+  {
+    "Latitude": "36.30486",
+    "City": "Hendersonville, TN",
+    "genre": [
+      "classic country",
+      "united states",
+      "male vocalist",
+      "country",
+      "christian",
+      "gospel"
+    ],
+    "Longitude": "-86.62021",
+    "Artist": 491
+  },
+  {
+    "Latitude": "41.26069",
+    "City": "Omaha, NE",
+    "genre": [
+      "blues-rock",
+      "funk",
+      "hard rock",
+      "disco",
+      "psychedelic rock",
+      "blues"
+    ],
+    "Longitude": "-95.93995",
+    "Artist": 492
+  },
+  {
+    "Latitude": "-37.81753",
+    "City": "Melbourne, Australia",
+    "genre": [
+      "speedcore",
+      "grindcore",
+      "gabba",
+      "death metal",
+      "breakcore",
+      "industrial metal"
+    ],
+    "Longitude": "144.96715",
+    "Artist": 493
+  },
+  {
+    "Latitude": "18.01571",
+    "City": "Kingston, Jamaica",
+    "genre": [
+      "roots reggae",
+      "dancehall",
+      "lovers rock",
+      "reggae",
+      "dub",
+      "rock steady"
+    ],
+    "Longitude": "-76.79731",
+    "Artist": 494
+  },
+  {
+    "Latitude": "52.47859",
+    "City": "Birmingham, England",
+    "genre": [
+      "art rock",
+      "classic rock",
+      "progressive rock",
+      "rock",
+      "electronic",
+      "pop"
+    ],
+    "Longitude": "-1.9086",
+    "Artist": 495
+  },
+  {
+    "Latitude": "33.86404",
+    "City": "Hermosa Beach, CA",
+    "genre": [
+      "melodic hardcore",
+      "punk",
+      "rock",
+      "hardcore",
+      "modern rock",
+      "punk revival"
+    ],
+    "Longitude": "-118.39535",
+    "Artist": 496
+  },
+  {
+    "Latitude": "62.19845",
+    "City": "Sweden",
+    "genre": [
+      "bubblegum dance",
+      "europop",
+      "eurodance",
+      "j pop",
+      "happy hardcore",
+      "eurobeat"
+    ],
+    "Longitude": "17.55142",
+    "Artist": 497
+  },
+  {
+    "Latitude": "39.6425",
+    "City": "Hagerstown, MD",
+    "genre": [
+      "heavy metal",
+      "hard rock",
+      "glam metal",
+      "glam rock",
+      "hair metal",
+      "garage rock"
+    ],
+    "Longitude": "-77.71758",
+    "Artist": 498
+  },
+  {
+    "Latitude": "37.27188",
+    "City": "California",
+    "genre": [
+      "blue-eyed soul",
+      "brill building pop",
+      "blues",
+      "pop",
+      "soul",
+      "rock"
+    ],
+    "Longitude": "-119.27023",
+    "Artist": 499
+  },
+  {
+    "Latitude": "34.05349",
+    "City": "Los Angeles, CA",
+    "genre": [
+      "vocal",
+      "pop",
+      "lounge",
+      "traditional pop",
+      "classic",
+      "singer"
+    ],
+    "Longitude": "-118.24532",
+    "Artist": 500
+  },
+  {
+    "Latitude": "40.65507",
+    "City": "Brooklyn",
+    "genre": [
+      "hip hop",
+      "pop rap",
+      "old school hip hop",
+      "chill-out",
+      "jazz rap",
+      "grime"
+    ],
+    "Longitude": "-73.94888",
+    "Artist": 501
+  },
+  {
+    "Latitude": "41.51776",
+    "City": "Connecticut",
+    "genre": [
+      "country rock",
+      "garage rock",
+      "soft rock",
+      "oldies",
+      "easy listening",
+      "funk"
+    ],
+    "Longitude": "-72.75753",
+    "Artist": 502
+  },
+  {
+    "Latitude": "35.92425",
+    "City": "Franklin, TN",
+    "genre": [
+      "pop punk",
+      "power pop",
+      "alternative rock",
+      "emo",
+      "rock",
+      "pop"
+    ],
+    "Longitude": "-86.87093",
+    "Artist": 503
+  },
+  {
+    "Latitude": "40.8079",
+    "City": "Harlem, New York",
+    "genre": [
+      "neo soul",
+      "blues",
+      "soul",
+      "pop",
+      "urban",
+      "new york"
+    ],
+    "Longitude": "-73.9454",
+    "Artist": 504
+  },
+  {
+    "Latitude": "64.95014",
+    "City": "Hï¿½enlinna, Finland",
+    "genre": [
+      "country rock",
+      "soft rock",
+      "pop rock",
+      "folk rock",
+      "ballad",
+      "disco"
+    ],
+    "Longitude": "26.06739",
+    "Artist": 505
+  },
+  {
+    "Latitude": "44.00118",
+    "City": "New Hampshire",
+    "genre": [
+      "gabba",
+      "alternative metal",
+      "electro",
+      "breakbeat",
+      "intelligent dance music",
+      "classic rock"
+    ],
+    "Longitude": "-71.6342",
+    "Artist": 506
+  },
+  {
+    "Latitude": "38.25486",
+    "City": "Louisville, KY",
+    "genre": [
+      "disco",
+      "new wave",
+      "electro",
+      "pop rock",
+      "post rock",
+      "tech house"
+    ],
+    "Longitude": "-85.7664",
+    "Artist": 507
+  },
+  {
+    "Latitude": "30.22032",
+    "City": "Lafayette/Baton Rouge, LA",
+    "genre": [
+      "los angeles",
+      "zydeco",
+      "bluegrass",
+      "rock",
+      "blues",
+      "americana"
+    ],
+    "Longitude": "-92.01705",
+    "Artist": 508
+  },
+  {
+    "Latitude": "34.16612",
+    "City": "New Mexico",
+    "genre": [
+      "neo soul",
+      "rumba",
+      "flamenco",
+      "rap",
+      "spanish",
+      "world"
+    ],
+    "Longitude": "-106.02612",
+    "Artist": 509
+  },
+  {
+    "Latitude": "50.84838",
+    "City": "Brussels, Belgium",
+    "genre": [
+      "latin jazz",
+      "brazilian jazz",
+      "smooth jazz",
+      "bebop",
+      "jazz",
+      "chill-out"
+    ],
+    "Longitude": "4.34968",
+    "Artist": 510
+  },
+  {
+    "Latitude": "27.9758",
+    "City": "Florida",
+    "genre": [
+      "twee pop",
+      "pop",
+      "house",
+      "electronic",
+      "rock",
+      "united states"
+    ],
+    "Longitude": "-81.54106",
+    "Artist": 511
+  },
+  {
+    "Latitude": "38.8991",
+    "City": "Washington DC",
+    "genre": [
+      "pop rap",
+      "breakbeat",
+      "hip hop",
+      "rap",
+      "pop",
+      "rock"
+    ],
+    "Longitude": "-77.029",
+    "Artist": 512
+  },
+  {
+    "Latitude": "47.04954",
+    "City": "Lucerne",
+    "genre": [
+      "funk metal",
+      "hip hop",
+      "ska",
+      "indie pop",
+      "rock",
+      "alternative rock"
+    ],
+    "Longitude": "8.30437",
+    "Artist": 513
+  },
+  {
+    "Latitude": "38.50205",
+    "City": "Nevada",
+    "genre": [
+      "nu jazz"
+    ],
+    "Longitude": "-117.02258",
+    "Artist": 514
+  },
+  {
+    "Latitude": "37.77916",
+    "City": "California - SF",
+    "genre": [
+      "oi",
+      "rock",
+      "punk",
+      "hardcore",
+      "street punk",
+      "metal"
+    ],
+    "Longitude": "-122.42005",
+    "Artist": 515
+  },
+  {
+    "Latitude": "37.27188",
+    "City": "CA",
+    "genre": [
+      "groove metal",
+      "alternative metal",
+      "melodic hardcore",
+      "sympho black metal",
+      "dark wave",
+      "hardcore metal"
+    ],
+    "Longitude": "-119.27023",
+    "Artist": 516
+  },
+  {
+    "Latitude": "40.73197",
+    "City": "Newark, NJ",
+    "genre": [
+      "jump blues",
+      "east coast blues",
+      "piano blues",
+      "blues",
+      "r&b",
+      "blues-rock"
+    ],
+    "Longitude": "-74.17418",
+    "Artist": 517
+  },
+  {
+    "Latitude": "39.74023",
+    "City": "WILMINGTON, Delaware",
+    "genre": [
+      "honky tonk",
+      "classic country",
+      "western swing",
+      "bluegrass",
+      "oldies",
+      "country"
+    ],
+    "Longitude": "-75.55084",
+    "Artist": 518
+  },
+  {
+    "Latitude": "37.77916",
+    "City": "San Francisco, CA",
+    "genre": [
+      "latin jazz",
+      "cool jazz",
+      "hard bop",
+      "easy listening",
+      "bossa nova",
+      "boogaloo"
+    ],
+    "Longitude": "-122.42005",
+    "Artist": 519
+  },
+  {
+    "Latitude": "34.05349",
+    "City": "Los Angeles",
+    "genre": [
+      "chill-out",
+      "vocal jazz",
+      "downtempo",
+      "easy listening",
+      "pop",
+      "singer-songwriter"
+    ],
+    "Longitude": "-118.24532",
+    "Artist": 520
+  },
+  {
+    "Latitude": "36.16778",
+    "City": "Nashville, TN",
+    "genre": [
+      "singer-songwriter",
+      "rock",
+      "pop",
+      "ballad",
+      "hip hop",
+      "rap"
+    ],
+    "Longitude": "-86.77836",
+    "Artist": 521
+  },
+  {
+    "Latitude": "28.63951",
+    "City": "Chihuahua, Mexico",
+    "genre": [
+      "chill-out",
+      "emo",
+      "meditation",
+      "progressive metal",
+      "power metal",
+      "downtempo"
+    ],
+    "Longitude": "-106.07218",
+    "Artist": 522
+  },
+  {
+    "Latitude": "31.1689",
+    "City": "Texas",
+    "genre": [
+      "blues",
+      "tejano",
+      "latin jazz",
+      "los angeles",
+      "jazz",
+      "texas"
+    ],
+    "Longitude": "-100.07715",
+    "Artist": 523
+  },
+  {
+    "Latitude": "29.42449",
+    "City": "San Antonio, TX",
+    "genre": [
+      "blues-rock",
+      "tex mex",
+      "country rock",
+      "roots rock",
+      "southern rock",
+      "tejano"
+    ],
+    "Longitude": "-98.49462",
+    "Artist": 524
+  },
+  {
+    "Latitude": "41.88",
+    "City": "Oak Park, IL",
+    "genre": [
+      "power pop",
+      "new wave",
+      "80s",
+      "beat",
+      "pop punk",
+      "club"
+    ],
+    "Longitude": "-87.77891",
+    "Artist": 525
+  },
+  {
+    "Latitude": "56.46137",
+    "City": "Dundee, Scotland",
+    "genre": [
+      "british pop",
+      "pop rock",
+      "oldies",
+      "new wave",
+      "soundtrack",
+      "male vocalist"
+    ],
+    "Longitude": "-2.96761",
+    "Artist": 526
+  },
+  {
+    "Latitude": "54.5958",
+    "City": "Belfast, Northern Ireland",
+    "genre": [
+      "blues-rock",
+      "hard rock",
+      "pop rock",
+      "soft rock",
+      "blues",
+      "ballad"
+    ],
+    "Longitude": "-5.93494",
+    "Artist": 527
+  },
+  {
+    "Latitude": "29.76045",
+    "City": "Houston, TX",
+    "genre": [
+      "reggae",
+      "pop rock",
+      "soft rock",
+      "ballad",
+      "disco",
+      "rock steady"
+    ],
+    "Longitude": "-95.36978",
+    "Artist": 528
+  },
+  {
+    "Latitude": "37.97615",
+    "City": "Athens, Greece",
+    "genre": [
+      "black metal",
+      "sympho black metal",
+      "melodic black metal",
+      "blackened death metal",
+      "extreme metal",
+      "rock"
+    ],
+    "Longitude": "23.73641",
+    "Artist": 529
+  },
+  {
+    "Latitude": "39.10295",
+    "City": "Kansas City, MO",
+    "genre": [
+      "rare groove",
+      "r&b",
+      "blues",
+      "funk",
+      "jazz",
+      "experimental"
+    ],
+    "Longitude": "-94.58306",
+    "Artist": 530
+  },
+  {
+    "Latitude": "-6.91242",
+    "City": "BANDUNG, INDONESIA",
+    "genre": [
+      "space age pop",
+      "samba",
+      "exotica",
+      "soundtrack",
+      "easy listening",
+      "french pop"
+    ],
+    "Longitude": "107.60691",
+    "Artist": 531
+  },
+  {
+    "Latitude": "33.56173",
+    "City": "Aiken, SC",
+    "genre": [
+      "country rock",
+      "country",
+      "male vocalist",
+      "christmas music",
+      "contemporary country",
+      "rock"
+    ],
+    "Longitude": "-81.72239",
+    "Artist": 532
+  },
+  {
+    "Latitude": "49.38426",
+    "City": "CANADA - Ontario",
+    "genre": [
+      "happy hardcore",
+      "gabba",
+      "skacore",
+      "ska punk",
+      "post-hardcore",
+      "easy listening"
+    ],
+    "Longitude": "-84.75627",
+    "Artist": 533
+  },
+  {
+    "Latitude": "32.90573",
+    "City": "Rolling Fork, MS",
+    "genre": [
+      "piano blues",
+      "chicago blues",
+      "delta blues",
+      "blues",
+      "blues-rock",
+      "country blues"
+    ],
+    "Longitude": "-90.87988",
+    "Artist": 534
+  },
+  {
+    "Latitude": "40.71455",
+    "City": "New York, NY",
+    "genre": [
+      "hip hop",
+      "gangster rap",
+      "chill-out",
+      "gregorian chant",
+      "pop rap",
+      "hardcore hip hop"
+    ],
+    "Longitude": "-74.00712",
+    "Artist": 535
+  },
+  {
+    "Latitude": "29.76045",
+    "City": "HOUSTON, Texas",
+    "genre": [
+      "boogaloo",
+      "salsa",
+      "doo-wop",
+      "rock 'n roll",
+      "latin jazz",
+      "merengue"
+    ],
+    "Longitude": "-95.36978",
+    "Artist": 536
+  },
+  {
+    "Latitude": "40.71455",
+    "City": "New York",
+    "genre": [
+      "free jazz",
+      "free improvisation",
+      "jazz",
+      "jazz funk",
+      "hard bop",
+      "psychedelic rock"
+    ],
+    "Longitude": "-74.00712",
+    "Artist": 537
+  },
+  {
+    "Latitude": "34.05349",
+    "City": "Los Angeles, CA",
+    "genre": [
+      "celtic punk",
+      "folk rock",
+      "classic rock",
+      "punk",
+      "rock",
+      "country"
+    ],
+    "Longitude": "-118.24532",
+    "Artist": 538
+  },
+  {
+    "Latitude": "49.38426",
+    "City": "CANADA - Ontario",
+    "genre": [
+      "free music",
+      "rock",
+      "creative commons",
+      "magnatune",
+      "london"
+    ],
+    "Longitude": "-84.75627",
+    "Artist": 140
+  },
+  {
+    "Latitude": "29.95369",
+    "City": "New Orleans, LA",
+    "genre": [
+      "swamp blues",
+      "blues-rock",
+      "harmonica blues",
+      "chicago blues",
+      "soul blues",
+      "los angeles"
+    ],
+    "Longitude": "-90.07771",
+    "Artist": 539
+  },
+  {
+    "Latitude": "40.71455",
+    "City": "New York, NY",
+    "genre": [
+      "blues-rock",
+      "r&b",
+      "pop rock",
+      "rock",
+      "roots rock",
+      "rock 'n roll"
+    ],
+    "Longitude": "-74.00712",
+    "Artist": 540
+  },
+  {
+    "Latitude": "63.03654",
+    "City": "Knobel, AK",
+    "genre": [
+      "country gospel",
+      "gospel",
+      "contemporary christian",
+      "country",
+      "country pop",
+      "female vocalist"
+    ],
+    "Longitude": "-149.10568",
+    "Artist": 541
+  },
+  {
+    "Latitude": "33.71197",
+    "City": "Lithonia, GA",
+    "genre": [
+      "ballad",
+      "soft rock",
+      "rockabilly",
+      "pop rock",
+      "country rock",
+      "doo-wop"
+    ],
+    "Longitude": "-84.10599",
+    "Artist": 542
+  },
+  {
+    "Latitude": "40.71455",
+    "City": "NY - New York City",
+    "genre": [
+      "cumbia",
+      "latin jazz",
+      "easy listening",
+      "brutal death metal",
+      "classical",
+      "traditional"
+    ],
+    "Longitude": "-74.00712",
+    "Artist": 543
+  },
+  {
+    "Latitude": "34.05349",
+    "City": "Los Angeles, CA",
+    "genre": [
+      "blues-rock",
+      "electric blues",
+      "latin jazz",
+      "california",
+      "blues",
+      "classic rock"
+    ],
+    "Longitude": "-118.24532",
+    "Artist": 544
+  },
+  {
+    "Latitude": "69.65102",
+    "City": "Tromso, Norway",
+    "genre": [
+      "trip hop",
+      "downtempo",
+      "electronic",
+      "alternative dance",
+      "dream pop",
+      "synthpop"
+    ],
+    "Longitude": "18.95574",
+    "Artist": 545
+  },
+  {
+    "Latitude": "43.64856",
+    "City": "Toronto, Ontario, Canada",
+    "genre": [
+      "country rock",
+      "heartland rock",
+      "pop rock",
+      "folk rock",
+      "psychedelic rock",
+      "blues-rock"
+    ],
+    "Longitude": "-79.38533",
+    "Artist": 546
+  },
+  {
+    "Latitude": "37.97457",
+    "City": "San Rafael, CA",
+    "genre": [
+      "jazz fusion",
+      "jazz funk",
+      "r&b",
+      "smooth jazz",
+      "funk",
+      "jazz"
+    ],
+    "Longitude": "-122.53247",
+    "Artist": 547
+  },
+  {
+    "Latitude": "39.49974",
+    "City": "YAHD!",
+    "genre": [
+      "dancehall",
+      "reggae",
+      "roots reggae",
+      "jungle music",
+      "lovers rock",
+      "reggaeton"
+    ],
+    "Longitude": "-111.54732",
+    "Artist": 548
+  },
+  {
+    "Latitude": "40.69214",
+    "City": "Peoria, IL",
+    "genre": [
+      "ccm",
+      "inspirational",
+      "southern gospel",
+      "country pop",
+      "christmas music",
+      "electro"
+    ],
+    "Longitude": "-89.58776",
+    "Artist": 549
+  },
+  {
+    "Latitude": "-23.56287",
+    "City": "Sao Paulo, Brazil",
+    "genre": [
+      "latin jazz",
+      "brazilian jazz",
+      "bossa nova",
+      "samba",
+      "tango",
+      "easy listening"
+    ],
+    "Longitude": "-46.65466",
+    "Artist": 550
+  },
+  {
+    "Latitude": "30.2676",
+    "City": "Austin, TX",
+    "genre": [
+      "rock 'n roll",
+      "jazz funk",
+      "big beat",
+      "downtempo",
+      "classic rock",
+      "rock"
+    ],
+    "Longitude": "-97.74298",
+    "Artist": 551
+  },
+  {
+    "Latitude": "39.95227",
+    "City": "Philadelphia, PA",
+    "genre": [
+      "cool jazz",
+      "latin jazz",
+      "ballad",
+      "smooth jazz",
+      "easy listening",
+      "soft rock"
+    ],
+    "Longitude": "-75.16237",
+    "Artist": 552
+  },
+  {
+    "Latitude": "37.80506",
+    "City": "Oakland, CA",
+    "genre": [
+      "heavy metal",
+      "hard rock",
+      "honky tonk",
+      "flamenco",
+      "german pop",
+      "northern soul"
+    ],
+    "Longitude": "-122.27302",
+    "Artist": 553
+  },
+  {
+    "Latitude": "19.4319",
+    "City": "Mexico City, Mexico",
+    "genre": [
+      "death core",
+      "hardstyle",
+      "brutal death metal",
+      "grindcore",
+      "funk",
+      "black metal"
+    ],
+    "Longitude": "-99.13285",
+    "Artist": 554
+  },
+  {
+    "Latitude": "34.05349",
+    "City": "Los Angeles, CA",
+    "genre": [
+      "motown",
+      "glitch",
+      "trip hop",
+      "intelligent dance music",
+      "jungle music",
+      "chill-out"
+    ],
+    "Longitude": "-118.24532",
+    "Artist": 555
+  },
+  {
+    "Latitude": "55.70622",
+    "City": "Lund, Sweden",
+    "genre": [
+      "shoegaze",
+      "dream pop",
+      "indie rock",
+      "indie pop",
+      "pop",
+      "indie"
+    ],
+    "Longitude": "13.1876",
+    "Artist": 292
+  },
+  {
+    "Latitude": "40.65507",
+    "City": "Brooklyn, NY",
+    "genre": [
+      "gangster rap",
+      "hip hop",
+      "rap",
+      "hardcore rap",
+      "west coast rap",
+      "soundtrack"
+    ],
+    "Longitude": "-73.94888",
+    "Artist": 556
+  },
+  {
+    "Latitude": "37.16793",
+    "City": "US",
+    "genre": [
+      "free jazz",
+      "cool jazz",
+      "jazz",
+      "bebop",
+      "ragtime",
+      "piano blues"
+    ],
+    "Longitude": "-95.84502",
+    "Artist": 557
+  },
+  {
+    "Latitude": "34.51042",
+    "City": "Rossville, Tennessee (Lived in Como, Mississippi)",
+    "genre": [
+      "delta blues",
+      "country blues",
+      "blues",
+      "blues-rock",
+      "religious music",
+      "texas blues"
+    ],
+    "Longitude": "-89.94049",
+    "Artist": 558
+  },
+  {
+    "Latitude": "51.50632",
+    "City": "London",
+    "genre": [
+      "rap",
+      "rap rock",
+      "rap metal",
+      "gangster rap",
+      "rapcore",
+      "nu metal"
+    ],
+    "Longitude": "-0.12714",
+    "Artist": 559
+  },
+  {
+    "Latitude": "34.05349",
+    "City": "United States",
+    "genre": [
+      "gangster rap",
+      "hip hop",
+      "rap",
+      "hardcore rap",
+      "east coast rap",
+      "new york"
+    ],
+    "Longitude": "-118.24532",
+    "Artist": 560
+  },
+  {
+    "Latitude": "33.54243",
+    "City": "Sunflower, MS",
+    "genre": [
+      "chicago soul",
+      "northern soul",
+      "doo-wop",
+      "disco",
+      "ballad",
+      "jazz funk"
+    ],
+    "Longitude": "-90.53727",
+    "Artist": 561
+  },
+  {
+    "Latitude": "34.19451",
+    "City": "Clarksdale, MS",
+    "genre": [
+      "chicago blues",
+      "delta blues",
+      "blues-rock",
+      "blues",
+      "r&b",
+      "doo-wop"
+    ],
+    "Longitude": "-90.5651",
+    "Artist": 562
+  },
+  {
+    "Latitude": "47.60356",
+    "City": "Seattle, WA",
+    "genre": [
+      "grunge",
+      "garage rock",
+      "alternative rock",
+      "rock",
+      "country rock",
+      "garage punk"
+    ],
+    "Longitude": "-122.32944",
+    "Artist": 563
+  },
+  {
+    "Latitude": "42.7316",
+    "City": "BG",
+    "genre": [
+      "smooth jazz",
+      "pop folk",
+      "post-hardcore",
+      "screamo",
+      "melodic metalcore",
+      "melodic hardcore"
+    ],
+    "Longitude": "25.48312",
+    "Artist": 564
+  },
+  {
+    "Latitude": "41.39447",
+    "City": "Brewster New York USA",
+    "genre": [
+      "progressive house",
+      "techno",
+      "tech house",
+      "funk rock",
+      "argentine rock",
+      "trip hop"
+    ],
+    "Longitude": "-73.61689",
+    "Artist": 565
+  },
+  {
+    "Latitude": "40.71455",
+    "City": "New York, NY",
+    "genre": [
+      "hip hop",
+      "pop rap",
+      "disco",
+      "old school hip hop",
+      "electro",
+      "hip house"
+    ],
+    "Longitude": "-74.00712",
+    "Artist": 566
+  },
+  {
+    "Latitude": "35.83073",
+    "City": "Tennessee",
+    "genre": [
+      "modern rock",
+      "contemporary christian",
+      "ccm",
+      "easy listening",
+      "pop rock",
+      "pop"
+    ],
+    "Longitude": "-85.97874",
+    "Artist": 567
+  },
+  {
+    "Latitude": "49.08215",
+    "City": "Kremenchuk, Ukraine",
+    "genre": [
+      "soundtrack",
+      "blues-rock",
+      "cool jazz",
+      "texas blues",
+      "parody",
+      "rockabilly"
+    ],
+    "Longitude": "33.43009",
+    "Artist": 568
+  },
+  {
+    "Latitude": "33.15049",
+    "City": "Frisco, TX",
+    "genre": [
+      "r&b",
+      "texas blues",
+      "electric blues",
+      "jump blues",
+      "blues",
+      "jazz"
+    ],
+    "Longitude": "-96.83464",
+    "Artist": 569
+  },
+  {
+    "Latitude": "34.16788",
+    "City": "Arizona",
+    "genre": [
+      "easy listening",
+      "cool jazz",
+      "blues-rock",
+      "texas blues",
+      "parody",
+      "ballad"
+    ],
+    "Longitude": "-111.9307",
+    "Artist": 570
+  },
+  {
+    "Latitude": "37.83721",
+    "City": "Nevada, MO",
+    "genre": [
+      "pop rock",
+      "soft rock",
+      "blues-rock",
+      "doo-wop",
+      "chanson",
+      "oldies"
+    ],
+    "Longitude": "-94.35868",
+    "Artist": 571
+  },
+  {
+    "Latitude": "30.2676",
+    "City": "Austin, Texas",
+    "genre": [
+      "post-hardcore",
+      "tech metal",
+      "death core",
+      "math-core",
+      "groove metal",
+      "digital hardcore"
+    ],
+    "Longitude": "-97.74298",
+    "Artist": 572
+  },
+  {
+    "Latitude": "44.04992",
+    "City": "Eugene, OR",
+    "genre": [
+      "christian rock",
+      "pop punk",
+      "stoner rock",
+      "rap",
+      "blues",
+      "punk pop"
+    ],
+    "Longitude": "-123.08854",
+    "Artist": 573
+  },
+  {
+    "Latitude": "56.27609",
+    "City": "Denmark",
+    "genre": [
+      "bhangra",
+      "hip hop",
+      "pop rap",
+      "desi",
+      "dance music",
+      "dance pop"
+    ],
+    "Longitude": "9.51695",
+    "Artist": 574
+  },
+  {
+    "Latitude": "40.14323",
+    "City": "New Jersey",
+    "genre": [
+      "chill-out",
+      "soundtrack",
+      "symphony",
+      "neoclassical",
+      "dark ambient",
+      "jazz"
+    ],
+    "Longitude": "-74.72671",
+    "Artist": 575
+  },
+  {
+    "Latitude": "38.62774",
+    "City": "St. Louis, MO",
+    "genre": [
+      "bass music",
+      "electro",
+      "deep house",
+      "hip hop",
+      "ghetto tech",
+      "techno"
+    ],
+    "Longitude": "-90.19951",
+    "Artist": 576
+  },
+  {
+    "Latitude": "32.67828",
+    "City": "Georgia",
+    "genre": [
+      "breakbeat",
+      "big beat",
+      "tribal house",
+      "progressive house",
+      "dub",
+      "hard trance"
+    ],
+    "Longitude": "-83.22295",
+    "Artist": 577
+  },
+  {
+    "Latitude": "32.29869",
+    "City": "Jackson, MS",
+    "genre": [
+      "country gospel",
+      "country rock",
+      "country blues",
+      "delta blues",
+      "blues",
+      "country"
+    ],
+    "Longitude": "-90.18049",
+    "Artist": 578
+  },
+  {
+    "Latitude": "40.71455",
+    "City": "New York City, New York",
+    "genre": [
+      "vaudeville",
+      "show tunes",
+      "comedy",
+      "stand-up comedy",
+      "avant-garde",
+      "americana"
+    ],
+    "Longitude": "-74.00712",
+    "Artist": 579
+  },
+  {
+    "Latitude": "26.35049",
+    "City": "BOCA RATON, Florida",
+    "genre": [
+      "free music",
+      "rock",
+      "creative commons",
+      "magnatune",
+      "london"
+    ],
+    "Longitude": "-80.089",
+    "Artist": 140
+  },
+  {
+    "Latitude": "37.77916",
+    "City": "San Francisco, CA",
+    "genre": [
+      "latin jazz",
+      "chamber jazz",
+      "soul jazz",
+      "jazz funk",
+      "jazz fusion",
+      "smooth jazz"
+    ],
+    "Longitude": "-122.42005",
+    "Artist": 580
+  },
+  {
+    "Latitude": "40.85251",
+    "City": "Long Island, New York",
+    "genre": [
+      "post-hardcore",
+      "emo",
+      "rock",
+      "alternative",
+      "emotional",
+      "hardcore"
+    ],
+    "Longitude": "-73.13585",
+    "Artist": 581
+  },
+  {
+    "Latitude": "43.64856",
+    "City": "Toronto",
+    "genre": [
+      "meditation",
+      "flamenco",
+      "rumba",
+      "soft rock",
+      "world music",
+      "easy listening"
+    ],
+    "Longitude": "-79.38533",
+    "Artist": 582
+  },
+  {
+    "Latitude": "37.27188",
+    "City": "California",
+    "genre": [
+      "ccm",
+      "soft rock",
+      "easy listening",
+      "hymns",
+      "religious music",
+      "country rock"
+    ],
+    "Longitude": "-119.27023",
+    "Artist": 583
+  },
+  {
+    "Latitude": "39.75911",
+    "City": "Dayton, OH",
+    "genre": [
+      "doom metal",
+      "post rock",
+      "sludge metal",
+      "post-hardcore",
+      "stoner metal",
+      "doomcore"
+    ],
+    "Longitude": "-84.19444",
+    "Artist": 584
+  },
+  {
+    "Latitude": "38.8991",
+    "City": "Washington",
+    "genre": [
+      "electric blues",
+      "blues",
+      "country blues",
+      "blues-rock",
+      "folk rock",
+      "singer-songwriter"
+    ],
+    "Longitude": "-77.029",
+    "Artist": 585
+  },
+  {
+    "Latitude": "18.22328",
+    "City": "Cuomo, Puerto Rico",
+    "genre": [
+      "salsa",
+      "charanga",
+      "latin jazz",
+      "boogaloo",
+      "mambo",
+      "calypso"
+    ],
+    "Longitude": "-66.42889",
+    "Artist": 586
+  },
+  {
+    "Latitude": "57.15382",
+    "City": "Aberdeen, Scotland",
+    "genre": [
+      "hard house",
+      "easy listening",
+      "orchestra",
+      "traditional",
+      "classical",
+      "folk"
+    ],
+    "Longitude": "-2.10679",
+    "Artist": 587
+  },
+  {
+    "Latitude": "46.8132",
+    "City": "Switzerland",
+    "genre": [
+      "new romantic",
+      "rock",
+      "psychedelic",
+      "singer-songwriter",
+      "progressive rock",
+      "alternative rock"
+    ],
+    "Longitude": "8.22395",
+    "Artist": 588
+  },
+  {
+    "Latitude": "34.56398",
+    "City": "Benton, Arkansas",
+    "genre": [
+      "rockabilly",
+      "blue-eyed soul",
+      "country gospel",
+      "rock 'n roll",
+      "classic country",
+      "country pop"
+    ],
+    "Longitude": "-92.58685",
+    "Artist": 589
+  },
+  {
+    "Latitude": "40.77735",
+    "City": "New York, NY [Astoria, Queens]",
+    "genre": [
+      "vaudeville",
+      "show tunes",
+      "disco",
+      "swing",
+      "oldies",
+      "world music"
+    ],
+    "Longitude": "-73.88137",
+    "Artist": 590
+  },
+  {
+    "Latitude": "46.49",
+    "City": "Sudbury, Ontario - Canada",
+    "genre": [
+      "power pop",
+      "pop punk",
+      "indie rock",
+      "punk",
+      "melodic punk",
+      "mod revival"
+    ],
+    "Longitude": "-80.99001",
+    "Artist": 591
+  },
+  {
+    "Latitude": "36.06899",
+    "City": "Greensboro, NC",
+    "genre": [
+      "harmonica blues",
+      "country blues",
+      "piedmont blues",
+      "blues",
+      "piano blues",
+      "delta blues"
+    ],
+    "Longitude": "-79.7947",
+    "Artist": 592
+  },
+  {
+    "Latitude": "43.64856",
+    "City": "Toronto, Ontario, Canada",
+    "genre": [
+      "power pop",
+      "hard rock",
+      "alternative rock",
+      "pop rock",
+      "blues-rock",
+      "country rock"
+    ],
+    "Longitude": "-79.38533",
+    "Artist": 593
+  },
+  {
+    "Latitude": "49.89942",
+    "City": "Winnipeg, Manitoba, Canada",
+    "genre": [
+      "easy listening",
+      "chanson",
+      "doo-wop",
+      "jazz",
+      "pop",
+      "vocal"
+    ],
+    "Longitude": "-97.14074",
+    "Artist": 594
+  },
+  {
+    "Latitude": "34.67747",
+    "City": "Osaka, Japan",
+    "genre": [
+      "jazz funk",
+      "smooth jazz",
+      "blues-rock",
+      "funk",
+      "jazz",
+      "fusion"
+    ],
+    "Longitude": "135.50323",
+    "Artist": 595
+  },
+  {
+    "Latitude": "19.59009",
+    "City": "Hawaii",
+    "genre": [
+      "lovers rock",
+      "rock steady",
+      "roots reggae",
+      "pop rap",
+      "reggae",
+      "europop"
+    ],
+    "Longitude": "-155.43414",
+    "Artist": 596
+  },
+  {
+    "Latitude": "44.11559",
+    "City": "Oregon",
+    "genre": [
+      "breakbeat",
+      "broken beat",
+      "funk rock",
+      "post rock",
+      "shoegaze",
+      "downtempo"
+    ],
+    "Longitude": "-120.51484",
+    "Artist": 597
+  },
+  {
+    "Latitude": "31.55379",
+    "City": "Monticello, MS",
+    "genre": [
+      "chicago blues",
+      "blues",
+      "country blues",
+      "electric blues",
+      "r&b",
+      "rockabilly"
+    ],
+    "Longitude": "-90.10785",
+    "Artist": 598
+  },
+  {
+    "Latitude": "40.99471",
+    "City": "Harrisburg, PA",
+    "genre": [
+      "modern rock",
+      "rock",
+      "pop rock",
+      "hard rock",
+      "hip hop",
+      "dance"
+    ],
+    "Longitude": "-77.60454",
+    "Artist": 599
+  },
+  {
+    "Latitude": "39.73926",
+    "City": "Illinois",
+    "genre": [
+      "folk-pop",
+      "singer-songwriter",
+      "folk",
+      "traditional folk",
+      "rock",
+      "country"
+    ],
+    "Longitude": "-89.50409",
+    "Artist": 600
+  },
+  {
+    "Latitude": "35.33826",
+    "City": "Moore, OK",
+    "genre": [
+      "country",
+      "singer-songwriter",
+      "female vocalist",
+      "united states",
+      "modern country",
+      "pop"
+    ],
+    "Longitude": "-97.48561",
+    "Artist": 601
+  },
+  {
+    "Latitude": "30.2676",
+    "City": "Austin, Texas",
+    "genre": [
+      "blues-rock",
+      "texas blues",
+      "easy listening",
+      "folk rock",
+      "pop rock",
+      "blues"
+    ],
+    "Longitude": "-97.74298",
+    "Artist": 602
+  },
+  {
+    "Latitude": "34.80046",
+    "City": "Florence, AL",
+    "genre": [
+      "southern soul",
+      "r&b",
+      "northern soul",
+      "electric blues",
+      "funk",
+      "soul"
+    ],
+    "Longitude": "-87.67525",
+    "Artist": 603
+  },
+  {
+    "Latitude": "32.74863",
+    "City": "Fort Worth, TX",
+    "genre": [
+      "country gospel",
+      "country music",
+      "oldies",
+      "country folk",
+      "country",
+      "alternative country"
+    ],
+    "Longitude": "-97.32925",
+    "Artist": 604
+  },
+  {
+    "Latitude": "34.16788",
+    "City": "Arizona",
+    "genre": [
+      "easy listening",
+      "cool jazz",
+      "blues-rock",
+      "texas blues",
+      "parody",
+      "ballad"
+    ],
+    "Longitude": "-111.9307",
+    "Artist": 570
+  },
+  {
+    "Latitude": "32.34973",
+    "City": "Bolton, MS",
+    "genre": [
+      "delta blues",
+      "country blues",
+      "piano blues",
+      "chicago blues",
+      "blues",
+      "piedmont blues"
+    ],
+    "Longitude": "-90.45987",
+    "Artist": 605
+  },
+  {
+    "Latitude": "52.51607",
+    "City": "Berlin, Germany",
+    "genre": [
+      "techno",
+      "deep house",
+      "tech house",
+      "electronic",
+      "psychobilly",
+      "dub"
+    ],
+    "Longitude": "13.37698",
+    "Artist": 606
+  },
+  {
+    "Latitude": "23.62574",
+    "City": "MX",
+    "genre": [
+      "nu jazz",
+      "bossa nova",
+      "pop rock",
+      "downtempo",
+      "jazz",
+      "female vocalist"
+    ],
+    "Longitude": "-101.95625",
+    "Artist": 607
+  },
+  {
+    "Latitude": "30.9742",
+    "City": "Louisiana",
+    "genre": [
+      "zydeco",
+      "swamp blues",
+      "blues-rock",
+      "swamp rock",
+      "roots rock",
+      "smooth jazz"
+    ],
+    "Longitude": "-91.52382",
+    "Artist": 608
+  },
+  {
+    "Latitude": "38.8991",
+    "City": "Washington",
+    "genre": [
+      "ccm",
+      "turnablism",
+      "illbient",
+      "pop rock",
+      "hip hop",
+      "rock"
+    ],
+    "Longitude": "-77.029",
+    "Artist": 609
+  },
+  {
+    "Latitude": "34.05349",
+    "City": "Los Angeles, CA",
+    "genre": [
+      "grunge",
+      "alternative metal",
+      "alternative rock",
+      "rock",
+      "pop rap",
+      "garage rock"
+    ],
+    "Longitude": "-118.24532",
+    "Artist": 610
+  },
+  {
+    "Latitude": "-34.60852",
+    "City": "Buenos Aires",
+    "genre": [
+      "chill-out",
+      "meditation",
+      "organic ambient",
+      "space music",
+      "neoclassical",
+      "ambient"
+    ],
+    "Longitude": "-58.37354",
+    "Artist": 611
+  },
+  {
+    "Latitude": "42.88544",
+    "City": "Buffalo, New York",
+    "genre": [
+      "alternative metal",
+      "grunge",
+      "screamo",
+      "hardcore punk",
+      "hardcore",
+      "metal"
+    ],
+    "Longitude": "-78.87846",
+    "Artist": 612
+  },
+  {
+    "Latitude": "39.09551",
+    "City": "Colfax, CA",
+    "genre": [
+      "free improvisation",
+      "cool jazz",
+      "minimal music",
+      "electronic",
+      "free jazz",
+      "united states"
+    ],
+    "Longitude": "-120.95071",
+    "Artist": 613
+  },
+  {
+    "Latitude": "19.45565",
+    "City": "Santiago de los Caballeros, Domin",
+    "genre": [
+      "salsa",
+      "charanga",
+      "cha cha cha",
+      "latin jazz",
+      "boogaloo",
+      "merengue"
+    ],
+    "Longitude": "-70.70719",
+    "Artist": 614
+  },
+  {
+    "Latitude": "42.33168",
+    "City": "Detroit, MI",
+    "genre": [
+      "blues-rock",
+      "garage rock",
+      "folk rock",
+      "blues",
+      "hard rock",
+      "alternative rock"
+    ],
+    "Longitude": "-83.04792",
+    "Artist": 615
+  },
+  {
+    "Latitude": "51.89834",
+    "City": "Cork City, Ireland",
+    "genre": [
+      "freestyle",
+      "post-grunge",
+      "christian rock",
+      "progressive trance",
+      "screamo",
+      "alternative rock"
+    ],
+    "Longitude": "-8.47277",
+    "Artist": 616
+  },
+  {
+    "Latitude": "50.91552",
+    "City": "Battle, Sussex, England",
+    "genre": [
+      "orchestra",
+      "easy listening",
+      "ballad",
+      "chanson",
+      "soundtrack",
+      "jazz"
+    ],
+    "Longitude": "0.48883",
+    "Artist": 617
+  },
+  {
+    "Latitude": "55.70622",
+    "City": "Lund, Sweden",
+    "genre": [
+      "viking metal",
+      "folk metal",
+      "dark wave",
+      "progressive house",
+      "black metal",
+      "electronic"
+    ],
+    "Longitude": "13.1876",
+    "Artist": 618
+  },
+  {
+    "Latitude": "51.16418",
+    "City": "Germany",
+    "genre": [
+      "pop rap",
+      "hip house",
+      "europop",
+      "trance",
+      "hip hop",
+      "progressive house"
+    ],
+    "Longitude": "10.45415",
+    "Artist": 619
+  },
+  {
+    "Latitude": "50.97768",
+    "City": "Germany (Erfurt, Thuringia)",
+    "genre": [
+      "black metal",
+      "ambient black metal",
+      "sympho black metal",
+      "neoclassical",
+      "melodic black metal",
+      "gothic metal"
+    ],
+    "Longitude": "11.02307",
+    "Artist": 620
+  },
+  {
+    "Latitude": "32.77815",
+    "City": "Dallas, TX",
+    "genre": [
+      "ccm",
+      "celtic",
+      "freestyle",
+      "rap",
+      "meditation",
+      "ambient"
+    ],
+    "Longitude": "-96.7954",
+    "Artist": 621
+  },
+  {
+    "Latitude": "57.70133",
+    "City": "Gothenburg, Sweden",
+    "genre": [
+      "twee pop",
+      "rock",
+      "power pop",
+      "indie pop",
+      "easy listening",
+      "acoustic"
+    ],
+    "Longitude": "11.96689",
+    "Artist": 622
+  },
+  {
+    "Latitude": "37.87869",
+    "City": "San Francisco Bay Area",
+    "genre": [
+      "heavy metal",
+      "hard rock",
+      "speed metal",
+      "soft rock",
+      "rock 'n roll",
+      "glam metal"
+    ],
+    "Longitude": "-121.94345",
+    "Artist": 623
+  },
+  {
+    "Latitude": "36.38418",
+    "City": "Livingston, TN",
+    "genre": [
+      "soul blues",
+      "east coast blues",
+      "southern soul",
+      "blues",
+      "funk",
+      "rock"
+    ],
+    "Longitude": "-85.32281",
+    "Artist": 624
+  },
+  {
+    "Latitude": "39.95227",
+    "City": "Philadelphia, PA",
+    "genre": [
+      "pop rock",
+      "doo-wop",
+      "northern soul",
+      "blue-eyed soul",
+      "ballad",
+      "blues-rock"
+    ],
+    "Longitude": "-75.16237",
+    "Artist": 625
+  },
+  {
+    "Latitude": "42.02534",
+    "City": "Ames, IA",
+    "genre": [
+      "blues-rock",
+      "punk blues",
+      "psychedelic rock",
+      "post rock",
+      "stoner rock",
+      "blues"
+    ],
+    "Longitude": "-93.6202",
+    "Artist": 626
+  },
+  {
+    "Latitude": "18.01571",
+    "City": "Kingston, Jamaica",
+    "genre": [
+      "roots reggae",
+      "lovers rock",
+      "dub",
+      "reggae",
+      "trip hop",
+      "rock steady"
+    ],
+    "Longitude": "-76.79731",
+    "Artist": 627
+  },
+  {
+    "Latitude": "31.90143",
+    "City": "Smithville, GA",
+    "genre": [
+      "east coast blues",
+      "harmonica blues",
+      "chicago blues",
+      "blues",
+      "country blues",
+      "ragtime"
+    ],
+    "Longitude": "-84.25274",
+    "Artist": 628
+  },
+  {
+    "Latitude": "34.05349",
+    "City": "Los Angeles, CA",
+    "genre": [
+      "rock",
+      "punk",
+      "los angeles",
+      "grunge",
+      "southern rock",
+      "hardcore punk"
+    ],
+    "Longitude": "-118.24532",
+    "Artist": 629
+  },
+  {
+    "Latitude": "34.03142",
+    "City": "Delight, AR",
+    "genre": [
+      "country rock",
+      "soft rock",
+      "pop rock",
+      "folk rock",
+      "ballad",
+      "disco"
+    ],
+    "Longitude": "-93.50243",
+    "Artist": 505
+  },
+  {
+    "Latitude": "18.11526",
+    "City": "Jamaica",
+    "genre": [
+      "rock steady",
+      "reggae",
+      "roots reggae",
+      "lovers rock",
+      "ballad",
+      "ska"
+    ],
+    "Longitude": "-77.27348",
+    "Artist": 630
+  },
+  {
+    "Latitude": "40.71455",
+    "City": "New York, NY",
+    "genre": [
+      "northern soul",
+      "soft rock",
+      "brill building pop",
+      "gangster rap",
+      "folk rock",
+      "pop rock"
+    ],
+    "Longitude": "-74.00712",
+    "Artist": 631
+  },
+  {
+    "Latitude": "-0.02435",
+    "City": "Kenya",
+    "genre": [
+      "soukous",
+      "world",
+      "samba",
+      "orchestra",
+      "up beat",
+      "afropop"
+    ],
+    "Longitude": "37.90395",
+    "Artist": 632
+  },
+  {
+    "Latitude": "42.31256",
+    "City": "Boston, Massachusetts",
+    "genre": [
+      "hardcore punk",
+      "straight edge",
+      "heavy metal",
+      "death core",
+      "nu metal",
+      "melodic hardcore"
+    ],
+    "Longitude": "-71.08868",
+    "Artist": 633
+  },
+  {
+    "Latitude": "30.53301",
+    "City": "Opelousas, LA",
+    "genre": [
+      "swamp pop",
+      "swamp rock",
+      "rockabilly",
+      "los angeles",
+      "doo-wop",
+      "pop rock"
+    ],
+    "Longitude": "-92.08238",
+    "Artist": 634
+  },
+  {
+    "Latitude": "51.16418",
+    "City": "Germany",
+    "genre": [
+      "chamber jazz",
+      "chill-out",
+      "easy listening",
+      "celtic",
+      "guitar",
+      "acoustic"
+    ],
+    "Longitude": "10.45415",
+    "Artist": 635
+  },
+  {
+    "Latitude": "38.91391",
+    "City": "Lee's Summit, MO",
+    "genre": [
+      "free jazz",
+      "jazz",
+      "fusion",
+      "post-bop",
+      "modern jazz",
+      "world music"
+    ],
+    "Longitude": "-94.37517",
+    "Artist": 636
+  },
+  {
+    "Latitude": "48.85692",
+    "City": "Paris, France",
+    "genre": [
+      "chanson",
+      "world beat",
+      "garage rock",
+      "pop rock",
+      "pop",
+      "easy listening"
+    ],
+    "Longitude": "2.34121",
+    "Artist": 637
+  },
+  {
+    "Latitude": "43.71371",
+    "City": "Senigallia, Italy",
+    "genre": [
+      "hip hop",
+      "pop rap",
+      "electro",
+      "dirty south rap",
+      "hard house",
+      "boy band"
+    ],
+    "Longitude": "13.22305",
+    "Artist": 638
+  },
+  {
+    "Latitude": "34.05349",
+    "City": "Kentwood, LA; Los Angeles, CA",
+    "genre": [
+      "dance pop",
+      "teen pop",
+      "pop rock",
+      "electropop",
+      "adult contemporary",
+      "ballad"
+    ],
+    "Longitude": "-118.24532",
+    "Artist": 639
+  },
+  {
+    "Latitude": "40.71455",
+    "City": "New York, NY",
+    "genre": [
+      "trip hop",
+      "hard rock",
+      "hard trance",
+      "hard house",
+      "gabba",
+      "tech house"
+    ],
+    "Longitude": "-74.00712",
+    "Artist": 347
+  },
+  {
+    "Latitude": "62.19845",
+    "City": "Sweden",
+    "genre": [
+      "death metal",
+      "heavy metal",
+      "progressive",
+      "metal",
+      "sweden",
+      "power metal"
+    ],
+    "Longitude": "17.55142",
+    "Artist": 640
+  },
+  {
+    "Latitude": "52.51607",
+    "City": "Berlin, Germany",
+    "genre": [
+      "breakcore",
+      "gabba",
+      "hardcore techno",
+      "breakbeat",
+      "future jazz",
+      "techno"
+    ],
+    "Longitude": "13.37698",
+    "Artist": 641
+  },
+  {
+    "Latitude": "42.21464",
+    "City": "South Hadley Massachusetts USA",
+    "genre": [
+      "alternative metal",
+      "industrial rock",
+      "nu metal",
+      "hard rock",
+      "disco",
+      "heavy metal"
+    ],
+    "Longitude": "-72.59378",
+    "Artist": 642
+  },
+  {
+    "Latitude": "31.1689",
+    "City": "Texas",
+    "genre": [
+      "alternative country",
+      "country rock",
+      "southern rock",
+      "singer-songwriter",
+      "country",
+      "americana"
+    ],
+    "Longitude": "-100.07715",
+    "Artist": 643
+  },
+  {
+    "Latitude": "34.05349",
+    "City": "California - LA",
+    "genre": [
+      "folk-pop",
+      "soft rock",
+      "pop rock",
+      "modern rock",
+      "folk rock",
+      "singer-songwriter"
+    ],
+    "Longitude": "-118.24532",
+    "Artist": 644
+  },
+  {
+    "Latitude": "52.94922",
+    "City": "Nottingham, England",
+    "genre": [
+      "blues-rock",
+      "british blues",
+      "hard rock",
+      "classic rock",
+      "electric blues",
+      "psychedelic rock"
+    ],
+    "Longitude": "-1.14392",
+    "Artist": 645
+  },
+  {
+    "Latitude": "51.50632",
+    "City": "London, England",
+    "genre": [
+      "new romantic",
+      "dance rock",
+      "italian disco",
+      "new wave",
+      "electronic",
+      "electro"
+    ],
+    "Longitude": "-0.12714",
+    "Artist": 646
+  },
+  {
+    "Latitude": "40.65507",
+    "City": "Brooklyn, NY",
+    "genre": [
+      "reggae",
+      "hip hop",
+      "alternative rock",
+      "rock",
+      "dancehall",
+      "contemporary reggae"
+    ],
+    "Longitude": "-73.94888",
+    "Artist": 647
+  },
+  {
+    "Latitude": "52.51607",
+    "City": "Berlin, Germany",
+    "genre": [
+      "hardcore techno",
+      "digital hardcore",
+      "breakcore",
+      "industrial metal",
+      "gabba",
+      "synth punk"
+    ],
+    "Longitude": "13.37698",
+    "Artist": 648
+  },
+  {
+    "Latitude": "51.16418",
+    "City": "Germany",
+    "genre": [
+      "pop rap",
+      "hip house",
+      "europop",
+      "trance",
+      "hip hop",
+      "progressive house"
+    ],
+    "Longitude": "10.45415",
+    "Artist": 619
+  },
+  {
+    "Latitude": "27.9758",
+    "City": "Florida",
+    "genre": [
+      "symphonic metal",
+      "gothic metal",
+      "symphonic rock",
+      "dubstep",
+      "jazz fusion",
+      "progressive metal"
+    ],
+    "Longitude": "-81.54106",
+    "Artist": 649
+  },
+  {
+    "Latitude": "45.4215",
+    "City": "Ottawa, Ontario, Canada",
+    "genre": [
+      "roots rock",
+      "blues-rock",
+      "blues",
+      "rockabilly",
+      "female vocalist",
+      "classic rock"
+    ],
+    "Longitude": "-75.69189",
+    "Artist": 650
+  },
+  {
+    "Latitude": "32.77815",
+    "City": "Dallas, TX",
+    "genre": [
+      "blues-rock",
+      "country rock",
+      "roots rock",
+      "r&b",
+      "texas blues",
+      "sympho black metal"
+    ],
+    "Longitude": "-96.7954",
+    "Artist": 651
+  },
+  {
+    "Latitude": "64.46794",
+    "City": "namsos, NO",
+    "genre": [
+      "chanson",
+      "ballad",
+      "blues-rock",
+      "pop rock",
+      "pop",
+      "art rock"
+    ],
+    "Longitude": "11.49407",
+    "Artist": 354
+  },
+  {
+    "Latitude": "32.78115",
+    "City": "Charleston, SC",
+    "genre": [
+      "jazz funk",
+      "soul jazz",
+      "smooth jazz",
+      "disco",
+      "jazz",
+      "funk"
+    ],
+    "Longitude": "-79.9316",
+    "Artist": 652
+  },
+  {
+    "Latitude": "51.50632",
+    "City": "London, England",
+    "genre": [
+      "europop",
+      "breakbeat",
+      "big beat",
+      "pop rock",
+      "tribal house",
+      "pop rap"
+    ],
+    "Longitude": "-0.12714",
+    "Artist": 653
+  },
+  {
+    "Latitude": "34.82353",
+    "City": "Hernando, MS",
+    "genre": [
+      "blues-rock",
+      "roots rock",
+      "southern rock",
+      "jam band",
+      "swamp rock",
+      "delta blues"
+    ],
+    "Longitude": "-89.99726",
+    "Artist": 654
+  },
+  {
+    "Latitude": "31.30627",
+    "City": "Marlin, TX",
+    "genre": [
+      "texas blues",
+      "country blues",
+      "delta blues",
+      "blues",
+      "blues-rock",
+      "electric blues"
+    ],
+    "Longitude": "-96.89774",
+    "Artist": 655
+  },
+  {
+    "Latitude": "42.31256",
+    "City": "Boston, MA",
+    "genre": [
+      "alternative metal",
+      "grindcore",
+      "power metal",
+      "progressive metal",
+      "heavy metal",
+      "death metal"
+    ],
+    "Longitude": "-71.08868",
+    "Artist": 656
+  },
+  {
+    "Latitude": "40.71455",
+    "City": "NY - New York City",
+    "genre": [
+      "hip hop",
+      "alternative hip hop",
+      "gangster rap",
+      "rap",
+      "underground hip hop",
+      "alternative rock"
+    ],
+    "Longitude": "-74.00712",
+    "Artist": 657
+  },
+  {
+    "Latitude": "37.27188",
+    "City": "California",
+    "genre": [
+      "classic rock",
+      "heavy metal",
+      "tribal house",
+      "rock 'n roll",
+      "hard rock",
+      "pop rock"
+    ],
+    "Longitude": "-119.27023",
+    "Artist": 658
+  },
+  {
+    "Latitude": "38.8991",
+    "City": "Washington",
+    "genre": [
+      "ccm",
+      "pop",
+      "piano",
+      "spiritual",
+      "jazz",
+      "christian"
+    ],
+    "Longitude": "-77.029",
+    "Artist": 659
+  },
+  {
+    "Latitude": "60.99655",
+    "City": "HÃ¤meenlinna",
+    "genre": [
+      "german pop",
+      "pop rock",
+      "ballad",
+      "folk rock",
+      "disco",
+      "humppa"
+    ],
+    "Longitude": "24.49511",
+    "Artist": 660
+  },
+  {
+    "Latitude": "35.78032",
+    "City": "Centerville, TN",
+    "genre": [
+      "disco",
+      "memphis soul",
+      "funk",
+      "northern soul",
+      "jazz funk",
+      "southern soul"
+    ],
+    "Longitude": "-87.46671",
+    "Artist": 661
+  },
+  {
+    "Latitude": "32.77815",
+    "City": "Dallas, TX",
+    "genre": [
+      "blues-rock",
+      "texas blues",
+      "electric blues",
+      "blues",
+      "garage rock",
+      "singer-songwriter"
+    ],
+    "Longitude": "-96.7954",
+    "Artist": 662
+  },
+  {
+    "Latitude": "39.73926",
+    "City": "Champagne, IL",
+    "genre": [
+      "jazz fusion",
+      "instrumental rock",
+      "progressive rock",
+      "jazz",
+      "rock",
+      "progressive"
+    ],
+    "Longitude": "-89.50409",
+    "Artist": 663
+  },
+  {
+    "Latitude": "39.95227",
+    "City": "Philadelphia, PA",
+    "genre": [
+      "brill building pop",
+      "smooth jazz",
+      "easy listening",
+      "progressive trance",
+      "jazz",
+      "deep house"
+    ],
+    "Longitude": "-75.16237",
+    "Artist": 664
+  },
+  {
+    "Latitude": "32.34747",
+    "City": "Tyler Texas USA",
+    "genre": [
+      "happy hardcore",
+      "hardcore techno",
+      "video game music",
+      "rave",
+      "techno",
+      "reggae"
+    ],
+    "Longitude": "-95.2943",
+    "Artist": 665
+  },
+  {
+    "Latitude": "34.05349",
+    "City": "Sydney, Australia",
+    "genre": [
+      "post-grunge",
+      "classic rock",
+      "emo",
+      "progressive rock",
+      "rock",
+      "punk"
+    ],
+    "Longitude": "-118.24532",
+    "Artist": 666
+  },
+  {
+    "Latitude": "43.64856",
+    "City": "Toronto, Ontario, Canada",
+    "genre": [
+      "hard rock",
+      "symphonic rock",
+      "trip hop",
+      "j pop",
+      "neo-progressive",
+      "chill-out"
+    ],
+    "Longitude": "-79.38533",
+    "Artist": 667
+  },
+  {
+    "Latitude": "37.87869",
+    "City": "Bay Area, CA",
+    "genre": [
+      "ska punk",
+      "punk pop",
+      "punk revival",
+      "ska",
+      "reggae",
+      "third wave ska revival"
+    ],
+    "Longitude": "-121.94345",
+    "Artist": 668
+  },
+  {
+    "Latitude": "56.87546",
+    "City": "Latvia",
+    "genre": [
+      "easy listening",
+      "chill-out",
+      "acid jazz",
+      "dub",
+      "downtempo",
+      "post rock"
+    ],
+    "Longitude": "24.6075",
+    "Artist": 669
+  },
+  {
+    "Latitude": "50.63718",
+    "City": "Lille (59)",
+    "genre": [
+      "chanson",
+      "ska",
+      "reggae",
+      "chanson francaise",
+      "french",
+      "humorous"
+    ],
+    "Longitude": "3.06281",
+    "Artist": 670
+  },
+  {
+    "Latitude": "51.50632",
+    "City": "London",
+    "genre": [
+      "disco",
+      "pop rock",
+      "soundtrack",
+      "funk",
+      "rock",
+      "argentina"
+    ],
+    "Longitude": "-0.12714",
+    "Artist": 671
+  },
+  {
+    "Latitude": "64.95014",
+    "City": "Finland",
+    "genre": [
+      "progressive house",
+      "hard house",
+      "future jazz",
+      "hard trance",
+      "downtempo",
+      "trip hop"
+    ],
+    "Longitude": "26.06739",
+    "Artist": 672
+  },
+  {
+    "Latitude": "39.75911",
+    "City": "Dayton, OH",
+    "genre": [
+      "folk-pop",
+      "outlaw country",
+      "alternative country",
+      "country rock",
+      "psychedelic trance",
+      "classic country"
+    ],
+    "Longitude": "-84.19444",
+    "Artist": 673
+  },
+  {
+    "Latitude": "36.73112",
+    "City": "West Plains, MO",
+    "genre": [
+      "classic country",
+      "country rock",
+      "country blues",
+      "oldies",
+      "female vocalist",
+      "country pop"
+    ],
+    "Longitude": "-91.85307",
+    "Artist": 674
+  },
+  {
+    "Latitude": "37.82245",
+    "City": "FL,GA,KY",
+    "genre": [
+      "post-grunge",
+      "nu metal",
+      "alternative metal",
+      "modern rock",
+      "groove metal",
+      "melodic metalcore"
+    ],
+    "Longitude": "-85.69091",
+    "Artist": 675
+  },
+  {
+    "Latitude": "40.99471",
+    "City": "Pennsylvania",
+    "genre": [
+      "hip hop",
+      "rap",
+      "horrorcore",
+      "underground rap",
+      "pennsylvania",
+      "lyrical"
+    ],
+    "Longitude": "-77.60454",
+    "Artist": 676
+  },
+  {
+    "Latitude": "38.03213",
+    "City": "Charlottesville, VA",
+    "genre": [
+      "free music",
+      "folk rock",
+      "indie rock",
+      "lo-fi",
+      "indie",
+      "alternative"
+    ],
+    "Longitude": "-78.47753",
+    "Artist": 677
+  },
+  {
+    "Latitude": "36.16778",
+    "City": "Nashville, TN.",
+    "genre": [
+      "teen pop",
+      "country rock",
+      "country music",
+      "female vocalist",
+      "country",
+      "pop"
+    ],
+    "Longitude": "-86.77836",
+    "Artist": 678
+  },
+  {
+    "Latitude": "36.71832",
+    "City": "Malaga,Spanija",
+    "genre": [
+      "celtic",
+      "male vocalist",
+      "rock",
+      "spanish",
+      "pop",
+      "los angeles"
+    ],
+    "Longitude": "-4.42016",
+    "Artist": 679
+  },
+  {
+    "Latitude": "52.1082",
+    "City": "Netherlands",
+    "genre": [
+      "zouk",
+      "kizomba",
+      "island music",
+      "zouklove",
+      "r&b",
+      "world"
+    ],
+    "Longitude": "5.32986",
+    "Artist": 680
+  },
+  {
+    "Latitude": "41.41013",
+    "City": "Scranton, PA",
+    "genre": [
+      "orchestra",
+      "vaudeville",
+      "ragtime",
+      "easy listening",
+      "jazz",
+      "blues"
+    ],
+    "Longitude": "-75.66079",
+    "Artist": 681
+  },
+  {
+    "Latitude": "36.15398",
+    "City": "Tulsa, Oklahoma",
+    "genre": [
+      "post-grunge",
+      "modern rock",
+      "pop rock",
+      "soft rock",
+      "ballad",
+      "gospel"
+    ],
+    "Longitude": "-95.99277",
+    "Artist": 682
+  },
+  {
+    "Latitude": "41.50075",
+    "City": "Nebraska",
+    "genre": [
+      "broken beat",
+      "breakbeat",
+      "electro",
+      "country",
+      "electronic",
+      "urban"
+    ],
+    "Longitude": "-99.68095",
+    "Artist": 683
+  },
+  {
+    "Latitude": "54.5958",
+    "City": "Belfast, Northern Ireland",
+    "genre": [
+      "celtic",
+      "irish folk",
+      "classical",
+      "irish",
+      "guitar",
+      "folk"
+    ],
+    "Longitude": "-5.93494",
+    "Artist": 684
+  },
+  {
+    "Latitude": "52.8029",
+    "City": "Stafford, England",
+    "genre": [
+      "breakbeat",
+      "pop rap",
+      "techno",
+      "deep house",
+      "progressive house",
+      "jungle music"
+    ],
+    "Longitude": "-2.10633",
+    "Artist": 685
+  },
+  {
+    "Latitude": "43.64856",
+    "City": "Toronto, Ontario, Canada",
+    "genre": [
+      "instrumental pop",
+      "easy listening",
+      "ballad",
+      "disco",
+      "pop rock",
+      "jazz"
+    ],
+    "Longitude": "-79.38533",
+    "Artist": 686
+  },
+  {
+    "Latitude": "64.55653",
+    "City": "Norway",
+    "genre": [
+      "sympho black metal",
+      "black metal",
+      "melodic black metal",
+      "viking metal",
+      "extreme metal",
+      "blackened death metal"
+    ],
+    "Longitude": "12.66538",
+    "Artist": 687
+  },
+  {
+    "Latitude": "35.83073",
+    "City": "Tennessee",
+    "genre": [
+      "rock 'n roll",
+      "oldies",
+      "country music",
+      "country rock",
+      "ballad",
+      "british invasion"
+    ],
+    "Longitude": "-85.97874",
+    "Artist": 688
+  },
+  {
+    "Latitude": "35.52069",
+    "City": "Madisonville, TN",
+    "genre": [
+      "honky tonk",
+      "classic country",
+      "traditional country",
+      "country pop",
+      "rockabilly",
+      "oldies"
+    ],
+    "Longitude": "-84.36354",
+    "Artist": 689
+  },
+  {
+    "Latitude": "18.22328",
+    "City": "Puerto Rico",
+    "genre": [
+      "merengue",
+      "salsa",
+      "dance",
+      "female vocalist",
+      "latin pop",
+      "pop"
+    ],
+    "Longitude": "-66.42889",
+    "Artist": 690
+  },
+  {
+    "Latitude": "34.05349",
+    "City": "California - LA",
+    "genre": [
+      "blues-rock",
+      "piano blues",
+      "harmonica blues",
+      "chicago blues",
+      "blues",
+      "hard house"
+    ],
+    "Longitude": "-118.24532",
+    "Artist": 691
+  },
+  {
+    "Latitude": "25.89958",
+    "City": "Brownsville, TX",
+    "genre": [
+      "western swing",
+      "bluegrass",
+      "singer-songwriter",
+      "country",
+      "americana",
+      "country music"
+    ],
+    "Longitude": "-97.49553",
+    "Artist": 692
+  },
+  {
+    "Latitude": "23.1168",
+    "City": "Havana, Cuba",
+    "genre": [
+      "latin jazz",
+      "jazz",
+      "jazz funk",
+      "cool jazz",
+      "soul jazz",
+      "smooth jazz"
+    ],
+    "Longitude": "-82.38859",
+    "Artist": 693
+  },
+  {
+    "Latitude": "41.88415",
+    "City": "Chicago, IL",
+    "genre": [
+      "smooth jazz",
+      "bebop",
+      "cool jazz",
+      "jazz funk",
+      "soul jazz",
+      "rock 'n roll"
+    ],
+    "Longitude": "-87.63241",
+    "Artist": 694
+  },
+  {
+    "Latitude": "-34.60852",
+    "City": "Buenos Aires",
+    "genre": [
+      "cumbia",
+      "murga",
+      "rock 'n roll",
+      "argentine rock",
+      "quartet",
+      "ska punk"
+    ],
+    "Longitude": "-58.37354",
+    "Artist": 695
+  },
+  {
+    "Latitude": "40.71455",
+    "City": "NY - New York City",
+    "genre": [
+      "folk-pop",
+      "easy listening",
+      "alternative country",
+      "countrypolitan",
+      "folk",
+      "folk rock"
+    ],
+    "Longitude": "-74.00712",
+    "Artist": 696
+  },
+  {
+    "Latitude": "40.71455",
+    "City": "NY - New York City",
+    "genre": [
+      "rock 'n roll",
+      "shock rock",
+      "straight edge",
+      "hardcore punk",
+      "grunge",
+      "punk"
+    ],
+    "Longitude": "-74.00712",
+    "Artist": 697
+  },
+  {
+    "Latitude": "40.01574",
+    "City": "Boulder, CO",
+    "genre": [
+      "electro",
+      "alternative rock",
+      "rock",
+      "alternative",
+      "alternative rap",
+      "rap"
+    ],
+    "Longitude": "-105.27924",
+    "Artist": 698
+  },
+  {
+    "Latitude": "54.48303",
+    "City": "Egremont, Cumbria, England",
+    "genre": [
+      "singer-songwriter",
+      "art rock",
+      "soundtrack",
+      "progressive rock",
+      "pop rock",
+      "alternative rock"
+    ],
+    "Longitude": "-3.53444",
+    "Artist": 699
+  },
+  {
+    "Latitude": "-24.9162",
+    "City": "Australia",
+    "genre": [
+      "power pop",
+      "garage rock",
+      "jangle pop",
+      "indie pop",
+      "rock",
+      "indie rock"
+    ],
+    "Longitude": "133.39311",
+    "Artist": 700
+  },
+  {
+    "Latitude": "39.74001",
+    "City": "Denver, CO",
+    "genre": [
+      "piano rock",
+      "alternative rock",
+      "classic rock",
+      "rock",
+      "indie rock",
+      "pop"
+    ],
+    "Longitude": "-104.99226",
+    "Artist": 701
+  },
+  {
+    "Latitude": "40.73197",
+    "City": "Newark, NJ",
+    "genre": [
+      "brill building pop",
+      "oldies",
+      "rock 'n roll",
+      "rockabilly",
+      "rock",
+      "los angeles"
+    ],
+    "Longitude": "-74.17418",
+    "Artist": 702
+  },
+  {
+    "Latitude": "52.50524",
+    "City": "UK - England - West Midlands",
+    "genre": [
+      "straight edge",
+      "downtempo",
+      "breakbeat",
+      "jam band",
+      "instrumental rock",
+      "blues-rock"
+    ],
+    "Longitude": "-1.81531",
+    "Artist": 703
+  },
+  {
+    "Latitude": "51.50632",
+    "City": "London, England",
+    "genre": [
+      "dance rock",
+      "alternative dance",
+      "experimental rock",
+      "noise rock",
+      "madchester",
+      "art rock"
+    ],
+    "Longitude": "-0.12714",
+    "Artist": 704
+  },
+  {
+    "Latitude": "37.8695",
+    "City": "Berkeley, CA",
+    "genre": [
+      "roots rock",
+      "heartland rock",
+      "rock",
+      "country",
+      "americana",
+      "rockabilly"
+    ],
+    "Longitude": "-122.2705",
+    "Artist": 705
+  },
+  {
+    "Latitude": "40.99471",
+    "City": "Pennsylvania",
+    "genre": [
+      "jazz fusion",
+      "jam band",
+      "improvisational",
+      "jazz",
+      "synthpop",
+      "soundtrack"
+    ],
+    "Longitude": "-77.60454",
+    "Artist": 706
+  },
+  {
+    "Latitude": "41.76332",
+    "City": "Hartford, CT",
+    "genre": [
+      "brill building pop",
+      "honky tonk",
+      "pop rock",
+      "ballad",
+      "rock 'n roll",
+      "classic country"
+    ],
+    "Longitude": "-72.67407",
+    "Artist": 57
+  },
+  {
+    "Latitude": "44.97903",
+    "City": "Minneapolis, MN",
+    "genre": [
+      "dance pop",
+      "disco",
+      "neo soul",
+      "downtempo",
+      "deep house",
+      "new jack swing"
+    ],
+    "Longitude": "-93.26493",
+    "Artist": 707
+  },
+  {
+    "Latitude": "37.77916",
+    "City": "San Francisco, California",
+    "genre": [
+      "blues-rock",
+      "hip hop",
+      "rap",
+      "rock",
+      "san francisco",
+      "album rock"
+    ],
+    "Longitude": "-122.42005",
+    "Artist": 708
+  },
+  {
+    "Latitude": "31.1689",
+    "City": "Texas",
+    "genre": [
+      "latin jazz",
+      "free jazz",
+      "jazz",
+      "improvisational",
+      "funk",
+      "soundtrack"
+    ],
+    "Longitude": "-100.07715",
+    "Artist": 709
+  },
+  {
+    "Latitude": "59.91228",
+    "City": "Oslo, Norway",
+    "genre": [
+      "blues",
+      "metal",
+      "comedy",
+      "classic rock",
+      "rock",
+      "political"
+    ],
+    "Longitude": "10.74998",
+    "Artist": 710
+  },
+  {
+    "Latitude": "40.71455",
+    "City": "NY - New York City",
+    "genre": [
+      "marrabenta",
+      "world beat",
+      "mozambique",
+      "soukous",
+      "world music",
+      "world"
+    ],
+    "Longitude": "-74.00712",
+    "Artist": 711
+  },
+  {
+    "Latitude": "32.74838",
+    "City": "Ocean Beach, San Diego, CA",
+    "genre": [
+      "ska punk",
+      "reggae",
+      "dub",
+      "rock",
+      "psychedelic",
+      "punk pop"
+    ],
+    "Longitude": "-117.24681",
+    "Artist": 712
+  },
+  {
+    "Latitude": "34.04597",
+    "City": "Mt. San Antonio College, CA",
+    "genre": [
+      "close harmony",
+      "latin jazz",
+      "pop rock",
+      "easy listening",
+      "folk rock",
+      "oldies"
+    ],
+    "Longitude": "-117.84881",
+    "Artist": 713
+  },
+  {
+    "Latitude": "34.05349",
+    "City": "California - LA",
+    "genre": [
+      "musette",
+      "downtempo",
+      "trance",
+      "future jazz",
+      "hard trance",
+      "chanson"
+    ],
+    "Longitude": "-118.24532",
+    "Artist": 714
+  },
+  {
+    "Latitude": "34.05349",
+    "City": "California - LA",
+    "genre": [
+      "meditation",
+      "easy listening",
+      "new age",
+      "ambient",
+      "classical",
+      "soundtrack"
+    ],
+    "Longitude": "-118.24532",
+    "Artist": 715
+  },
+  {
+    "Latitude": "35.36302",
+    "City": "Rosemark, TN",
+    "genre": [
+      "soul blues",
+      "texas blues",
+      "r&b",
+      "memphis blues",
+      "blues",
+      "delta blues"
+    ],
+    "Longitude": "-89.77895",
+    "Artist": 716
+  },
+  {
+    "Latitude": "54.31392",
+    "City": "Great Britain / UK",
+    "genre": [
+      "lovers rock",
+      "pop rap",
+      "reggae",
+      "hip hop",
+      "dancehall",
+      "downtempo"
+    ],
+    "Longitude": "-2.23218",
+    "Artist": 717
+  },
+  {
+    "Latitude": "29.95244",
+    "City": "Algiers, LA",
+    "genre": [
+      "singer-songwriter",
+      "united states",
+      "world",
+      "country",
+      "rock",
+      "classic blues"
+    ],
+    "Longitude": "-90.05202",
+    "Artist": 718
+  },
+  {
+    "Latitude": "55.8578",
+    "City": "Glasgow, Scotland",
+    "genre": [
+      "blue-eyed soul",
+      "pop rock",
+      "soft rock",
+      "madchester",
+      "ballad",
+      "adult contemporary"
+    ],
+    "Longitude": "-4.24251",
+    "Artist": 719
+  },
+  {
+    "Latitude": "51.50632",
+    "City": "North London, England",
+    "genre": [
+      "pop rock",
+      "british invasion",
+      "freakbeat",
+      "disco",
+      "classic rock",
+      "funk"
+    ],
+    "Longitude": "-0.12714",
+    "Artist": 720
+  },
+  {
+    "Latitude": "8.4177",
+    "City": "Panama",
+    "genre": [
+      "latin jazz",
+      "future jazz",
+      "brazilian jazz",
+      "piano blues",
+      "broken beat",
+      "acid jazz"
+    ],
+    "Longitude": "-80.11278",
+    "Artist": 721
+  },
+  {
+    "Latitude": "47.60356",
+    "City": "Seattle, WA",
+    "genre": [
+      "grunge",
+      "hard rock",
+      "rock",
+      "alternative rock",
+      "alternative",
+      "alternative pop rock"
+    ],
+    "Longitude": "-122.32944",
+    "Artist": 722
+  },
+  {
+    "Latitude": "-22.97673",
+    "City": "Rio de Janeiro",
+    "genre": [
+      "samba",
+      "folk-pop",
+      "country rock",
+      "folk rock",
+      "blues",
+      "soft rock"
+    ],
+    "Longitude": "-43.19508",
+    "Artist": 723
+  }
+]
