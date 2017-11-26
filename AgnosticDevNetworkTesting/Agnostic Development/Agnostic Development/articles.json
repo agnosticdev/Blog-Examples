@@ -1,0 +1,50 @@
+[
+	{
+		"title": "Attending WWDC 2017",
+		"date": "Sat, 04/29/2017 - 04:46 PM",
+		"description": "This year my employer, LexTech Global Services, offered to sponsor my trip to WWDC 2017 if I was lucky enough to win a ticket in the lottery - and I did!  I am very lucky to have received such a generous gesture on behalf of LexTech and it is very exciting from a technology perspective to be attending my first ever WWDC live and in person for many different reasons.  First and foremost, I think it will be exciting to be as WWDC, live, and in-person for the keynote, the hands-on sessions, and all of the different announcements that will take place over the course of the conference.",
+		"URLLink": "http://www.agnosticdev.com/blog-entry/ios/attending-wwdc-2017"
+	},
+	{
+		"title": "Python Standard Library Implementation of Partial",
+		"date": "Sun, 04/23/2017 - 12:57 PM",
+		"description": "Recently, I was working on some Python code where I needed to keep track of an ordered list of functions to where I could call these functions again at any given time based upon a numeric index.  Think of this situation like a list keeping track of an object by index, but instead, I wanted to keep track of a functions by index.",
+		"URLLink": "http://www.agnosticdev.com/blog-entry/python/python-standard-library-implementation-partial"
+	},
+	{
+		"title": "Designing Architecture that Scales with your Product",
+		"date": "Sat, 03/04/2017 - 08:33 PM",
+		"description": "Designing server architecture to support multiple applications can be a very tricky and intimidating task to take on.  So many different things need to be considered when designing your first initial implementation that often times engineers will find themselves over engineering an achitecture all at once instead of building for their immediate needs and planning to scale over a period of time.",
+		"URLLink": "http://www.agnosticdev.com/blog-entry/web-services/designing-architecture-scales-your-product"
+	},
+	{
+		"title": "Python Prime Number Computation",
+		"date": "Sun, 02/19/2017 - 03:18 AM",
+		"description": "I was recently asked in a computational project to generate prime numbers to be used in public key hashing routines.  The idea was that I needed to write an algorithm that finds prime numbers between a specific range and then those prime numbers would be randomly assigned to a list and then multiplied together in sequence to produce large complex numbers that would then, in turn, be concatenated together to form variations of public keys.",
+		"URLLink": "http://www.agnosticdev.com/blog-entry/python/python-prime-number-computation"
+	},
+	{
+		"title": "Researching MVVM in Swift",
+		"date": "Sun, 10/30/2016 - 03:57 AM",
+		"description": "A topic that I have been hearing a lot about lately is the MVVM design pattern.  MVVM stands for Mode-View View Model and is intended to solve some of the concerns that have resulted from using the MVC design pattern - specifically in the context of iOS.  While MVVM is certainly not an iOS specific design pattern, I did conduct some further research into MVVM using iOS as my research platform because I I wanted to try and figure out if MVVM could be a design pattern that fixes some of the issues that I have run into when developing large MVC iOS applications.",
+		"URLLink": "http://www.agnosticdev.com/blog-entry/swift/researching-mvvm-swift"
+	},
+	{
+		"title": "Testing for all types of iOS Applications using XCTest",
+		"date": "Sun, 10/09/2016 - 02:10 PM",
+		"description": "This week I heard some chatter in certain iOS groups that I belong to about whether testing your iOS, macOS, watchOS, or tvOS applications provided any immediate value in the development life cycle.  As opposed to developing features without testing and getting them to market right away and then iterating upon them in a highly agile methodology.  Coming from a background where I like to write a lot of automated tests and system tests for software that I write, I have to admit, this point of view really made me pause for a moment to try and see the perspective from both sides.",
+		"URLLink": "http://www.agnosticdev.com/blog-entry/testing/testing-all-types-ios-applications-using-xctest"
+	},
+	{
+		"title": "Swift Linked List Data Structure",
+		"date": "Sun, 10/02/2016 - 01:24 AM",
+		"description": "Today I was analyzing a potential bottleneck in some computation I was doing with Swift and thought I would try a basic linked list data structure to store data instead of an array.  It soon dawned on me that I have never created a linked list in Swift before and thought this might be a good opportunity for a Swift Playground to test out my idea.  Sure enough, using Playgrounds was a great way to test out my code and make sure it was running the way I wanted it to before integrating it into my project.",
+		"URLLink": "http://www.agnosticdev.com/blog-entry/swift/swift-linked-list-data-structure"
+	},
+	{
+		"title": "Integrating Unity and Vuforia with a iOS Swift Project",
+		"date": "09/17/2016 - 11:09 AM",
+		"description": "Last week I started building an iOS application in Swift 3.0 and Xcode 8 and was able to get a good portion of the application completed.  Towards the end of last week I became aware of the need to integrate a Unity / Vuforia exported project into my existing iOS Swift project to enable an augmented reality feature in the iOS application I was working on.",
+		"URLLink": "http://www.agnosticdev.com/blog-entry/swift/integrating-unity-and-vuforia-ios-swift-project"
+	}
+]
