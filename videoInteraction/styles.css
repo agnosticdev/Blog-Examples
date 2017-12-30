@@ -1,0 +1,28 @@
+
+body{
+     	background-color:#f1f1f1;
+}
+
+.container{
+	width:960px;
+        margin:0 auto;
+        background-color: #fff;
+}
+
+.video-container{
+        width:640px;
+        margin:40px auto;
+        height:390px;
+        position:relative;
+}
+
+.video-embed{
+    position: absolute;;
+        top:0;
+}
+
+.image-overlay{
+        position: absolute;;
+        top:0;
+	cursor: pointer;
+}
