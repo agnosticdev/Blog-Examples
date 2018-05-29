@@ -1,0 +1,5 @@
+module CPython [system] {
+  header "CPython.h"
+  link "python2.7"
+  export *
+}
