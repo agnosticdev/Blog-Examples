@@ -554,13 +554,6 @@ extension PyVal {
 // MARK: `Python` Type Implementation
 //===----------------------------------------------------------------------===//
 
-// We want the user to iteract with Python at the top level through a
-// Python.import("foo") sort of statement.  The problem with this is that we
-// want to ensure that python is initialized on all uses of the Python interface
-// and we want to allow this interface to eventually conform to a protocol that
-// allows dynamic lookup of its members (through the Builtin map).  This will
-// require an instance named "Python", which is unconventional, but does what we
-// need.
 public let Python = PythonInterface()
 
 public struct PythonInterface {
