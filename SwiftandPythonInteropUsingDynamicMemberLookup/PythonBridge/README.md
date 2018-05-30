@@ -1,5 +1,5 @@
 # PythonBridge
 
-Swift package that calls into a Python module to perform some actions and then passes the data back to Swift for display if needed.  An example here would be crunching some numbers on a website (Vapor) and then displaying the computed values.
+Swift library that calls into a Python module to perform some computations or actions and then passes the data back to Swift for display, if needed.  An example here would be crunching some numbers on a website (Vapor) and then displaying the computed values in a web application.
 
-**NOTE** The PythonBridge.swift file in this package was not originally written by me.  This file was an example file that supported the dynamic member lookup proposal that I altered for the demonstrational purposes of interacting with NumPy in Python.
+**NOTE** The PythonBridge.swift file in this library was not originally written by me.  I refactored it for demostration purposes, but did not originally write it.  This file was an example file used to supported the [Dynamic Member Lookup](https://forums.swift.org/t/se-0195-introduce-user-defined-dynamic-member-lookup-types/8658) proposal originally and all credit for this file should be given to the Swift Community.  Having said that, if you are wanting to build your own Python Bridge using Python's C extensions and expose it to Swift, please get in contact with me.  I would love to help.
